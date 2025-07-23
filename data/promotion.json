@@ -1,0 +1,560 @@
+[
+  {
+    "nomPrenom": "ALT Hugo",
+    "option": "SISR",
+    "promotion": 2023,
+    "dateNaissance": "15/05/2000"
+  },
+  {
+    "nomPrenom": "DELATTRE Antoine",
+    "option": "SLAM",
+    "promotion": 2023,
+    "dateNaissance": "22/07/1999"
+  },
+  {
+    "nomPrenom": "FARCY Vincent",
+    "option": "SISR",
+    "promotion": 2023,
+    "dateNaissance": "10/03/2000"
+  },
+  {
+    "nomPrenom": "FREITAS Victor",
+    "option": "SISR",
+    "promotion": 2023,
+    "dateNaissance": "30/11/1999"
+  },
+  {
+    "nomPrenom": "GAMBET Thomas",
+    "option": "SLAM",
+    "promotion": 2023,
+    "dateNaissance": "14/09/2000"
+  },
+  {
+    "nomPrenom": "GOBEAUT Angel",
+    "option": "SISR",
+    "promotion": 2023,
+    "dateNaissance": "25/06/1999"
+  },
+  {
+    "nomPrenom": "GOUSSU Alexandre",
+    "option": "SLAM",
+    "promotion": 2023,
+    "dateNaissance": "17/08/2000"
+  },
+  {
+    "nomPrenom": "HAUDEGON Florian",
+    "option": "SISR",
+    "promotion": 2023,
+    "dateNaissance": "03/12/1999"
+  },
+  {
+    "nomPrenom": "ILLARRAZ Hugo",
+    "option": "SLAM",
+    "promotion": 2023,
+    "dateNaissance": "18/04/2000"
+  },
+  {
+    "nomPrenom": "LEFEBVRE Mathieu",
+    "option": "SISR",
+    "promotion": 2023,
+    "dateNaissance": "28/02/1999"
+  },
+  {
+    "nomPrenom": "PAWLIK Alexis",
+    "option": "SISR",
+    "promotion": 2023,
+    "dateNaissance": "12/10/2000"
+  },
+  {
+    "nomPrenom": "RICQUIER Dimitri",
+    "option": "SLAM",
+    "promotion": 2023,
+    "dateNaissance": "27/08/1999"
+  },
+  {
+    "nomPrenom": "SERIN Enzo",
+    "option": "SLAM",
+    "promotion": 2023,
+    "dateNaissance": "05/01/2000"
+  },
+  {
+    "nomPrenom": "VARLET Léo",
+    "option": "SLAM",
+    "promotion": 2023,
+    "dateNaissance": "19/07/1999"
+  },
+  {
+    "nomPrenom": "CARON Emilien",
+    "option": "SLAM",
+    "promotion": 2023,
+    "dateNaissance": "29/11/1998"
+  },
+  {
+    "nomPrenom": "PYRAM Toussaint",
+    "option": "SLAM",
+    "promotion": 2023,
+    "dateNaissance": "30/12/1999"
+  },
+  {
+    "nomPrenom": "HUSIAUX Valentin",
+    "option": "SLAM",
+    "promotion": 2024,
+    "dateNaissance": "15/05/2000"
+  },
+  {
+    "nomPrenom": "BOULONGNE Alexandre",
+    "option": "SLAM",
+    "promotion": 2024,
+    "dateNaissance": "22/07/2001"
+  },
+  {
+    "nomPrenom": "KREMER Anton",
+    "option": "SISR",
+    "promotion": 2024,
+    "dateNaissance": "10/03/2002"
+  },
+  {
+    "nomPrenom": "FOURDAIN Océane",
+    "option": "SISR",
+    "promotion": 2024,
+    "dateNaissance": "30/11/2001"
+  },
+  {
+    "nomPrenom": "DESSOUT Jérémie",
+    "option": "SLAM",
+    "promotion": 2024,
+    "dateNaissance": "14/09/2000"
+  },
+  {
+    "nomPrenom": "DELAPORTE Pierre",
+    "option": "SLAM",
+    "promotion": 2024,
+    "dateNaissance": "25/06/2001"
+  },
+  {
+    "nomPrenom": "CUISINIER Hugo",
+    "option": "SISR",
+    "promotion": 2024,
+    "dateNaissance": "17/08/2002"
+  },
+  {
+    "nomPrenom": "LEGUAY Théo",
+    "option": "SISR",
+    "promotion": 2024,
+    "dateNaissance": "03/12/2000"
+  },
+  {
+    "nomPrenom": "DAWAGNE Jérémy",
+    "option": "SLAM",
+    "promotion": 2024,
+    "dateNaissance": "18/04/2001"
+  },
+  {
+    "nomPrenom": "DUMOULIN Florian",
+    "option": "SISR",
+    "promotion": 2024,
+    "dateNaissance": "28/02/2002"
+  },
+  {
+    "nomPrenom": "NEVES Dylan",
+    "option": "SLAM",
+    "promotion": 2024,
+    "dateNaissance": "12/10/2001"
+  },
+  {
+    "nomPrenom": "DELAPORTE Théo",
+    "option": "SLAM",
+    "promotion": 2024,
+    "dateNaissance": "27/08/2000"
+  },
+  {
+    "nomPrenom": "LEFORT Alexy",
+    "option": "SLAM",
+    "promotion": 2024,
+    "dateNaissance": "05/01/2002"
+  },
+  {
+    "nomPrenom": "MAILLARD Grégroire",
+    "option": "SLAM",
+    "promotion": 2024,
+    "dateNaissance": "19/07/2001"
+  },
+  {
+    "nomPrenom": "TRICOTET Baptiste",
+    "option": "SISR",
+    "promotion": 2024,
+    "dateNaissance": "29/11/2000"
+  },
+  {
+    "nomPrenom": "OUTREBON Pierre",
+    "option": "SISR",
+    "promotion": 2024,
+    "dateNaissance": "08/04/2002"
+  },
+  {
+    "nomPrenom": "MARTIN Aurélien",
+    "option": "SLAM",
+    "promotion": 2024,
+    "dateNaissance": "14/09/2001"
+  },
+  {
+    "nomPrenom": "CREUZOT Jules",
+    "option": "SLAM",
+    "promotion": 2024,
+    "dateNaissance": "30/12/2000"
+  },
+  {
+    "nomPrenom": "LEFORT Pierre",
+    "option": "SISR",
+    "promotion": 2024,
+    "dateNaissance": "22/06/2002"
+  },
+  {
+    "nomPrenom": "LEFORT Alban",
+    "option": "SLAM",
+    "promotion": 2024,
+    "dateNaissance": "07/03/2001"
+  },
+  {
+    "nomPrenom": "LEFORT Cédric",
+    "option": "SISR",
+    "promotion": 2024,
+    "dateNaissance": "15/10/2000"
+  },
+  {
+    "nomPrenom": "MONASTIRI Raphaël",
+    "option": "SLAM",
+    "promotion": 2024,
+    "dateNaissance": "28/01/2002"
+  },
+  {
+    "nomPrenom": "BAKASSI Soulaimane",
+    "option": "SLAM",
+    "promotion": 2025,
+    "dateNaissance": "15/05/2007"
+  },
+  {
+    "nomPrenom": "BERNARD Julien",
+    "option": "SISR",
+    "promotion": 2025,
+    "dateNaissance": "22/07/2007"
+  },
+  {
+    "nomPrenom": "BOURRE Mathéo",
+    "option": "SLAM",
+    "promotion": 2025,
+    "dateNaissance": "10/03/2006"
+  },
+  {
+    "nomPrenom": "BOULARBI Meddhy",
+    "option": "SISR",
+    "promotion": 2025,
+    "dateNaissance": "30/11/2006"
+  },
+  {
+    "nomPrenom": "CARON Adam",
+    "option": "SLAM",
+    "promotion": 2025,
+    "dateNaissance": "14/09/2007"
+  },
+  {
+    "nomPrenom": "CHARKAOUI Rayane",
+    "option": "SISR",
+    "promotion": 2025,
+    "dateNaissance": "25/06/2006"
+  },
+  {
+    "nomPrenom": "CHASTAGNER Arthur",
+    "option": "SLAM",
+    "promotion": 2025,
+    "dateNaissance": "17/08/2007"
+  },
+  {
+    "nomPrenom": "COULON Alexandre",
+    "option": "SISR",
+    "promotion": 2025,
+    "dateNaissance": "03/12/2006"
+  },
+  {
+    "nomPrenom": "DEME Yero",
+    "option": "SLAM",
+    "promotion": 2025,
+    "dateNaissance": "18/04/2007"
+  },
+  {
+    "nomPrenom": "DUBOIS Alexandre",
+    "option": "SISR",
+    "promotion": 2025,
+    "dateNaissance": "28/02/2006"
+  },
+  {
+    "nomPrenom": "JOIRON Enzo",
+    "option": "SLAM",
+    "promotion": 2025,
+    "dateNaissance": "05/01/2007"
+  },
+  {
+    "nomPrenom": "JOSSE Thomas",
+    "option": "SISR",
+    "promotion": 2025,
+    "dateNaissance": "19/07/2006"
+  },
+  {
+    "nomPrenom": "LANDAZ Thibault",
+    "option": "SLAM",
+    "promotion": 2025,
+    "dateNaissance": "29/11/2007"
+  },
+  {
+    "nomPrenom": "LE CANU Mathis",
+    "option": "SISR",
+    "promotion": 2025,
+    "dateNaissance": "08/04/2006"
+  },
+  {
+    "nomPrenom": "LION Ziggy",
+    "option": "SLAM",
+    "promotion": 2025,
+    "dateNaissance": "14/09/2007"
+  },
+  {
+    "nomPrenom": "LONGBY Renedi",
+    "option": "SISR",
+    "promotion": 2025,
+    "dateNaissance": "25/06/2006"
+  },
+  {
+    "nomPrenom": "LOURDEL Mathis",
+    "option": "SLAM",
+    "promotion": 2025,
+    "dateNaissance": "17/08/2007"
+  },
+  {
+    "nomPrenom": "MORALES Simon",
+    "option": "SISR",
+    "promotion": 2025,
+    "dateNaissance": "03/12/2006"
+  },
+  {
+    "nomPrenom": "NEDELEC Flore",
+    "option": "SLAM",
+    "promotion": 2025,
+    "dateNaissance": "18/04/2007"
+  },
+  {
+    "nomPrenom": "NERI Enzo",
+    "option": "SISR",
+    "promotion": 2025,
+    "dateNaissance": "28/02/2006"
+  },
+  {
+    "nomPrenom": "PARIS Thomas",
+    "option": "SLAM",
+    "promotion": 2025,
+    "dateNaissance": "05/01/2007"
+  },
+  {
+    "nomPrenom": "RICHARD Tom",
+    "option": "SISR",
+    "promotion": 2025,
+    "dateNaissance": "19/07/2006"
+  },
+  {
+    "nomPrenom": "ROELENS Gabriel",
+    "option": "SLAM",
+    "promotion": 2025,
+    "dateNaissance": "29/11/2007"
+  },
+  {
+    "nomPrenom": "SOUKTANI Léo",
+    "option": "SISR",
+    "promotion": 2025,
+    "dateNaissance": "08/04/2006"
+  },
+  {
+    "nomPrenom": "SUBERU Moubarak",
+    "option": "SLAM",
+    "promotion": 2025,
+    "dateNaissance": "14/09/2007"
+  },
+  {
+    "nomPrenom": "TATTEGRAIN Noa",
+    "option": "SISR",
+    "promotion": 2025,
+    "dateNaissance": "25/06/2006"
+  },
+  {
+    "nomPrenom": "TISON Claire",
+    "option": "SLAM",
+    "promotion": 2025,
+    "dateNaissance": "17/08/2007"
+  },
+  {
+    "nomPrenom": "BALDE Aissatou Loundou",
+    "option": "SISR",
+    "promotion": 2026,
+    "dateNaissance": "11/12/2006"
+  },
+  {
+    "nomPrenom": "BOILET Kameron",
+    "option": "SISR",
+    "promotion": 2026,
+    "dateNaissance": "06/05/2006"
+  },
+  {
+    "nomPrenom": "BOULLY Alexandre",
+    "option": "SLAM",
+    "promotion": 2026,
+    "dateNaissance": "21/12/2006"
+  },
+  {
+    "nomPrenom": "CAUET Jules",
+    "option": "SISR",
+    "promotion": 2026,
+    "dateNaissance": "16/06/2003"
+  },
+  {
+    "nomPrenom": "CAZIN Tom",
+    "option": "SLAM",
+    "promotion": 2026,
+    "dateNaissance": "05/06/2006"
+  },
+  {
+    "nomPrenom": "DIANI Ismael",
+    "option": "SLAM",
+    "promotion": 2026,
+    "dateNaissance": "13/10/2004"
+  },
+  {
+    "nomPrenom": "DUMONT Hugo",
+    "option": "SISR",
+    "promotion": 2026,
+    "dateNaissance": "30/04/2006"
+  },
+  {
+    "nomPrenom": "DUPRESSOIR Mathieu",
+    "option": "SLAM",
+    "promotion": 2026,
+    "dateNaissance": "31/10/2003"
+  },
+  {
+    "nomPrenom": "DUPUIS Thomas",
+    "option": "SISR",
+    "promotion": 2026,
+    "dateNaissance": "28/05/2006"
+  },
+  {
+    "nomPrenom": "EBELLE MAKONGUE Jean-Pascal",
+    "option": "SISR",
+    "promotion": 2026,
+    "dateNaissance": "14/06/2003"
+  },
+  {
+    "nomPrenom": "GARNIER Kyllian",
+    "option": "SLAM",
+    "promotion": 2026,
+    "dateNaissance": "20/11/2006"
+  },
+  {
+    "nomPrenom": "HERNU Valentin",
+    "option": "SLAM",
+    "promotion": 2026,
+    "dateNaissance": "15/03/2006"
+  },
+  {
+    "nomPrenom": "KARACA Atilla",
+    "option": "SISR",
+    "promotion": 2026,
+    "dateNaissance": "27/04/2005"
+  },
+  {
+    "nomPrenom": "LOEMBA Guy-Landry",
+    "option": "SISR",
+    "promotion": 2026,
+    "dateNaissance": "07/03/2006"
+  },
+  {
+    "nomPrenom": "MAILLE Natan",
+    "option": "SLAM",
+    "promotion": 2026,
+    "dateNaissance": "28/08/2006"
+  },
+  {
+    "nomPrenom": "MARGOTIN Paul",
+    "option": "SISR",
+    "promotion": 2026,
+    "dateNaissance": "11/12/2005"
+  },
+  {
+    "nomPrenom": "MENSAH Daniel",
+    "option": "SLAM",
+    "promotion": 2026,
+    "dateNaissance": "02/01/2002"
+  },
+  {
+    "nomPrenom": "MERCIER Alexi",
+    "option": "SISR",
+    "promotion": 2026,
+    "dateNaissance": "17/01/2005"
+  },
+  {
+    "nomPrenom": "MERVILLE Lucas",
+    "option": "SISR",
+    "promotion": 2026,
+    "dateNaissance": "09/01/2006"
+  },
+  {
+    "nomPrenom": "MILLE Edouard",
+    "option": "SLAM",
+    "promotion": 2026,
+    "dateNaissance": "09/03/2005"
+  },
+  {
+    "nomPrenom": "MORTELETTE Clément",
+    "option": "SISR",
+    "promotion": 2026,
+    "dateNaissance": "19/01/2006"
+  },
+  {
+    "nomPrenom": "NOUHI Marwan",
+    "option": "SISR",
+    "promotion": 2026,
+    "dateNaissance": "10/09/2004"
+  },
+  {
+    "nomPrenom": "PAYET Théo",
+    "option": "SISR",
+    "promotion": 2026,
+    "dateNaissance": "09/09/2005"
+  },
+  {
+    "nomPrenom": "POINTIN Samson",
+    "option": "SISR",
+    "promotion": 2026,
+    "dateNaissance": "01/02/2005"
+  },
+  {
+    "nomPrenom": "ROGER Mathys",
+    "option": "SISR",
+    "promotion": 2026,
+    "dateNaissance": "21/05/2006"
+  },
+  {
+    "nomPrenom": "VASSEUR Lorenzo",
+    "option": "SLAM",
+    "promotion": 2026,
+    "dateNaissance": "06/03/2004"
+  },
+  {
+    "nomPrenom": "YILDIZ Muhammedali",
+    "option": "SLAM",
+    "promotion": 2026,
+    "dateNaissance": "13/05/2004"
+  },
+  {
+    "nomPrenom": "ZON Jeremy",
+    "option": "SLAM",
+    "promotion": 2026,
+    "dateNaissance": "25/02/2006"
+  }
+]

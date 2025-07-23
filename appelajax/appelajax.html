@@ -1,0 +1,152 @@
+<div class="row">
+
+    <!-- Colonne formulaire -->
+    <div class="col-12 col-md-6 mb-3">
+        <div class="formulaire">
+            <!-- Nom -->
+            <div class="champ">
+                <label for="nom" class="obligatoire" style="max-width: 100px">Nom</label>
+                <input id="nom"
+                       type="text"
+                       class="form-control"
+                       required
+                       minlength="1"
+                       maxlength="30"
+                       pattern="^[a-zA-Z]+([' \-]?[a-zA-Z]+)*$"
+                       autocomplete="off">
+            </div>
+
+            <!-- Prénom -->
+            <div class="champ">
+                <label for="prenom" class="obligatoire" style="max-width: 100px">Prénom</label>
+                <input id="prenom"
+                       style="max-width: 100px"
+                       type="text"
+                       class="form-control"
+                       required
+                       minlength="1"
+                       maxlength="30"
+                       pattern="^[A-Za-zÀÁÂÃÄÅÇÈÉÊËÌÍÎÏÒÓÔÕÖÙÚÛÜÝàáâãäåçèéêëìíîïðòóôõöùúûüýÿ]([A-Za-zÀÁÂÃÄÅÇÈÉÊËÌÍÎÏÒÓÔÕÖÙÚÛÜÝàáâãäåçèéêëìíîïðòóôõöùúûüýÿ '\-]*[A-Za-zÀÁÂÃÄÅÇÈÉÊËÌÍÎÏÒÓÔÕÖÙÚÛÜÝàáâãäåçèéêëìíîïðòóôõöùúûüýÿ])*$"
+                       autocomplete="off">
+            </div>
+
+            <!-- Bouton -->
+            <div class="d-flex justify-content-evenly">
+                <button id="btnAjouter" class="btn btn-sm btn-danger mt-3">Ajouter</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Colonne tableau -->
+    <div class="col-12 col-md-6">
+        <!-- Bouton -->
+        <div class="d-flex justify-content-evenly">
+            <button id="btnInit" class="btn btn-sm btn-danger mt-3">Réinitialiser</button>
+        </div>
+        <div class="table-responsive mt-3">
+            <table class="table table-sm table-borderless table-hover tablesorter-bootstrap">
+                <thead>
+                <tr>
+                    <th class="col">Nom et prénom</th>
+                </tr>
+                </thead>
+                <tbody id="lesLignes"></tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<pre><code>
+    "use strict";
+
+// -----------------------------------------------------------------------------------
+// Import des fonctions nécessaires
+// -----------------------------------------------------------------------------------
+
+import {appelAjax} from "/composant/fonction/ajax.js";
+import {configurerFormulaire, donneesValides} from "/composant/fonction/controle.js";
+
+// -----------------------------------------------------------------------------------
+// Déclaration des variables globales
+// -----------------------------------------------------------------------------------
+
+let lesEtudiants = [];
+const lesLignes = document.getElementById('lesLignes');
+const nom = document.getElementById('nom');
+const prenom = document.getElementById('prenom');
+const btnAjouter = document.getElementById('btnAjouter');
+const btnInit = document.getElementById('btnInit');
+
+// -----------------------------------------------------------------------------------
+// Procédures évènementielles
+// -----------------------------------------------------------------------------------
+
+btnAjouter.onclick = () => {
+    if (donneesValides()) {
+        ajouter();
+    }
+};
+
+btnInit.onclick = () => {
+    appelAjax({
+        url: 'ajax/init.php',
+        dataType: 'json',
+        success : (data) => {
+            lesEtudiants = data;
+            afficher();
+        }
+    });
+}
+
+// -----------------------------------------------------------------------------------
+// Fonctions de traitement
+// -----------------------------------------------------------------------------------
+
+function chargerFichier() {
+    appelAjax({
+        url: '/data/etudiant.json',
+        dataType: 'json',
+        success: (data) => {
+            lesEtudiants = data;
+            afficher();
+        }
+    })
+}
+
+function afficher() {
+    lesLignes.innerHTML = '';
+    for (const etudiant of lesEtudiants) {
+        const tr = lesLignes.insertRow();
+        tr.insertCell().innerText = etudiant.nom + ' ' + etudiant.prenom;
+    }
+}
+
+/**
+ * Ajoute un étudiant dans le tableau et réécrit le fichier etudiant.json
+ */
+function ajouter() {
+    const etudiant = {nom: nom.value, prenom: prenom.value};
+    // Ajout dans le tableau
+    lesEtudiants.push(etudiant);
+    // tri sur nom et prénom
+    lesEtudiants.sort((x, y) => x.nom.localeCompare(y.nom) || x.prenom.localeCompare(y.prenom));
+    // réécriture du fichier etudiant.json
+    console.log(JSON.stringify(lesEtudiants))
+    appelAjax({
+        url: 'ajax/rewrite.php',
+        dataType: 'text',
+        data: {
+            lesEtudiants: JSON.stringify(lesEtudiants)
+        }
+    });
+    afficher();
+}
+
+// -----------------------------------------------------------------------------------
+// Programme principal
+// -----------------------------------------------------------------------------------
+chargerFichier();
+// Mise en place des balises div de class 'messageErreur' sur chaque champ de saisie
+configurerFormulaire();
+</code></pre>
+

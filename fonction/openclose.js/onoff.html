@@ -1,0 +1,40 @@
+<div class="row m-1 ">
+    <div class="col-md-6 ">
+        <div id="cadre01" class="card mt-3">
+            <div class="card-header entete ">
+                Titre du cadre 01
+            </div>
+            <div class="card-body"  style="display:block">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. A corporis cupiditate eos laborum
+                mollitia, nisi
+                non pariatur quae quaerat ratione, saepe sit! Ducimus iste laborum odio quia ratione similique
+                ullam.
+            </div>
+        </div>
+
+        <div id="cadre02" class="card mt-3">
+            <div class="card-header entete ">
+                Titre du cadre 02
+                <i id='croixCadre02' class="float-end  bi bi-arrow-bar-up text-white  "></i>
+            </div>
+            <div class="card-body" >
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis impedit incidunt iste
+                laudantium
+                voluptates. Cumque, distinctio eos excepturi id itaque natus officiis optio quae quas quibusdam quis
+                recusandae sit voluptas!
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <pre><code>
+import {initialiserCartesParIds} from "/composant/fonction/openclose.js";
+
+const cadre01 = document.getElementById('cadre01');
+
+
+// Mise en place du système d'ouverture/fermeture uniquement sur le cadre 1
+
+initialiserCartesParIds(["cadre01"]);
+        </code></pre>
+</div>
+

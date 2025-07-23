@@ -1,0 +1,183 @@
+<div class="d-flex justify-content-between mt-3">
+    <p class="mt-3 ">
+        Conversion d'une chaine de format jj/mm/aaaa au format aaaa-mm-jj
+    </p>
+    <button id='btnEncoder' class="btn btn-sm btn-danger my-auto">Lancer le test</button>
+</div>
+
+<pre class='border m-3 p-3 text-danger'>dateFr.value = "02/10/2023";
+dateMySQL.value = encoderDate(dateFr);</pre>
+
+
+<div class="d-flex justify-content-between mt-3">
+    <p class="mt-3 ">
+        Conversion d'une chaine de format aaaa-mm-jj au format jj/mm/aaaa
+    </p>
+    <button id='btnDecoder' class="btn btn-sm btn-danger my-auto">Lancer le test</button>
+</div>
+
+<pre class='border m-3 p-3 text-danger'>dateMySQL.value = "2030-09-01";
+dateFr.value = decoderDate(dateMySQL.value);</pre>
+
+<table style="margin: auto">
+    <tr>
+        <td>
+            <label for="dateFr" class="col-form-label">Date Fr</label>
+        </td>
+        <td>
+            <input id="dateFr" disabled type="text" class='form-control'>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <label for="dateMySQL" class="col-form-label">Date MySQL</label>
+        </td>
+        <td>
+            <input id="dateMySQL" class='form-control' type="text" disabled>
+        </td>
+    </tr>
+</table>
+
+
+<div class="d-flex justify-content-between mt-3">
+    <p class="mt-3 ">
+        Mettre en majuscule la première lettre de chaque mot d'une phrase en supprimant les espaces superflus et en
+        retirant les accents
+    </p>
+    <button id='btnUcWord' class="btn btn-sm btn-danger my-auto">Lancer le test</button>
+</div>
+<div class='table-responsive'>
+    <table class='table'>
+        <tr>
+            <td class='col-4'>
+                <label for="phrase" class="col-form-label">Phrase à mettre en forme</label>
+            </td>
+            <td class='col'>
+                <input id="phrase" type="text" class="form-control">
+            </td>
+        </tr>
+        <tr>
+            <td class='col-4'>
+                <label for="phraseF" class="col-form-label">Mise en forme par les fonctions de la bibliothèque </label>
+            </td>
+            <td class='col'>
+                <input id="phraseF" type="text" class="form-control" disabled>
+            </td>
+        </tr>
+
+    </table>
+</div>
+<pre class='border m-3 p-3 text-danger'>
+    phraseF.value = ucWord(enleverAccent(supprimerEspace(phrase.value.trim())));
+</pre>
+
+
+<div class="d-flex justify-content-between mt-3">
+    <p class="mt-3 ">
+        Mettre au format monétaire
+    </p>
+    <button id='btnFormat' class="btn btn-sm btn-danger my-auto">Lancer le test</button>
+</div>
+<div style="display: flex; justify-content: center;">
+    <div class='table-responsive'>
+        <table class="table">
+            <tr>
+                <td>
+                    <label for="valeur" class="col-form-label">valeur</label>
+                </td>
+                <td>
+                    <input id="valeur" type="text" class='form-control' required pattern="^-?\d*\.?\d*$">
+                </td>
+                <td>
+                    Affichage avec la virgule point comme séparateur décimal
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="valeurE" class="col-form-label">En euro</label>
+                </td>
+                <td>
+                    <input id="valeurE" type="text" class='form-control' disabled>
+                </td>
+                <td>
+                    <input id="valeurES" type="text" class='form-control' disabled>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="valeurP" class="col-form-label">En pourcentage</label>
+                </td>
+                <td>
+                    <input id="valeurP" type="text" class='form-control' disabled>
+                </td>
+                <td>
+                    <input id="valeurPS" type="text" class='form-control' disabled>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="valeurD" class="col-form-label">Avec 3 décimales</label>
+                </td>
+                <td>
+                    <input id="valeurD" type="text" class='form-control' disabled>
+                </td>
+                <td>
+                    <input id="valeurDS" type="text" class='form-control' disabled>
+                </td>
+
+            </tr>
+        </table>
+    </div>
+</div>
+<pre class='border m-3 p-3 text-danger'>const v = read('valeur');
+write('valeurE', formater(v));
+write('valeurP', formater(v, {format: '%'}));
+write('valeurD', formater(v, {format: '', decimale: 3}));
+write('valeurES', formater(v, {separateur: ','}));
+write('valeurPS', formater(v, {format: '%', separateur: ','}));
+ write('valeurDS', formater(v, {format: '', decimale: 3, separateur: ','}));
+</pre>
+
+
+<div class="d-flex justify-content-between mt-3">
+    <p class="mt-3 ">
+        Convertir des octets en Ko, Mo, ou Go
+    </p>
+    <button id='btnConversion' class="btn btn-sm btn-danger my-auto">Lancer le test</button>
+</div>
+<div style="display: flex; justify-content: center;">
+    <div class='table-responsive'>
+        <table class="table">
+            <tr>
+                <td>
+                    <label for="octet" class="col-form-label">Convertir</label>
+                </td>
+                <td>
+                    <input id="octet" type="text" class='form-control' pattern="^[0-9]*$">
+                </td>
+            </tr>
+            <tr>
+                <td>En</td>
+                <td>
+                    <label for="unite" class="visually-hidden">Unité</label>
+                    <select id="unite">
+                        <option value="Ko">Ko</option>
+                        <option value="Mo">Mo</option>
+                        <option value="Go">Go</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>donne</td>
+                <td>
+                    <label for="res" class="visually-hidden">donne</label>
+                    <input id="res" class='form-control' type="text" disabled>
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+<pre class='border m-3 p-3 text-danger'>res.value = conversionOctet(octet.value, unite.value);</pre>
+
+

@@ -1,0 +1,26 @@
+"use strict";
+
+// -----------------------------------------------------------------------------------
+// Import des fonctions nécessaires
+// -----------------------------------------------------------------------------------
+import {afficherVeuillezPatienter, fermerVeuillezPatienter, messageBox} from "/composant/fonction/afficher.js";
+
+// -----------------------------------------------------------------------------------
+// Déclaration des variables globales
+// -----------------------------------------------------------------------------------
+
+const btnLancer = document.getElementById('btnLancer');
+
+// -----------------------------------------------------------------------------------
+// Procédures évènementielles
+// -----------------------------------------------------------------------------------
+
+btnLancer.onclick = async () => {
+    const modal = await afficherVeuillezPatienter(); // ✅ on attend la vraie instance
+
+    await new Promise(resolve => setTimeout(resolve, 3000));
+
+    await fermerVeuillezPatienter(modal);
+
+    messageBox('Traitement terminé avec succès');
+};

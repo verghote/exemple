@@ -1,0 +1,12 @@
+# Environnement de développement
+.idea/
+.admin/
+*.log
+
+
+# Dépendances Composer
+/vendor/
+composer.lock
+
+# Répertoires spécifiques à l'application
+

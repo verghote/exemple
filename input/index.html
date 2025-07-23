@@ -1,0 +1,335 @@
+<div class="row mt-3">
+    <div class="col-sm-6  ">
+        <pre><code><xmp><label for="nom" class="col-form-label obligatoire ">Nom</label>
+<i class="bi bi-info-circle text-primary"
+   data-bs-toggle="popover"
+   data-bs-trigger="hover"
+   data-bs-html="true"
+   data-bs-placement='right'
+   data-bs-title="<div style='font-size:10px'>
+                30 caractères maximum
+                <br> Caractères autorisés : lettres non accentuées et espace
+                </div>">
+</i>
+<input id="nom"
+       type="text"
+       class="form-control "
+       required
+       maxlength='30'
+       pattern="^[A-Za-z]( ?[A-Za-z])*$"
+       autocomplete="off">
+<label for="prenom" class="obligatoire col-form-label">Prénom </label>
+<i class="bi bi-info-circle text-primary"
+   data-bs-toggle="popover"
+   data-bs-trigger="hover"
+   data-bs-html="true"
+   data-bs-placement='right'
+   data-bs-title="<div style='font-size:10px'>
+                    30 caractères maximum
+                    <br> Caractères autorisés : lettres accentuées, espace, apostrophe et tiret
+                    </div>"></i>
+<input id="prenom"
+       class="form-control"
+       required
+       maxlength="30"
+       minlength="1"
+       pattern="^[A-Za-zÀÁÂÃÄÅÇÈÉÊËÌÍÎÏÒÓÔÕÖÙÚÛÜÝàáâãäåçèéêëìíîïðòóôõöùúûüýÿ]([A-Za-zÀÁÂÃÄÅÇÈÉÊËÌÍÎÏÒÓÔÕÖÙÚÛÜÝàáâãäåçèéêëìíîïðòóôõöùúûüýÿ '\-]*[A-Za-zÀÁÂÃÄÅÇÈÉÊËÌÍÎÏÒÓÔÕÖÙÚÛÜÝàáâãäåçèéêëìíîïðòóôõöùúûüýÿ])*$"
+       autocomplete="off"/>
+<label for="dateNaissance" class="col-form-label obligatoire">Date de naissance
+</label>
+<i id='intervalle' class="bi bi-info-circle text-primary"
+   data-bs-toggle="popover"
+   data-bs-trigger="hover"
+   data-bs-html="true"
+   data-bs-placement='right'></i>
+<input id='dateNaissance' type="date" class="form-control"
+       required
+       style="width: 150px"
+>
+<label class="col-form-label " for="sexe">Sexe</label>
+<select class="form-select" id="sexe" style="width: 150px;">
+    <option value="M">Homme</option>
+    <option value="F">Femme</option>
+</select>
+<label for="email" class="col-form-label obligatoire ">Email</label>
+<input type="email" class="form-control"
+       id="email"
+       required
+       autocomplete="off"
+>
+<label for="telephone" class="col-form-label">Téléphone portable</label>
+<i class="bi bi-info-circle text-primary"
+   data-bs-toggle="popover"
+   data-bs-trigger="hover"
+   data-bs-html="true"
+   data-bs-placement='right'
+   data-bs-title="<div style='font-size:11px'>
+                Numéro commençant par 06 ou 07 sans espace ni autre caractère de séparation
+                </div>">
+</i>
+<input id="telephone" type="tel" class="form-control" style="width: 150px; "
+       pattern="^0(6|7)[0-9]{8}$"
+       maxlength="10"
+       minlength="10"
+       autocomplete="off">
+<fieldset>
+    <legend>Informations utiles</legend>
+    <div class="row mt-3">
+        <div class="col-sm-6">
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" id="externe" require>
+                <label class="form-check-label" for="Externe">externe</label>
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <div class="form-check form-switch">
+                <label class="form-check-label" for='redoublant'>Redoublant</label>
+                <input class="form-check-input" type="checkbox" id="redoublant">
+            </div>
+        </div>
+    </div>
+</fieldset>
+
+<label class='obligatoire col-form-label' for="urlGitHub">Url de votre compte Github</label>
+<input id='urlGitHub'
+       type="url"
+       class="form-control"
+       minlength='10'
+       maxlength='150'
+       required
+       autocomplete="off">
+
+<label for="presentation" class="col-form-label">Présentez-vous en quelques phrase</label>
+<textarea id='presentation' class="form-control"
+          minlength="10"
+          required
+          style="resize:vertical; min-height:150px"></textarea>
+
+<fieldset>
+    <legend>Quelle option pensez-vous demander ?</legend>
+    <div class="form-check">
+        <input type="radio" class="form-check-input btn-lg" name="option" value="SLAM" id="SLAM">
+        <label class="form-check-label" for="SLAM">Développement</label><br>
+
+        <input type="radio" class="form-check-input btn-sm" name="option" value="SISR" id="SISR">
+        <label class="form-check-label" for="SISR">Réseau</label><br>
+
+        <input type="radio" checked class="form-check-input btn-xs" name="option" value="ND" id="nd">
+        <label class="form-check-label" for="SISR">Je ne sais pas encore</label>
+    </div>
+</fieldset>
+<fieldset>
+    <legend>Quelles sont vos principales activités extrascolaires ?</legend>
+    <div class="form-check">
+        <input type="checkbox" class="form-check-input" name="activites" value="ludique" id="ludique">
+        <label class="form-check-label" for="ludique">Ludiques (jeux vidéo, jeux de société...)</label><br>
+
+        <input type="checkbox" class="form-check-input" name="activites" value="sportive" id="sportive">
+        <label class="form-check-label" for="sportive">Sportives</label><br>
+
+        <input type="checkbox" class="form-check-input" name="activites" value="culturelle" id="culture">
+        <label class="form-check-label" for="culture">Culturelles (musique, théatre, lecture,
+            peinture...)</label><br>
+
+        <input type="checkbox" class="form-check-input" name="activites" value="associative"
+               id="associative">
+        <label class="form-check-label" for="associative">Associatives (membre actif d'une association,
+            bénévolat...)</label><br>
+
+        <input type="checkbox" class="form-check-input" name="activites" value="salariale" id="salariale">
+        <label class="form-check-label" for="salariale">Salariales</label><br>
+    </div>
+</fieldset>
+<div class="text-center mt-3">
+    <button id='btnEnvoyer' class="btn btn btn-danger">Envoyer</button>
+</div></xmp></code></pre>
+    </div>
+    <div class="col-sm-6  ">
+        <div id="formulaire" class="formulaire">
+            <div class="row mt-3">
+                <div class="col-sm-6  ">
+                    <label for="nom" class="col-form-label obligatoire ">Nom</label>
+                    <i class="bi bi-info-circle text-primary"
+                       data-bs-toggle="popover"
+                       data-bs-trigger="hover"
+                       data-bs-html="true"
+                       data-bs-placement='right'
+                       data-bs-title="<div style='font-size:10px'>
+							30 caractères maximum
+							<br> Caractères autorisés : lettres non accentuées et espace
+							</div>">
+                    </i>
+                    <input id="nom"
+                           type="text"
+                           class="form-control "
+                           required
+                           maxlength='30'
+                           pattern="^[A-Za-z]( ?[A-Za-z])*$"
+                           autocomplete="off">
+                </div>
+                <div class="col-sm-6  ">
+                    <label for="prenom" class="obligatoire col-form-label">Prénom </label>
+                    <i class="bi bi-info-circle text-primary"
+                       data-bs-toggle="popover"
+                       data-bs-trigger="hover"
+                       data-bs-html="true"
+                       data-bs-placement='right'
+                       data-bs-title="<div style='font-size:10px'>
+							30 caractères maximum
+							<br> Caractères autorisés : lettres accentuées, espace, apostrophe et tiret
+							</div>"></i>
+                    <input id="prenom"
+                           class="form-control"
+                           required
+                           maxlength="30"
+                           minlength="1"
+                           pattern="^[A-Za-zÀÁÂÃÄÅÇÈÉÊËÌÍÎÏÒÓÔÕÖÙÚÛÜÝàáâãäåçèéêëìíîïðòóôõöùúûüýÿ]([A-Za-zÀÁÂÃÄÅÇÈÉÊËÌÍÎÏÒÓÔÕÖÙÚÛÜÝàáâãäåçèéêëìíîïðòóôõöùúûüýÿ '\-]*[A-Za-zÀÁÂÃÄÅÇÈÉÊËÌÍÎÏÒÓÔÕÖÙÚÛÜÝàáâãäåçèéêëìíîïðòóôõöùúûüýÿ])*$"
+                           autocomplete="off"/>
+                </div>
+            </div>
+            <div class="row mt-3">
+                <div class="col-sm-6">
+                    <label for="dateNaissance" class="col-form-label obligatoire">Date de naissance
+                    </label>
+                    <i id='intervalle' class="bi bi-info-circle text-primary"
+                       data-bs-toggle="popover"
+                       data-bs-trigger="hover"
+                       data-bs-html="true"
+                       data-bs-placement='right'></i>
+                    <input id='dateNaissance' type="date" class="form-control"
+                           required
+                           style="width: 150px"
+                    >
+                </div>
+                <div class="col-sm-6 ">
+                    <label class="col-form-label " for="sexe">Sexe</label>
+                    <select class="form-select" id="sexe" style="width: 150px;">
+                        <option value="M">Homme</option>
+                        <option value="F">Femme</option>
+                    </select>
+                </div>
+            </div>
+            <div class="row mt-3">
+                <div class="col-sm-6">
+                    <label for="email" class="col-form-label obligatoire ">Email</label>
+                    <input type="email" class="form-control"
+                           id="email"
+                           required
+                           autocomplete="off"
+                    >
+                </div>
+
+                <div class="col-sm-6">
+                    <label for="telephone" class="col-form-label">Téléphone portable</label>
+                    <i class="bi bi-info-circle text-primary"
+                       data-bs-toggle="popover"
+                       data-bs-trigger="hover"
+                       data-bs-html="true"
+                       data-bs-placement='right'
+                       data-bs-title="<div style='font-size:11px'>
+						Numéro commençant par 06 ou 07 sans espace ni autre caractère de séparation
+						</div>">
+                    </i>
+                    <input id="telephone" type="tel" class="form-control" style="width: 150px; "
+                           pattern="^0(6|7)[0-9]{8}$"
+                           maxlength="10"
+                           minlength="10"
+                           autocomplete="off">
+                </div>
+
+            </div>
+            <fieldset>
+                <legend>Informations utiles</legend>
+                <div class="row mt-3">
+                    <div class="col-sm-6">
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="externe" require>
+                            <label class="form-check-label" for="Externe">externe</label>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="form-check form-switch">
+                            <label class="form-check-label" for='redoublant'>Redoublant</label>
+                            <input class="form-check-input" type="checkbox" id="redoublant">
+                        </div>
+                    </div>
+                </div>
+            </fieldset>
+
+            <div class="row mt-3">
+                <div class="col-12">
+                    <label class='obligatoire col-form-label' for="urlGitHub">Url de votre compte Github</label>
+                    <input id='urlGitHub'
+                           type="url"
+                           class="form-control"
+                           minlength='10'
+                           maxlength='150'
+                           required
+                           autocomplete="off">
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-12">
+                    <label for="presentation" class="col-form-label">Présentez-vous en quelques phrase</label>
+                    <textarea id='presentation' class="form-control"
+                              minlength="10"
+                              required
+                              style="resize:vertical; min-height:150px"></textarea>
+                </div>
+            </div>
+
+            <div class="row mt-3">
+                <div class="col-sm-6">
+                    <fieldset>
+                        <legend>Quelle option pensez-vous demander ?</legend>
+                        <div class="form-check">
+                            <input type="radio" class="form-check-input btn-lg" name="option" value="SLAM" id="SLAM">
+                            <label class="form-check-label" for="SLAM">Développement</label><br>
+
+                            <input type="radio" class="form-check-input btn-sm" name="option" value="SISR" id="SISR">
+                            <label class="form-check-label" for="SISR">Réseau</label><br>
+
+                            <input type="radio" checked class="form-check-input btn-xs" name="option" value="ND"
+                                   id="nd">
+                            <label class="form-check-label" for="SISR">Je ne sais pas encore</label>
+                        </div>
+                    </fieldset>
+                </div>
+                <div class="col-sm-6">
+                    <fieldset>
+                        <legend>Quelles sont vos principales activités extrascolaires ?</legend>
+                        <div class="form-check">
+                            <input type="checkbox" class="form-check-input" name="activites" value="ludique"
+                                   id="ludique">
+                            <label class="form-check-label" for="ludique">Ludiques (jeux vidéo, jeux de
+                                société...)</label><br>
+
+                            <input type="checkbox" class="form-check-input" name="activites" value="sportive"
+                                   id="sportive">
+                            <label class="form-check-label" for="sportive">Sportives</label><br>
+
+                            <input type="checkbox" class="form-check-input" name="activites" value="culturelle"
+                                   id="culture">
+                            <label class="form-check-label" for="culture">Culturelles (musique, théatre, lecture,
+                                peinture...)</label><br>
+
+                            <input type="checkbox" class="form-check-input" name="activites" value="associative"
+                                   id="associative">
+                            <label class="form-check-label" for="associative">Associatives (membre actif d'une
+                                association,
+                                bénévolat...)</label><br>
+
+                            <input type="checkbox" class="form-check-input" name="activites" value="salariale"
+                                   id="salariale">
+                            <label class="form-check-label" for="salariale">Salariales</label><br>
+                        </div>
+                </div>
+            </div>
+
+            <div class="text-center mt-3">
+                <button id='btnEnvoyer' class="btn btn btn-danger">Envoyer</button>
+            </div>
+        </div>
+    </div>
+</div>
