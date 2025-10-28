@@ -1,0 +1,48 @@
+<div class="row">
+    <div class="col-sm-6">
+        <div class="d-flex justify-content-evenly m-3">
+            <button id="btnExportCSV" class="btn btn-sm btn-outline-success m-2">
+                📥 Exporter au format CSV
+            </button>
+            <button id="btnExportJSON" class="btn btn-sm btn-outline-success m-2">
+                📥 Exporter au format JSON
+            </button>
+        </div>
+        <!-- Conteneur centré et contraint -->
+        <table id='leTableau' style="margin: auto">
+            <thead>
+            <tr>
+                <th style="cursor: pointer;">Nom</th>
+                <th style="cursor: pointer;">Prénom</th>
+            </tr>
+            </thead>
+            <tbody id="lesLignes"></tbody>
+        </table>
+
+    </div>
+    <div class="col-sm-6">
+<pre><code>import {exporterCSV, exporterJSON} from "/composant/fonction/tableau.js";
+
+/* global data */
+const lesLignes = document.getElementById('lesLignes');
+const btnExportCSV = document.getElementById('btnExportCSV');
+const btnExportJSON = document.getElementById('btnExportJSON');
+
+btnExportCSV.onclick = () => {
+    exporterCSV(data, `etudiant.csv`);
+};
+
+btnExportJSON.onclick = () => {
+    exporterJSON(data, `etudiant.json`);
+}
+
+
+lesLignes.innerHTML = '';
+for (const element of data) {
+    const tr = lesLignes.insertRow();
+    tr.insertCell().innerText = element.nom;
+    tr.insertCell().innerText = element.prenom;
+}
+</code></pre>
+    </div>
+</div>

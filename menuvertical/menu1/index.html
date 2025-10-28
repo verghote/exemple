@@ -1,0 +1,20 @@
+<div style="margin-left: 50px;">
+    Vous êtes dans le menu vertical, dans le dossier <strong>menu1</strong>.
+
+    <p style="font-style: italic; text-align: left; padding-left: 20px;">
+        Le fichier personnalisé /menuvertical/include/interface.php charge le menu vertical.
+        <br>
+        $lesOptionsVerticales = file_get_contents(RACINE . '/menuvertical/.config/menuvertical.json');
+        <br>
+        Il active le composant depuis une balise script
+        <br>
+            import {initialiserMenuVertical} from "/composant/menuvertical/menu.js";
+        <br>
+            initialiserMenuVertical($lesOptionsVerticales, 230);
+        <br>
+        Le paramètre 230 correspond à la largeur du menu.
+        <br>
+        Le fichier de configuration menuvertical.json est lu par le script PHP et injecté dans la
+        variable $lesOptionsVerticales.
+    </p>
+</div>

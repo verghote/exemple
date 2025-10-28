@@ -1,0 +1,197 @@
+<h3>Balises de format : h1 à h6</h3>
+
+<pre>L'espace HTML : &amp;nbsp;"</pre>
+Un texte hors balise
+les espaces et les retour à la ligne ne sont pas interprétés
+sauf à placer le code html "&amp;nbsp;" représentant un espace &nbsp; &nbsp; devant
+<br>
+et utiliser la balise &lt;br&gt; pour générer un saut de ligne
+<p>Texte placé dans une balise p</p>
+<blockquote>Texte placé dans une balise blockquote</blockquote>
+<pre>
+        texte placée      dans
+        une
+           balise
+        pre
+    </pre>
+<h3> Balises img et figure</h3>
+<div class='row'>
+    <div class="col-auto ">
+            <pre>
+&lt;figure&gt;
+    &lt;img src="img/chambord.jpg" alt="Le château de chambort"/&gt;
+        &lt;figcaption&gt;Le château de Chambord.&lt;/figcaption&gt;
+&lt;/figure&gt;</pre>
+    </div>
+    <div class="col-auto  ">
+        <figure>
+            <img src="img/chambord.jpg" alt="Le château de chambort"/>
+            <figcaption>Le château de Chambord.</figcaption>
+        </figure>
+    </div>
+</div>
+
+<h3> Balise &lt;a&gt; pour des liens hypertexte</h3>
+<table class='table table-bordered'>
+    <tr>
+        <td>
+            Vers un endroit précis dans dans la page (ancre) :
+        </td>
+        <td>
+            &lt;a href="#ancre1"&gt;test&lt;/a&gt;
+        </td>
+        <td>
+            <a href="#ancre1">test</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Vers une autre page web ouverte dans un nouvel onglet :
+        </td>
+        <td>
+            &lt;a href="//www.u-picardie.fr/philippe/aideHTML/" target="_blank"&gt;test&lt;/a&gt;
+        </td>
+        <td>
+            <a href="//www.u-picardie.fr/philippe/aideHTML/" target="_blank">test</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Vers un fichier PDF ouvert dans un autre onnglet (toujours le même)
+        </td>
+        <td>
+            &lt;a href="pdf/Notions de base.pdf" target="pdf"&gt;test&lt;/a&gt;
+        </td>
+        <td>
+            <a href="pdf/Notions%20de%20base.pdf" target="pdf">test</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Vers un fichier PDf en téléchargement
+        </td>
+        <td>
+            &lt;a href="pdf/Notions de base.pdf" download="Les balises HTML.pdf"&gt;test&lt;/a&gt;
+        </td>
+        <td>
+            <a href="pdf/Notions%20de%20base.pdf" download="Les balises HTML.pdf">test</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Vers une adresse mail
+        </td>
+        <td>
+            &lt;a href="mailto:guy.verghote@saint-remi.net"&gt;test&lt;/aa&gt;
+        </td>
+        <td>
+            <a href="mailto:guy.verghote@saint-remi.net">test</a>
+        </td>
+    </tr>
+</table>
+
+<h3> Balises pour un tableau</h3>
+<div class='row'>
+    <div class="col-auto ">
+        <img src="img/table.png" alt="">
+    </div>
+    <div class="col-auto ">
+
+        <table>
+            <colgroup>
+                <col style="width:150px;"/>
+                <col style="width:250px"/>
+            </colgroup>
+            <thead>
+            <tr>
+                <th>Nom</th>
+                <th>Prénom</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td> ALT</td>
+                <td> Hugo</td>
+            </tr>
+            <tr>
+                <td> ARKOUB</td>
+                <td> Mohamed</td>
+            </tr>
+            </tbody>
+            <tfoot>
+            <tr>
+                <td> Nombre</td>
+                <td> 2</td>
+            </tr>
+            </tfoot>
+        </table>
+    </div>
+</div>
+
+
+<h3>Balise audio</h3>
+<div class="row">
+    <div class="col-auto ">
+            <pre>&lt;audio controls&gt;
+    &lt;source src="audio/PPMS.mp3" type="audio/mp3"&gt;
+    Votre navigateur n'est pas compatible
+&lt;/audio&gt;</pre>
+    </div>
+    <div class="col-auto ">
+        <audio controls>
+            <source src="audio/PPMS.mp3" type="audio/mp3">
+            Votre navigateur n'est pas compatible
+        </audio>
+    </div>
+</div>
+
+<h3>Balise vidéo</h3>
+<div class="row">
+    <div class="col-auto ">
+            <pre>&lt;video width="320" height="240" controls="controls"&gt;
+    &lt;source src="video/rgpd.mp4" type="video/mp4"&gt;
+&lt;/video&gt;</pre>
+    </div>
+    <div class="col-auto ">
+        <video width="320" height="240" controls="controls">
+            <source src="video/exemple.mp4" type="video/mp4">
+        </video>
+    </div>
+</div>
+
+
+<h3>Balise iframe</h3>
+<div class="row">
+    <div class="col-auto ">
+            <pre>&lt;iframe width="320" height="180"
+    src="//www.youtube.com/embed/8FqZZrbnwkM"
+    title="YouTube video player"
+    allow="accelerometer;
+    autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;
+&lt;/iframe&gt;</pre>
+    </div>
+    <div class="col-auto ">
+        <iframe width="320" height="180" src="//www.youtube.com/embed/8FqZZrbnwkM"
+                title="YouTube video player"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen>
+        </iframe>
+    </div>
+</div>
+
+<h3>Balise div</h3>
+<div id="ancre1" style="height: 100px; border: solid 1px red">Zone accessible par une ancre</div>
+
+<h3>Balise footer</h3>
+<div class="row">
+    <div class="col-auto ">
+            <pre>&lt;footer class="navbar text-white bg-dark " &gt;
+    ® 2021 Guy Verghote
+&lt;/footer&gt;</pre>
+    </div>
+    <div class="col-auto m-auto">
+        <footer class="navbar text-white bg-dark ">
+            ® 2021 Guy Verghote
+        </footer>
+    </div>
+</div>

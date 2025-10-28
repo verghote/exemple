@@ -1,0 +1,31 @@
+    <p class="my-3">
+        Rôle : Afficher un message dans la zone msg de la page
+        <button id='btnGenererMessage' class="btn btn-sm btn-danger my-auto">Lancer le test</button>
+    </p>
+
+    <div id="msg" class="my-3"></div>
+
+<pre><code>// -----------------------------------------------------------------------------------
+// Import des fonctions nécessaires
+// -----------------------------------------------------------------------------------
+
+import {genererMessage} from '/composant/fonction/afficher.js';
+
+// -----------------------------------------------------------------------------------
+// Déclaration des variables globales
+// -----------------------------------------------------------------------------------
+
+const btnGenererMessage = document.getElementById('btnGenererMessage');
+
+// -----------------------------------------------------------------------------------
+// Procédures évènementielles
+// -----------------------------------------------------------------------------------
+
+btnGenererMessage.onclick = () => {
+    const lesCouleurs = ['vert', 'orange', 'rouge'];
+    const i = Math.round(Math.random() * 2);
+    document.getElementById('msg').innerHTML = genererMessage('Message généré', lesCouleurs[i]);
+};
+
+</code></pre>
+

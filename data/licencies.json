@@ -1,0 +1,5672 @@
+[
+  {
+    "licence": "1964597",
+    "nom": "ABDELKARIM",
+    "prenom": "ABDELMOUMAINE",
+    "sexe": "M",
+    "dateNaissanceFr": "25\/01\/2000",
+    "idCategorie": "SE",
+    "nomClub": "SPORTING CLUB ABBEVILLOIS ATHL"
+  },
+  {
+    "licence": "1991297",
+    "nom": "ABDELKRIM",
+    "prenom": "TAHAR",
+    "sexe": "M",
+    "dateNaissanceFr": "09\/08\/1976",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1291517",
+    "nom": "ABDESMED",
+    "prenom": "MOHAMED",
+    "sexe": "M",
+    "dateNaissanceFr": "19\/01\/1956",
+    "idCategorie": "M6",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2054055",
+    "nom": "ABOUBI",
+    "prenom": "MAURAD",
+    "sexe": "M",
+    "dateNaissanceFr": "17\/09\/1978",
+    "idCategorie": "M2",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1548728",
+    "nom": "ALFRED",
+    "prenom": "CHRISTOPHE",
+    "sexe": "M",
+    "dateNaissanceFr": "18\/09\/1974",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1650412",
+    "nom": "ALLONNEAU",
+    "prenom": "JEAN MARIE",
+    "sexe": "M",
+    "dateNaissanceFr": "07\/11\/1952",
+    "idCategorie": "M7",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1217206",
+    "nom": "ANDRE",
+    "prenom": "STEPHANE",
+    "sexe": "M",
+    "dateNaissanceFr": "14\/11\/1973",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1650342",
+    "nom": "ANDRIEUX",
+    "prenom": "VINCENT",
+    "sexe": "M",
+    "dateNaissanceFr": "18\/11\/1985",
+    "idCategorie": "M1",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2072538",
+    "nom": "ANSARD",
+    "prenom": "ALEXIS",
+    "sexe": "M",
+    "dateNaissanceFr": "06\/03\/1990",
+    "idCategorie": "M0",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1969435",
+    "nom": "AVISSE",
+    "prenom": "SEBASTIEN",
+    "sexe": "M",
+    "dateNaissanceFr": "16\/08\/1988",
+    "idCategorie": "M0",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "2040756",
+    "nom": "AYMARD",
+    "prenom": "JOELLE",
+    "sexe": "F",
+    "dateNaissanceFr": "07\/06\/1971",
+    "idCategorie": "M3",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1623013",
+    "nom": "BAECHER",
+    "prenom": "SEBASTIEN",
+    "sexe": "M",
+    "dateNaissanceFr": "11\/11\/1979",
+    "idCategorie": "M2",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "2073795",
+    "nom": "BAILLET",
+    "prenom": "ALEXANDRE",
+    "sexe": "M",
+    "dateNaissanceFr": "22\/01\/1985",
+    "idCategorie": "M1",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1866869",
+    "nom": "BALDE",
+    "prenom": "MARIE",
+    "sexe": "F",
+    "dateNaissanceFr": "11\/05\/1973",
+    "idCategorie": "M3",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1062616",
+    "nom": "BARBIER",
+    "prenom": "JEAN MARC",
+    "sexe": "M",
+    "dateNaissanceFr": "07\/07\/1955",
+    "idCategorie": "M7",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2039793",
+    "nom": "BARDET",
+    "prenom": "JONATHAN",
+    "sexe": "M",
+    "dateNaissanceFr": "21\/02\/1984",
+    "idCategorie": "M1",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1650409",
+    "nom": "BARIS",
+    "prenom": "CHLOE",
+    "sexe": "F",
+    "dateNaissanceFr": "23\/06\/1985",
+    "idCategorie": "M1",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1650837",
+    "nom": "BARTHELEMY",
+    "prenom": "BENOIT",
+    "sexe": "M",
+    "dateNaissanceFr": "07\/01\/1971",
+    "idCategorie": "M3",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1245399",
+    "nom": "BASIN",
+    "prenom": "JEROME",
+    "sexe": "M",
+    "dateNaissanceFr": "20\/03\/1974",
+    "idCategorie": "M3",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1556546",
+    "nom": "BATTE",
+    "prenom": "FRANCK",
+    "sexe": "M",
+    "dateNaissanceFr": "21\/12\/1974",
+    "idCategorie": "M3",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1294072",
+    "nom": "BATTEZ",
+    "prenom": "DAMIEN",
+    "sexe": "M",
+    "dateNaissanceFr": "11\/09\/1985",
+    "idCategorie": "M1",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1145800",
+    "nom": "BEAUJARD",
+    "prenom": "PHILIPPE",
+    "sexe": "M",
+    "dateNaissanceFr": "10\/06\/1965",
+    "idCategorie": "M5",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1427567",
+    "nom": "BELET",
+    "prenom": "DIDIER",
+    "sexe": "M",
+    "dateNaissanceFr": "08\/10\/1955",
+    "idCategorie": "M7",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1384725",
+    "nom": "BELET",
+    "prenom": "MARTINE",
+    "sexe": "F",
+    "dateNaissanceFr": "06\/04\/1954",
+    "idCategorie": "M7",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "2090891",
+    "nom": "BELHADI",
+    "prenom": "NORDINE",
+    "sexe": "M",
+    "dateNaissanceFr": "24\/09\/1980",
+    "idCategorie": "M2",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1095504",
+    "nom": "BELLEMERE",
+    "prenom": "THIERRY",
+    "sexe": "M",
+    "dateNaissanceFr": "18\/04\/1964",
+    "idCategorie": "M5",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1863748",
+    "nom": "BELLET",
+    "prenom": "JEROME",
+    "sexe": "M",
+    "dateNaissanceFr": "28\/08\/1975",
+    "idCategorie": "M3",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1653131",
+    "nom": "BELLET",
+    "prenom": "MARINA",
+    "sexe": "F",
+    "dateNaissanceFr": "04\/12\/1989",
+    "idCategorie": "M0",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1383314",
+    "nom": "BELLEVILLE",
+    "prenom": "GREGORY",
+    "sexe": "M",
+    "dateNaissanceFr": "16\/04\/1979",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2073046",
+    "nom": "BENOIT",
+    "prenom": "ARTHUR",
+    "sexe": "M",
+    "dateNaissanceFr": "11\/03\/2003",
+    "idCategorie": "ES",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1400912",
+    "nom": "BENOIT",
+    "prenom": "JEAN",
+    "sexe": "M",
+    "dateNaissanceFr": "30\/04\/1949",
+    "idCategorie": "M8",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1974967",
+    "nom": "BERNARD",
+    "prenom": "GEOFFREY",
+    "sexe": "M",
+    "dateNaissanceFr": "11\/09\/1991",
+    "idCategorie": "SE",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "2071489",
+    "nom": "BERTRAND",
+    "prenom": "OLIVIER",
+    "sexe": "M",
+    "dateNaissanceFr": "22\/12\/1975",
+    "idCategorie": "M3",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1945880",
+    "nom": "BERTRAND",
+    "prenom": "TONY",
+    "sexe": "M",
+    "dateNaissanceFr": "29\/10\/1980",
+    "idCategorie": "M2",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1375527",
+    "nom": "BETOURNE",
+    "prenom": "DOMINIQUE",
+    "sexe": "M",
+    "dateNaissanceFr": "24\/03\/1975",
+    "idCategorie": "M3",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1645137",
+    "nom": "BETTAN",
+    "prenom": "MIKAEL",
+    "sexe": "M",
+    "dateNaissanceFr": "26\/04\/1981",
+    "idCategorie": "M1",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1102338",
+    "nom": "BIALAIS",
+    "prenom": "FREDERIC",
+    "sexe": "M",
+    "dateNaissanceFr": "18\/04\/1979",
+    "idCategorie": "M2",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1850427",
+    "nom": "BIGARNET",
+    "prenom": "EMMANUEL",
+    "sexe": "M",
+    "dateNaissanceFr": "23\/03\/1983",
+    "idCategorie": "M1",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1740840",
+    "nom": "BIGOT",
+    "prenom": "MATHILDE",
+    "sexe": "F",
+    "dateNaissanceFr": "30\/04\/1970",
+    "idCategorie": "M4",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1736229",
+    "nom": "BIOCHE",
+    "prenom": "JEREMY",
+    "sexe": "M",
+    "dateNaissanceFr": "07\/06\/1989",
+    "idCategorie": "M0",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1715014",
+    "nom": "BIRD",
+    "prenom": "JOHN",
+    "sexe": "M",
+    "dateNaissanceFr": "18\/04\/1959",
+    "idCategorie": "M6",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1575525",
+    "nom": "BISSIERE",
+    "prenom": "SARAH",
+    "sexe": "F",
+    "dateNaissanceFr": "15\/05\/1977",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1375530",
+    "nom": "BIVILLE",
+    "prenom": "MYRIAM",
+    "sexe": "F",
+    "dateNaissanceFr": "18\/05\/1983",
+    "idCategorie": "M1",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1299732",
+    "nom": "BIVILLE",
+    "prenom": "VINCENT",
+    "sexe": "M",
+    "dateNaissanceFr": "31\/12\/1982",
+    "idCategorie": "M1",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2072318",
+    "nom": "BIZET",
+    "prenom": "CECILIA",
+    "sexe": "F",
+    "dateNaissanceFr": "14\/07\/1975",
+    "idCategorie": "M3",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1621186",
+    "nom": "BLED",
+    "prenom": "EMILIE",
+    "sexe": "F",
+    "dateNaissanceFr": "12\/02\/1980",
+    "idCategorie": "M2",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1234354",
+    "nom": "BLIN LEFEVRE",
+    "prenom": "LANCELOT",
+    "sexe": "M",
+    "dateNaissanceFr": "28\/11\/1999",
+    "idCategorie": "SE",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "2071375",
+    "nom": "BLOT",
+    "prenom": "DOROTHEE",
+    "sexe": "F",
+    "dateNaissanceFr": "16\/04\/1981",
+    "idCategorie": "M1",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1747791",
+    "nom": "BLOT",
+    "prenom": "ETIENNE",
+    "sexe": "M",
+    "dateNaissanceFr": "27\/01\/1984",
+    "idCategorie": "M1",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1469047",
+    "nom": "BOCLET",
+    "prenom": "JEAN YVES",
+    "sexe": "M",
+    "dateNaissanceFr": "19\/01\/1966",
+    "idCategorie": "M4",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1968944",
+    "nom": "BODECOT",
+    "prenom": "JULIEN",
+    "sexe": "M",
+    "dateNaissanceFr": "22\/01\/1982",
+    "idCategorie": "M1",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1967656",
+    "nom": "BOETTE",
+    "prenom": "STEPHANIE",
+    "sexe": "F",
+    "dateNaissanceFr": "03\/10\/1975",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1624920",
+    "nom": "BOIDIN",
+    "prenom": "GASPARD",
+    "sexe": "M",
+    "dateNaissanceFr": "16\/06\/2001",
+    "idCategorie": "SE",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1209959",
+    "nom": "BOIDIN",
+    "prenom": "OLIVIER",
+    "sexe": "M",
+    "dateNaissanceFr": "16\/04\/1968",
+    "idCategorie": "M4",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1212503",
+    "nom": "BOIZART",
+    "prenom": "FREDERIC",
+    "sexe": "M",
+    "dateNaissanceFr": "24\/09\/1973",
+    "idCategorie": "M3",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1320064",
+    "nom": "BOIZART",
+    "prenom": "LILI",
+    "sexe": "F",
+    "dateNaissanceFr": "02\/10\/2002",
+    "idCategorie": "SE",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "2072537",
+    "nom": "BONNAY",
+    "prenom": "CHARLINE",
+    "sexe": "F",
+    "dateNaissanceFr": "06\/02\/1993",
+    "idCategorie": "SE",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "2028357",
+    "nom": "BOOMKARTNER",
+    "prenom": "FLORIAN",
+    "sexe": "M",
+    "dateNaissanceFr": "27\/03\/1993",
+    "idCategorie": "SE",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1837207",
+    "nom": "BORCK",
+    "prenom": "NICOLAS",
+    "sexe": "M",
+    "dateNaissanceFr": "12\/05\/1981",
+    "idCategorie": "M1",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1699766",
+    "nom": "BOSSU",
+    "prenom": "LAURENT",
+    "sexe": "M",
+    "dateNaissanceFr": "04\/12\/1973",
+    "idCategorie": "M3",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "189917",
+    "nom": "BOUBERT",
+    "prenom": "VIRGINIE",
+    "sexe": "F",
+    "dateNaissanceFr": "10\/07\/1975",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1501621",
+    "nom": "BOUCHER",
+    "prenom": "ANNE SOPHIE",
+    "sexe": "F",
+    "dateNaissanceFr": "29\/11\/1970",
+    "idCategorie": "M4",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1165311",
+    "nom": "BOUCHER",
+    "prenom": "DENIS",
+    "sexe": "M",
+    "dateNaissanceFr": "23\/09\/1964",
+    "idCategorie": "M5",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1432000",
+    "nom": "BOUCHOUCHA",
+    "prenom": "OMEYA",
+    "sexe": "F",
+    "dateNaissanceFr": "07\/11\/2000",
+    "idCategorie": "SE",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1452626",
+    "nom": "BOUGIS",
+    "prenom": "ERIC",
+    "sexe": "M",
+    "dateNaissanceFr": "29\/11\/1968",
+    "idCategorie": "M4",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1765469",
+    "nom": "BOULAIN",
+    "prenom": "CHRISTOPHE",
+    "sexe": "M",
+    "dateNaissanceFr": "30\/03\/1975",
+    "idCategorie": "M3",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1968682",
+    "nom": "BOULAIN",
+    "prenom": "EMMA",
+    "sexe": "F",
+    "dateNaissanceFr": "08\/03\/2004",
+    "idCategorie": "ES",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1967364",
+    "nom": "BOULNOIS",
+    "prenom": "PHILIPPE",
+    "sexe": "M",
+    "dateNaissanceFr": "18\/03\/1964",
+    "idCategorie": "M5",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "2077200",
+    "nom": "BOUMEDIENE",
+    "prenom": "AHMED",
+    "sexe": "M",
+    "dateNaissanceFr": "27\/11\/1978",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1958933",
+    "nom": "BOURBON",
+    "prenom": "CATHERINE",
+    "sexe": "F",
+    "dateNaissanceFr": "27\/06\/1992",
+    "idCategorie": "SE",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1941456",
+    "nom": "BOURDILLON",
+    "prenom": "FRANCK",
+    "sexe": "M",
+    "dateNaissanceFr": "03\/05\/1972",
+    "idCategorie": "M3",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1195994",
+    "nom": "BOUREL",
+    "prenom": "DIDIER",
+    "sexe": "M",
+    "dateNaissanceFr": "07\/02\/1967",
+    "idCategorie": "M4",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "2071311",
+    "nom": "BOURGOIS",
+    "prenom": "MAXIME",
+    "sexe": "M",
+    "dateNaissanceFr": "22\/06\/1981",
+    "idCategorie": "M1",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2084069",
+    "nom": "BOURSE",
+    "prenom": "PHILIPPE",
+    "sexe": "M",
+    "dateNaissanceFr": "28\/08\/1972",
+    "idCategorie": "M3",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "2084075",
+    "nom": "BOURSE",
+    "prenom": "VALERIE",
+    "sexe": "F",
+    "dateNaissanceFr": "04\/10\/1970",
+    "idCategorie": "M4",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1454498",
+    "nom": "BOUZRAR",
+    "prenom": "PATRICE",
+    "sexe": "M",
+    "dateNaissanceFr": "15\/12\/1973",
+    "idCategorie": "M3",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1080735",
+    "nom": "BREHON",
+    "prenom": "LAURENT",
+    "sexe": "M",
+    "dateNaissanceFr": "05\/03\/1964",
+    "idCategorie": "M5",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1213956",
+    "nom": "BRET",
+    "prenom": "CHRISTOPHE",
+    "sexe": "M",
+    "dateNaissanceFr": "06\/09\/1972",
+    "idCategorie": "M3",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1954511",
+    "nom": "BRIOIS",
+    "prenom": "ANDONIAINA MIRANA",
+    "sexe": "F",
+    "dateNaissanceFr": "06\/02\/1976",
+    "idCategorie": "M2",
+    "nomClub": "SAINT-OUEN DSL"
+  },
+  {
+    "licence": "1775746",
+    "nom": "BRUCHE",
+    "prenom": "CATHY",
+    "sexe": "F",
+    "dateNaissanceFr": "20\/06\/1971",
+    "idCategorie": "M3",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1172476",
+    "nom": "BRUSSELLE",
+    "prenom": "DANIA",
+    "sexe": "F",
+    "dateNaissanceFr": "25\/02\/1963",
+    "idCategorie": "M5",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1573416",
+    "nom": "BUIGNET",
+    "prenom": "CHRISTELLE",
+    "sexe": "F",
+    "dateNaissanceFr": "05\/03\/1971",
+    "idCategorie": "M3",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1528964",
+    "nom": "BUIGNET",
+    "prenom": "MICHAEL",
+    "sexe": "M",
+    "dateNaissanceFr": "01\/02\/1970",
+    "idCategorie": "M4",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1849840",
+    "nom": "CABASSA",
+    "prenom": "CLAIRE",
+    "sexe": "F",
+    "dateNaissanceFr": "24\/03\/1986",
+    "idCategorie": "M0",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2060397",
+    "nom": "CADET",
+    "prenom": "JUSTIN",
+    "sexe": "M",
+    "dateNaissanceFr": "10\/07\/1995",
+    "idCategorie": "SE",
+    "nomClub": "SPORTING CLUB ABBEVILLOIS ATHL"
+  },
+  {
+    "licence": "1966872",
+    "nom": "CANON",
+    "prenom": "LISE",
+    "sexe": "F",
+    "dateNaissanceFr": "21\/02\/1967",
+    "idCategorie": "M4",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1119810",
+    "nom": "CAPART",
+    "prenom": "MARYSE",
+    "sexe": "F",
+    "dateNaissanceFr": "28\/03\/1954",
+    "idCategorie": "M7",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1759148",
+    "nom": "CAPITANI",
+    "prenom": "JACKIE",
+    "sexe": "M",
+    "dateNaissanceFr": "05\/07\/1959",
+    "idCategorie": "M6",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1656066",
+    "nom": "CAPRON",
+    "prenom": "ANTHONY",
+    "sexe": "M",
+    "dateNaissanceFr": "04\/03\/1990",
+    "idCategorie": "M0",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1063342",
+    "nom": "CARANTON",
+    "prenom": "BEATRICE",
+    "sexe": "F",
+    "dateNaissanceFr": "11\/03\/1962",
+    "idCategorie": "M5",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1062615",
+    "nom": "CARANTON",
+    "prenom": "BERNARD",
+    "sexe": "M",
+    "dateNaissanceFr": "08\/08\/1958",
+    "idCategorie": "M6",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1206224",
+    "nom": "CARLE",
+    "prenom": "ERIC",
+    "sexe": "M",
+    "dateNaissanceFr": "12\/01\/1967",
+    "idCategorie": "M4",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1664389",
+    "nom": "CARON",
+    "prenom": "DIDIER",
+    "sexe": "M",
+    "dateNaissanceFr": "29\/04\/1970",
+    "idCategorie": "M4",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1062538",
+    "nom": "CARON",
+    "prenom": "DOMINIQUE",
+    "sexe": "M",
+    "dateNaissanceFr": "26\/03\/1966",
+    "idCategorie": "M4",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1959344",
+    "nom": "CARPENTIER",
+    "prenom": "CORENTIN",
+    "sexe": "M",
+    "dateNaissanceFr": "17\/12\/2004",
+    "idCategorie": "ES",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "2005519",
+    "nom": "CARREZ",
+    "prenom": "HELENE",
+    "sexe": "F",
+    "dateNaissanceFr": "26\/06\/1981",
+    "idCategorie": "M1",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "2083400",
+    "nom": "CARREZ",
+    "prenom": "SEBASTIEN",
+    "sexe": "M",
+    "dateNaissanceFr": "04\/11\/1975",
+    "idCategorie": "M3",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "2012981",
+    "nom": "CARRUETTE",
+    "prenom": "CLEMENCE",
+    "sexe": "F",
+    "dateNaissanceFr": "14\/11\/1984",
+    "idCategorie": "M1",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1393882",
+    "nom": "CASCALES",
+    "prenom": "GAUTHIER",
+    "sexe": "M",
+    "dateNaissanceFr": "10\/09\/1997",
+    "idCategorie": "SE",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1461184",
+    "nom": "CASCALES",
+    "prenom": "LAURENT",
+    "sexe": "M",
+    "dateNaissanceFr": "13\/12\/1969",
+    "idCategorie": "M4",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1387002",
+    "nom": "CATHARY",
+    "prenom": "CHRISTOPHE",
+    "sexe": "M",
+    "dateNaissanceFr": "07\/04\/1974",
+    "idCategorie": "M3",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1380506",
+    "nom": "CAUET",
+    "prenom": "CLAUDE",
+    "sexe": "M",
+    "dateNaissanceFr": "21\/08\/1962",
+    "idCategorie": "M5",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1380509",
+    "nom": "CAUET",
+    "prenom": "MARYVONNE",
+    "sexe": "F",
+    "dateNaissanceFr": "23\/04\/1964",
+    "idCategorie": "M5",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "120612",
+    "nom": "CAULET",
+    "prenom": "DOMINIQUE",
+    "sexe": "M",
+    "dateNaissanceFr": "01\/07\/1951",
+    "idCategorie": "M7",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "2071189",
+    "nom": "CAUMARTIN",
+    "prenom": "CHRISTOPHE",
+    "sexe": "M",
+    "dateNaissanceFr": "24\/02\/1970",
+    "idCategorie": "M4",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1824725",
+    "nom": "CAZIER",
+    "prenom": "FABIENNE",
+    "sexe": "F",
+    "dateNaissanceFr": "04\/10\/1971",
+    "idCategorie": "M3",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1723153",
+    "nom": "CAZIER",
+    "prenom": "SEVERINE",
+    "sexe": "F",
+    "dateNaissanceFr": "22\/12\/1972",
+    "idCategorie": "M3",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1680382",
+    "nom": "CHARON",
+    "prenom": "PASCAL",
+    "sexe": "M",
+    "dateNaissanceFr": "29\/06\/1954",
+    "idCategorie": "M7",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1958133",
+    "nom": "CHASSINE",
+    "prenom": "MARIE CELESTE",
+    "sexe": "F",
+    "dateNaissanceFr": "22\/04\/1987",
+    "idCategorie": "M0",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1953193",
+    "nom": "CHESNEAU",
+    "prenom": "MARIE",
+    "sexe": "F",
+    "dateNaissanceFr": "11\/04\/1989",
+    "idCategorie": "M0",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1217179",
+    "nom": "CHICHERY",
+    "prenom": "FABIEN",
+    "sexe": "M",
+    "dateNaissanceFr": "03\/05\/1974",
+    "idCategorie": "M3",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "208803",
+    "nom": "CLAISSE",
+    "prenom": "CHRISTIANE",
+    "sexe": "F",
+    "dateNaissanceFr": "14\/07\/1951",
+    "idCategorie": "M7",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "2065986",
+    "nom": "CLAISSE",
+    "prenom": "JULIEN",
+    "sexe": "M",
+    "dateNaissanceFr": "03\/07\/1979",
+    "idCategorie": "M2",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1392367",
+    "nom": "CLEMENT",
+    "prenom": "CORINNE",
+    "sexe": "F",
+    "dateNaissanceFr": "02\/12\/1968",
+    "idCategorie": "M4",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1960631",
+    "nom": "CLERENTIN",
+    "prenom": "CYRIL",
+    "sexe": "M",
+    "dateNaissanceFr": "28\/09\/1976",
+    "idCategorie": "M2",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1392922",
+    "nom": "COCATRIX",
+    "prenom": "LAURENT",
+    "sexe": "M",
+    "dateNaissanceFr": "18\/02\/1966",
+    "idCategorie": "M4",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1681145",
+    "nom": "COLAU",
+    "prenom": "GERALD",
+    "sexe": "M",
+    "dateNaissanceFr": "19\/11\/1970",
+    "idCategorie": "M4",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1639858",
+    "nom": "COLLIN",
+    "prenom": "ISABELLE",
+    "sexe": "F",
+    "dateNaissanceFr": "06\/12\/1978",
+    "idCategorie": "M2",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1901160",
+    "nom": "COLLOMB",
+    "prenom": "ALEXIS",
+    "sexe": "M",
+    "dateNaissanceFr": "03\/08\/1999",
+    "idCategorie": "SE",
+    "nomClub": "SPORTING CLUB ABBEVILLOIS ATHL"
+  },
+  {
+    "licence": "1829277",
+    "nom": "CONNAN",
+    "prenom": "DOMINIQUE",
+    "sexe": "M",
+    "dateNaissanceFr": "19\/06\/1983",
+    "idCategorie": "M1",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "2071369",
+    "nom": "COUDEVYLLE",
+    "prenom": "VANESSA",
+    "sexe": "F",
+    "dateNaissanceFr": "27\/06\/1974",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1196327",
+    "nom": "COULMONT",
+    "prenom": "ALAIN",
+    "sexe": "M",
+    "dateNaissanceFr": "01\/05\/1965",
+    "idCategorie": "M5",
+    "nomClub": "SPORTING CLUB ABBEVILLOIS ATHL"
+  },
+  {
+    "licence": "1750495",
+    "nom": "COUNE",
+    "prenom": "SYLVIE",
+    "sexe": "F",
+    "dateNaissanceFr": "02\/02\/1969",
+    "idCategorie": "M4",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1759297",
+    "nom": "COUPEL",
+    "prenom": "CHRISTOPHE",
+    "sexe": "M",
+    "dateNaissanceFr": "09\/05\/1977",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1906524",
+    "nom": "COZETTE",
+    "prenom": "DAVID",
+    "sexe": "M",
+    "dateNaissanceFr": "09\/05\/1976",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1743576",
+    "nom": "COZETTE",
+    "prenom": "LUDOVIC",
+    "sexe": "M",
+    "dateNaissanceFr": "12\/12\/1977",
+    "idCategorie": "M2",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1114122",
+    "nom": "CROIZE",
+    "prenom": "JACQUES",
+    "sexe": "M",
+    "dateNaissanceFr": "10\/02\/1966",
+    "idCategorie": "M4",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1081918",
+    "nom": "CROUTTE",
+    "prenom": "JEAN RAYMOND",
+    "sexe": "M",
+    "dateNaissanceFr": "26\/01\/1957",
+    "idCategorie": "M6",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1966901",
+    "nom": "DA SILVA BARBOSA",
+    "prenom": "TEDDY",
+    "sexe": "M",
+    "dateNaissanceFr": "11\/03\/1982",
+    "idCategorie": "M1",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2074097",
+    "nom": "DACHEUX",
+    "prenom": "ELODIE",
+    "sexe": "F",
+    "dateNaissanceFr": "28\/06\/1985",
+    "idCategorie": "M1",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1894249",
+    "nom": "DALONGEVILLE",
+    "prenom": "AURELIEN",
+    "sexe": "M",
+    "dateNaissanceFr": "18\/11\/1983",
+    "idCategorie": "M1",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "2071179",
+    "nom": "DALONGEVILLE",
+    "prenom": "VERONIQUE",
+    "sexe": "F",
+    "dateNaissanceFr": "20\/07\/1985",
+    "idCategorie": "M1",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1095945",
+    "nom": "DAMAY",
+    "prenom": "OLIVIER",
+    "sexe": "M",
+    "dateNaissanceFr": "05\/03\/1956",
+    "idCategorie": "M6",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1063343",
+    "nom": "DAMIENS",
+    "prenom": "DOMINIQUE",
+    "sexe": "M",
+    "dateNaissanceFr": "21\/05\/1956",
+    "idCategorie": "M6",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1980332",
+    "nom": "DANIEL",
+    "prenom": "KEVIN",
+    "sexe": "M",
+    "dateNaissanceFr": "20\/06\/1997",
+    "idCategorie": "SE",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1987082",
+    "nom": "DARRAS",
+    "prenom": "REGINE",
+    "sexe": "F",
+    "dateNaissanceFr": "29\/06\/1979",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1313570",
+    "nom": "DASSE",
+    "prenom": "FREDERIC",
+    "sexe": "M",
+    "dateNaissanceFr": "19\/04\/1969",
+    "idCategorie": "M4",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1863322",
+    "nom": "DAVOUSE",
+    "prenom": "THOMAS",
+    "sexe": "M",
+    "dateNaissanceFr": "15\/12\/1971",
+    "idCategorie": "M3",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1942432",
+    "nom": "DE BAILLIENCOURT",
+    "prenom": "NATHALIE",
+    "sexe": "F",
+    "dateNaissanceFr": "01\/08\/1975",
+    "idCategorie": "M3",
+    "nomClub": "SPORTING CLUB ABBEVILLOIS ATHL"
+  },
+  {
+    "licence": "1062612",
+    "nom": "DEBEAUVAIS",
+    "prenom": "CHRISTIAN",
+    "sexe": "M",
+    "dateNaissanceFr": "22\/12\/1951",
+    "idCategorie": "M7",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1672765",
+    "nom": "DEBRAY",
+    "prenom": "MICHEL",
+    "sexe": "M",
+    "dateNaissanceFr": "08\/08\/1959",
+    "idCategorie": "M6",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "2077084",
+    "nom": "DEBUSSCHER",
+    "prenom": "JEAN",
+    "sexe": "M",
+    "dateNaissanceFr": "24\/04\/2005",
+    "idCategorie": "ES",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1599459",
+    "nom": "DECLE",
+    "prenom": "CLAUDINE",
+    "sexe": "F",
+    "dateNaissanceFr": "13\/07\/1960",
+    "idCategorie": "M6",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1650846",
+    "nom": "DECLERCQ",
+    "prenom": "GUILHEM",
+    "sexe": "M",
+    "dateNaissanceFr": "30\/01\/2001",
+    "idCategorie": "SE",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1756436",
+    "nom": "DECOBERT",
+    "prenom": "FRANCK",
+    "sexe": "M",
+    "dateNaissanceFr": "06\/07\/1963",
+    "idCategorie": "M5",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1288882",
+    "nom": "DECOUTURE",
+    "prenom": "CHRISTOPHE",
+    "sexe": "M",
+    "dateNaissanceFr": "09\/08\/1970",
+    "idCategorie": "M4",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1940956",
+    "nom": "DEFOSSE",
+    "prenom": "LAETITIA",
+    "sexe": "F",
+    "dateNaissanceFr": "29\/01\/1980",
+    "idCategorie": "M2",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1411882",
+    "nom": "DEGARDIN",
+    "prenom": "STEVEN",
+    "sexe": "M",
+    "dateNaissanceFr": "31\/08\/1984",
+    "idCategorie": "M1",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1187974",
+    "nom": "DEGAVRE",
+    "prenom": "MATHIEU",
+    "sexe": "M",
+    "dateNaissanceFr": "20\/09\/1980",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2096796",
+    "nom": "DEHAIL",
+    "prenom": "CORINNE",
+    "sexe": "F",
+    "dateNaissanceFr": "24\/09\/1978",
+    "idCategorie": "M2",
+    "nomClub": "SPORTING CLUB ABBEVILLOIS ATHL"
+  },
+  {
+    "licence": "1651105",
+    "nom": "DEJANCOURT",
+    "prenom": "AMANDINE",
+    "sexe": "F",
+    "dateNaissanceFr": "07\/05\/1983",
+    "idCategorie": "M1",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1657465",
+    "nom": "DEKERVEL",
+    "prenom": "ALINE",
+    "sexe": "F",
+    "dateNaissanceFr": "25\/03\/1980",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1062542",
+    "nom": "DEKOONINCK",
+    "prenom": "JEAN PAUL",
+    "sexe": "M",
+    "dateNaissanceFr": "23\/07\/1952",
+    "idCategorie": "M7",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1761615",
+    "nom": "DELAFOSSE",
+    "prenom": "NAOMIE",
+    "sexe": "F",
+    "dateNaissanceFr": "12\/08\/1971",
+    "idCategorie": "M3",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "2074441",
+    "nom": "DELAHAYE",
+    "prenom": "JULIEN",
+    "sexe": "M",
+    "dateNaissanceFr": "02\/07\/1991",
+    "idCategorie": "SE",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1846416",
+    "nom": "DELAMBRE",
+    "prenom": "JACQUES",
+    "sexe": "M",
+    "dateNaissanceFr": "09\/07\/1957",
+    "idCategorie": "M6",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1823351",
+    "nom": "DELAMBRE",
+    "prenom": "MELANIE",
+    "sexe": "F",
+    "dateNaissanceFr": "11\/04\/1983",
+    "idCategorie": "M1",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1390589",
+    "nom": "DELANGUE",
+    "prenom": "FREDERIC",
+    "sexe": "M",
+    "dateNaissanceFr": "31\/01\/1971",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1965024",
+    "nom": "DELAPORTE",
+    "prenom": "LAURENT",
+    "sexe": "M",
+    "dateNaissanceFr": "26\/06\/1977",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1134664",
+    "nom": "DELATTRE",
+    "prenom": "EMMANUEL",
+    "sexe": "M",
+    "dateNaissanceFr": "25\/12\/1951",
+    "idCategorie": "M7",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1062531",
+    "nom": "DELATTRE",
+    "prenom": "JEAN MARIE",
+    "sexe": "M",
+    "dateNaissanceFr": "30\/05\/1946",
+    "idCategorie": "M8",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1444561",
+    "nom": "DELBRAYELLE",
+    "prenom": "CHRISTELLE",
+    "sexe": "F",
+    "dateNaissanceFr": "06\/06\/1970",
+    "idCategorie": "M4",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1494697",
+    "nom": "DELBRAYELLE",
+    "prenom": "CLEMENT",
+    "sexe": "M",
+    "dateNaissanceFr": "08\/04\/1996",
+    "idCategorie": "SE",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1431360",
+    "nom": "DELBRAYELLLE",
+    "prenom": "THEO",
+    "sexe": "M",
+    "dateNaissanceFr": "28\/06\/2001",
+    "idCategorie": "SE",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1267588",
+    "nom": "DELCROS",
+    "prenom": "CRISTELE",
+    "sexe": "F",
+    "dateNaissanceFr": "18\/08\/1968",
+    "idCategorie": "M4",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1062659",
+    "nom": "DELEFOLLY",
+    "prenom": "BENOIT",
+    "sexe": "M",
+    "dateNaissanceFr": "19\/02\/1977",
+    "idCategorie": "M2",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1758145",
+    "nom": "DELEPINE",
+    "prenom": "BERTRAND",
+    "sexe": "M",
+    "dateNaissanceFr": "24\/04\/1982",
+    "idCategorie": "M1",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1556154",
+    "nom": "DELIENS",
+    "prenom": "ROMUALD",
+    "sexe": "M",
+    "dateNaissanceFr": "16\/02\/1974",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2029973",
+    "nom": "DEMABRE",
+    "prenom": "AGNES",
+    "sexe": "F",
+    "dateNaissanceFr": "04\/02\/1969",
+    "idCategorie": "M4",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1951380",
+    "nom": "DEMARCY",
+    "prenom": "CHRISTELLE",
+    "sexe": "F",
+    "dateNaissanceFr": "11\/10\/1973",
+    "idCategorie": "M3",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1337730",
+    "nom": "DEMARLE",
+    "prenom": "PHILIPPE",
+    "sexe": "M",
+    "dateNaissanceFr": "05\/08\/1950",
+    "idCategorie": "M8",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1863279",
+    "nom": "DEMARSEILLE",
+    "prenom": "MARTIAL",
+    "sexe": "M",
+    "dateNaissanceFr": "12\/11\/1969",
+    "idCategorie": "M4",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1770185",
+    "nom": "DEMILLY",
+    "prenom": "STEPHANE",
+    "sexe": "M",
+    "dateNaissanceFr": "26\/06\/1963",
+    "idCategorie": "M5",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1516301",
+    "nom": "DENEL",
+    "prenom": "ARNAUD",
+    "sexe": "M",
+    "dateNaissanceFr": "22\/06\/1978",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1217329",
+    "nom": "DENEUX",
+    "prenom": "CLAUDE",
+    "sexe": "M",
+    "dateNaissanceFr": "10\/04\/1970",
+    "idCategorie": "M4",
+    "nomClub": "SPORTING CLUB ABBEVILLOIS ATHL"
+  },
+  {
+    "licence": "1650843",
+    "nom": "DENIN",
+    "prenom": "NICOLAS",
+    "sexe": "M",
+    "dateNaissanceFr": "21\/04\/1985",
+    "idCategorie": "M1",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1461132",
+    "nom": "DEPUILLE",
+    "prenom": "CELINE",
+    "sexe": "F",
+    "dateNaissanceFr": "08\/09\/1976",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1608045",
+    "nom": "DESCAMPS",
+    "prenom": "DENIS",
+    "sexe": "M",
+    "dateNaissanceFr": "07\/10\/1967",
+    "idCategorie": "M4",
+    "nomClub": "SAINT-OUEN DSL"
+  },
+  {
+    "licence": "1744303",
+    "nom": "DESLANDES",
+    "prenom": "SEVERINE",
+    "sexe": "F",
+    "dateNaissanceFr": "30\/04\/1979",
+    "idCategorie": "M2",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "2080071",
+    "nom": "DESMAREST",
+    "prenom": "MARIE",
+    "sexe": "F",
+    "dateNaissanceFr": "21\/08\/2003",
+    "idCategorie": "ES",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1888688",
+    "nom": "DESMARET",
+    "prenom": "JADE",
+    "sexe": "F",
+    "dateNaissanceFr": "03\/04\/2003",
+    "idCategorie": "ES",
+    "nomClub": "SPORTING CLUB ABBEVILLOIS ATHL"
+  },
+  {
+    "licence": "2000417",
+    "nom": "DESWAERTE",
+    "prenom": "CHARLES",
+    "sexe": "M",
+    "dateNaissanceFr": "23\/01\/1995",
+    "idCategorie": "SE",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1867354",
+    "nom": "DETOURNAY",
+    "prenom": "ALAIN",
+    "sexe": "M",
+    "dateNaissanceFr": "26\/09\/1987",
+    "idCategorie": "M0",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2029188",
+    "nom": "DEVILLERS",
+    "prenom": "FREDERIC",
+    "sexe": "M",
+    "dateNaissanceFr": "15\/08\/1974",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1973450",
+    "nom": "DEVISMES",
+    "prenom": "LAURENT",
+    "sexe": "M",
+    "dateNaissanceFr": "07\/11\/1976",
+    "idCategorie": "M2",
+    "nomClub": "SPORTING CLUB ABBEVILLOIS ATHL"
+  },
+  {
+    "licence": "1375582",
+    "nom": "DEWITTE",
+    "prenom": "MICKAEL",
+    "sexe": "M",
+    "dateNaissanceFr": "13\/10\/1974",
+    "idCategorie": "M3",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1754592",
+    "nom": "DEZENCLOS",
+    "prenom": "FREDERIQUE",
+    "sexe": "F",
+    "dateNaissanceFr": "07\/09\/1962",
+    "idCategorie": "M5",
+    "nomClub": "SAINT-OUEN DSL"
+  },
+  {
+    "licence": "2076725",
+    "nom": "DHAILLE",
+    "prenom": "GUILLAUME",
+    "sexe": "M",
+    "dateNaissanceFr": "04\/11\/1980",
+    "idCategorie": "M2",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "122697",
+    "nom": "DHEILLY",
+    "prenom": "AMELINE",
+    "sexe": "F",
+    "dateNaissanceFr": "31\/03\/1988",
+    "idCategorie": "M0",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1516306",
+    "nom": "DHERSE",
+    "prenom": "VIRGINIE",
+    "sexe": "F",
+    "dateNaissanceFr": "13\/05\/1981",
+    "idCategorie": "M1",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1427762",
+    "nom": "DHUBERT",
+    "prenom": "DOROTHEE",
+    "sexe": "F",
+    "dateNaissanceFr": "08\/05\/1973",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1062529",
+    "nom": "DIETRICH",
+    "prenom": "PASCAL",
+    "sexe": "M",
+    "dateNaissanceFr": "25\/12\/1965",
+    "idCategorie": "M5",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2049060",
+    "nom": "DOLLE",
+    "prenom": "SANDRINE",
+    "sexe": "F",
+    "dateNaissanceFr": "04\/03\/1978",
+    "idCategorie": "M2",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "2071374",
+    "nom": "DOMINGUES ALVES",
+    "prenom": "JEAN PAUL",
+    "sexe": "M",
+    "dateNaissanceFr": "10\/04\/1975",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2071377",
+    "nom": "DORDAIN",
+    "prenom": "STEPHANE",
+    "sexe": "M",
+    "dateNaissanceFr": "07\/11\/1974",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2087820",
+    "nom": "DOS SANTOS",
+    "prenom": "MAEL",
+    "sexe": "M",
+    "dateNaissanceFr": "13\/11\/2005",
+    "idCategorie": "ES",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1676555",
+    "nom": "DOUTART",
+    "prenom": "MELANIE",
+    "sexe": "F",
+    "dateNaissanceFr": "11\/01\/1989",
+    "idCategorie": "M0",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1850972",
+    "nom": "DRUEZ",
+    "prenom": "BRUNO",
+    "sexe": "M",
+    "dateNaissanceFr": "19\/05\/1969",
+    "idCategorie": "M4",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1558815",
+    "nom": "DUBOIS",
+    "prenom": "FREDERIC",
+    "sexe": "M",
+    "dateNaissanceFr": "16\/08\/1963",
+    "idCategorie": "M5",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1115977",
+    "nom": "DUBREUCQ",
+    "prenom": "ANTOINE",
+    "sexe": "M",
+    "dateNaissanceFr": "31\/07\/1978",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1115979",
+    "nom": "DUBREUCQ",
+    "prenom": "LUDOVIC",
+    "sexe": "M",
+    "dateNaissanceFr": "20\/03\/1977",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1184435",
+    "nom": "DUBUC",
+    "prenom": "FRANCIS",
+    "sexe": "M",
+    "dateNaissanceFr": "07\/06\/1960",
+    "idCategorie": "M6",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2044892",
+    "nom": "DUBUC",
+    "prenom": "MARIE",
+    "sexe": "F",
+    "dateNaissanceFr": "20\/11\/1971",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1993205",
+    "nom": "DUFOUR",
+    "prenom": "LOUISE",
+    "sexe": "F",
+    "dateNaissanceFr": "11\/12\/2004",
+    "idCategorie": "ES",
+    "nomClub": "SPORTING CLUB ABBEVILLOIS ATHL"
+  },
+  {
+    "licence": "2016795",
+    "nom": "DUHAMEL",
+    "prenom": "JULIE",
+    "sexe": "F",
+    "dateNaissanceFr": "02\/12\/1985",
+    "idCategorie": "M1",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1966884",
+    "nom": "DUHAMEL",
+    "prenom": "RUDY",
+    "sexe": "M",
+    "dateNaissanceFr": "27\/11\/1977",
+    "idCategorie": "M2",
+    "nomClub": "SAINT-OUEN DSL"
+  },
+  {
+    "licence": "1962493",
+    "nom": "DUHAUPAS",
+    "prenom": "SAMUEL",
+    "sexe": "M",
+    "dateNaissanceFr": "25\/08\/1983",
+    "idCategorie": "M1",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1957144",
+    "nom": "DUPAS",
+    "prenom": "STEPHANE",
+    "sexe": "M",
+    "dateNaissanceFr": "27\/04\/1969",
+    "idCategorie": "M4",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "2071798",
+    "nom": "DUPONCHEL",
+    "prenom": "CONSTANCE",
+    "sexe": "F",
+    "dateNaissanceFr": "07\/10\/1990",
+    "idCategorie": "M0",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "2071796",
+    "nom": "DUPONCHEL",
+    "prenom": "MATTHIEU",
+    "sexe": "M",
+    "dateNaissanceFr": "25\/11\/1990",
+    "idCategorie": "M0",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1571497",
+    "nom": "DUPONCHELLE",
+    "prenom": "VALERIE",
+    "sexe": "F",
+    "dateNaissanceFr": "19\/11\/1972",
+    "idCategorie": "M3",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "128599",
+    "nom": "DUPONT",
+    "prenom": "FABIOLA",
+    "sexe": "F",
+    "dateNaissanceFr": "04\/03\/1975",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1862020",
+    "nom": "DUPONT",
+    "prenom": "GAEL",
+    "sexe": "M",
+    "dateNaissanceFr": "07\/05\/1982",
+    "idCategorie": "M1",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1555734",
+    "nom": "DUPUIS",
+    "prenom": "GWENAELLE",
+    "sexe": "F",
+    "dateNaissanceFr": "06\/10\/1975",
+    "idCategorie": "M3",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1825711",
+    "nom": "DUQUENHEM",
+    "prenom": "CORINNE",
+    "sexe": "F",
+    "dateNaissanceFr": "23\/09\/1967",
+    "idCategorie": "M4",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "2073792",
+    "nom": "DUQUESNE",
+    "prenom": "FRANCOIS",
+    "sexe": "M",
+    "dateNaissanceFr": "30\/12\/1991",
+    "idCategorie": "SE",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1300664",
+    "nom": "DURAND",
+    "prenom": "ROBERT",
+    "sexe": "M",
+    "dateNaissanceFr": "31\/01\/1958",
+    "idCategorie": "M6",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1415727",
+    "nom": "DUVERNE",
+    "prenom": "JULIE",
+    "sexe": "F",
+    "dateNaissanceFr": "22\/10\/1984",
+    "idCategorie": "M1",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1246359",
+    "nom": "DUVETTE",
+    "prenom": "MAXIMILIEN",
+    "sexe": "M",
+    "dateNaissanceFr": "23\/05\/1987",
+    "idCategorie": "M0",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1221034",
+    "nom": "DUVIELGUERBIGNY",
+    "prenom": "BENOIT",
+    "sexe": "M",
+    "dateNaissanceFr": "03\/12\/1975",
+    "idCategorie": "M3",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "2099482",
+    "nom": "EL MOURTAFI",
+    "prenom": "SAID",
+    "sexe": "M",
+    "dateNaissanceFr": "11\/04\/1979",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1158463",
+    "nom": "ELIAS",
+    "prenom": "EMMANUEL",
+    "sexe": "M",
+    "dateNaissanceFr": "03\/11\/1968",
+    "idCategorie": "M4",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "2010299",
+    "nom": "ELMEMARI PUBLIO",
+    "prenom": "ANA PAULA",
+    "sexe": "F",
+    "dateNaissanceFr": "26\/12\/1976",
+    "idCategorie": "M2",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1662139",
+    "nom": "EUGENE",
+    "prenom": "PEGGY",
+    "sexe": "F",
+    "dateNaissanceFr": "29\/03\/1972",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1918777",
+    "nom": "EVEN",
+    "prenom": "GUILLAUME",
+    "sexe": "M",
+    "dateNaissanceFr": "06\/07\/1983",
+    "idCategorie": "M1",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1267512",
+    "nom": "FATIER",
+    "prenom": "ODILE",
+    "sexe": "F",
+    "dateNaissanceFr": "23\/12\/1971",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1216712",
+    "nom": "FAUCHEUX",
+    "prenom": "LAURENCE",
+    "sexe": "F",
+    "dateNaissanceFr": "13\/03\/1970",
+    "idCategorie": "M4",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1980321",
+    "nom": "FAUVERGUE",
+    "prenom": "BENJAMIN",
+    "sexe": "M",
+    "dateNaissanceFr": "02\/02\/1990",
+    "idCategorie": "M0",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1878810",
+    "nom": "FAY",
+    "prenom": "STEPHANIE",
+    "sexe": "F",
+    "dateNaissanceFr": "01\/12\/1969",
+    "idCategorie": "M4",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1696704",
+    "nom": "FECAMP",
+    "prenom": "AGNES",
+    "sexe": "F",
+    "dateNaissanceFr": "26\/12\/1970",
+    "idCategorie": "M4",
+    "nomClub": "SAINT-OUEN DSL"
+  },
+  {
+    "licence": "1291516",
+    "nom": "FERKIOUI",
+    "prenom": "ALI",
+    "sexe": "M",
+    "dateNaissanceFr": "27\/02\/1967",
+    "idCategorie": "M4",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1751038",
+    "nom": "FERNANDES",
+    "prenom": "SANDRINE",
+    "sexe": "F",
+    "dateNaissanceFr": "04\/07\/1974",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1933244",
+    "nom": "FERNET",
+    "prenom": "LISE",
+    "sexe": "F",
+    "dateNaissanceFr": "10\/10\/1967",
+    "idCategorie": "M4",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "202748",
+    "nom": "FEUCHER",
+    "prenom": "JEAN LUC",
+    "sexe": "M",
+    "dateNaissanceFr": "05\/06\/1959",
+    "idCategorie": "M6",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1888097",
+    "nom": "FEURTE",
+    "prenom": "CYRILLE",
+    "sexe": "F",
+    "dateNaissanceFr": "03\/10\/1971",
+    "idCategorie": "M3",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1653146",
+    "nom": "FEURTE",
+    "prenom": "SEBASTIEN",
+    "sexe": "M",
+    "dateNaissanceFr": "31\/08\/1972",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2083407",
+    "nom": "FINET",
+    "prenom": "JULIEN",
+    "sexe": "M",
+    "dateNaissanceFr": "14\/07\/1980",
+    "idCategorie": "M2",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1794083",
+    "nom": "FLAHAUT",
+    "prenom": "FREDERIC",
+    "sexe": "M",
+    "dateNaissanceFr": "22\/05\/1978",
+    "idCategorie": "M2",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1217891",
+    "nom": "FLAMENT",
+    "prenom": "SAMUEL",
+    "sexe": "M",
+    "dateNaissanceFr": "24\/10\/1982",
+    "idCategorie": "M1",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1778661",
+    "nom": "FLAN",
+    "prenom": "DIMITRI",
+    "sexe": "M",
+    "dateNaissanceFr": "31\/08\/1977",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1233503",
+    "nom": "FLAUTRE",
+    "prenom": "VINCENT",
+    "sexe": "M",
+    "dateNaissanceFr": "06\/03\/1961",
+    "idCategorie": "M5",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1419551",
+    "nom": "FLEURET",
+    "prenom": "MARIE ODILE",
+    "sexe": "F",
+    "dateNaissanceFr": "04\/04\/1966",
+    "idCategorie": "M4",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1526008",
+    "nom": "FLORIN",
+    "prenom": "CHARLOTTE",
+    "sexe": "F",
+    "dateNaissanceFr": "27\/08\/1996",
+    "idCategorie": "SE",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1408373",
+    "nom": "FONTAINE",
+    "prenom": "NELLY",
+    "sexe": "F",
+    "dateNaissanceFr": "16\/07\/1979",
+    "idCategorie": "M2",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "143607",
+    "nom": "FOSSIER",
+    "prenom": "STEPHANE",
+    "sexe": "M",
+    "dateNaissanceFr": "02\/03\/1969",
+    "idCategorie": "M4",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1535411",
+    "nom": "FOUET",
+    "prenom": "CAROLINE",
+    "sexe": "F",
+    "dateNaissanceFr": "08\/09\/1975",
+    "idCategorie": "M3",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1756431",
+    "nom": "FOURDINIER",
+    "prenom": "QUENTIN",
+    "sexe": "M",
+    "dateNaissanceFr": "23\/02\/1989",
+    "idCategorie": "M0",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1383397",
+    "nom": "FOURMANOIR",
+    "prenom": "GUILLAUME",
+    "sexe": "M",
+    "dateNaissanceFr": "09\/03\/1976",
+    "idCategorie": "M2",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1879381",
+    "nom": "FOURNIER",
+    "prenom": "YOHANN",
+    "sexe": "M",
+    "dateNaissanceFr": "26\/05\/1979",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2010619",
+    "nom": "FRANCATEL",
+    "prenom": "LAURENT",
+    "sexe": "M",
+    "dateNaissanceFr": "04\/09\/1970",
+    "idCategorie": "M4",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "208801",
+    "nom": "FRANCELLE",
+    "prenom": "HUBERT",
+    "sexe": "M",
+    "dateNaissanceFr": "27\/06\/1950",
+    "idCategorie": "M8",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1265896",
+    "nom": "FREIH",
+    "prenom": "NAIMA",
+    "sexe": "F",
+    "dateNaissanceFr": "06\/05\/2002",
+    "idCategorie": "SE",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "2071711",
+    "nom": "GAFFE",
+    "prenom": "EDDY",
+    "sexe": "M",
+    "dateNaissanceFr": "16\/02\/1988",
+    "idCategorie": "M0",
+    "nomClub": "SPORTING CLUB ABBEVILLOIS ATHL"
+  },
+  {
+    "licence": "1875202",
+    "nom": "GALET",
+    "prenom": "LAURY",
+    "sexe": "F",
+    "dateNaissanceFr": "13\/09\/1982",
+    "idCategorie": "M1",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1735670",
+    "nom": "GALLAIS",
+    "prenom": "LAURENCE",
+    "sexe": "F",
+    "dateNaissanceFr": "06\/10\/1967",
+    "idCategorie": "M4",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1987090",
+    "nom": "GAMARD",
+    "prenom": "CHRISTOPHE",
+    "sexe": "M",
+    "dateNaissanceFr": "02\/07\/1967",
+    "idCategorie": "M4",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1955850",
+    "nom": "GANTIER",
+    "prenom": "BAPTISTE",
+    "sexe": "M",
+    "dateNaissanceFr": "19\/11\/1999",
+    "idCategorie": "SE",
+    "nomClub": "SPORTING CLUB ABBEVILLOIS ATHL"
+  },
+  {
+    "licence": "2094431",
+    "nom": "GASPARINI",
+    "prenom": "MATTHIEU",
+    "sexe": "M",
+    "dateNaissanceFr": "07\/11\/1981",
+    "idCategorie": "M1",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1861421",
+    "nom": "GASTIGAR",
+    "prenom": "FABIEN",
+    "sexe": "M",
+    "dateNaissanceFr": "18\/09\/1978",
+    "idCategorie": "M2",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1596432",
+    "nom": "GAUMET",
+    "prenom": "PASCALINE",
+    "sexe": "F",
+    "dateNaissanceFr": "01\/12\/1983",
+    "idCategorie": "M1",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2057667",
+    "nom": "GAUTHIER",
+    "prenom": "VALERIE",
+    "sexe": "F",
+    "dateNaissanceFr": "10\/10\/1979",
+    "idCategorie": "M2",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1064555",
+    "nom": "GAY",
+    "prenom": "ERIC",
+    "sexe": "M",
+    "dateNaissanceFr": "22\/08\/1960",
+    "idCategorie": "M6",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1756092",
+    "nom": "GAY",
+    "prenom": "VALENTIN",
+    "sexe": "M",
+    "dateNaissanceFr": "21\/05\/1994",
+    "idCategorie": "SE",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1970505",
+    "nom": "GAZEAU",
+    "prenom": "CHLOE",
+    "sexe": "F",
+    "dateNaissanceFr": "06\/03\/1994",
+    "idCategorie": "SE",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1254657",
+    "nom": "GELE",
+    "prenom": "GREGORY",
+    "sexe": "M",
+    "dateNaissanceFr": "24\/10\/1984",
+    "idCategorie": "M1",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1526914",
+    "nom": "GELLE",
+    "prenom": "LUDOVIC",
+    "sexe": "M",
+    "dateNaissanceFr": "13\/03\/1971",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1567034",
+    "nom": "GENART",
+    "prenom": "SAMUEL",
+    "sexe": "M",
+    "dateNaissanceFr": "19\/05\/1982",
+    "idCategorie": "M1",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1747675",
+    "nom": "GEORGES",
+    "prenom": "SEBASTIEN",
+    "sexe": "M",
+    "dateNaissanceFr": "03\/03\/1978",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1519038",
+    "nom": "GERARD",
+    "prenom": "GAETAN",
+    "sexe": "M",
+    "dateNaissanceFr": "12\/11\/1998",
+    "idCategorie": "SE",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1362979",
+    "nom": "GERU",
+    "prenom": "SYLVIE",
+    "sexe": "F",
+    "dateNaissanceFr": "27\/04\/1966",
+    "idCategorie": "M4",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1062617",
+    "nom": "GERVOISE",
+    "prenom": "MAXIMILIEN",
+    "sexe": "M",
+    "dateNaissanceFr": "19\/01\/1978",
+    "idCategorie": "M2",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "2020533",
+    "nom": "GHANDAOUI",
+    "prenom": "ILYAS",
+    "sexe": "M",
+    "dateNaissanceFr": "08\/09\/2004",
+    "idCategorie": "ES",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1865352",
+    "nom": "GHANDAOUI",
+    "prenom": "YASSINE",
+    "sexe": "M",
+    "dateNaissanceFr": "16\/06\/1981",
+    "idCategorie": "M1",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1878820",
+    "nom": "GIBOULET",
+    "prenom": "JULIETTE",
+    "sexe": "F",
+    "dateNaissanceFr": "16\/06\/1972",
+    "idCategorie": "M3",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1573449",
+    "nom": "GIBOULET",
+    "prenom": "PAUL",
+    "sexe": "M",
+    "dateNaissanceFr": "06\/05\/2004",
+    "idCategorie": "ES",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1491169",
+    "nom": "GIFFARD",
+    "prenom": "MATHILDE",
+    "sexe": "F",
+    "dateNaissanceFr": "23\/11\/1997",
+    "idCategorie": "SE",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "2092087",
+    "nom": "GILLE",
+    "prenom": "YOHAN",
+    "sexe": "M",
+    "dateNaissanceFr": "23\/04\/1989",
+    "idCategorie": "M0",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1062620",
+    "nom": "GILLON",
+    "prenom": "BRIGITTE",
+    "sexe": "F",
+    "dateNaissanceFr": "25\/08\/1960",
+    "idCategorie": "M6",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1464826",
+    "nom": "GODE",
+    "prenom": "OLIVIER",
+    "sexe": "M",
+    "dateNaissanceFr": "31\/12\/1973",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2038929",
+    "nom": "GODOT",
+    "prenom": "VIRGINIE",
+    "sexe": "F",
+    "dateNaissanceFr": "22\/06\/1974",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1245397",
+    "nom": "GORDOR",
+    "prenom": "FREDERIC",
+    "sexe": "M",
+    "dateNaissanceFr": "25\/08\/1978",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1576423",
+    "nom": "GOSSELIN",
+    "prenom": "THOMAS",
+    "sexe": "M",
+    "dateNaissanceFr": "10\/11\/1974",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1269267",
+    "nom": "GOSSELIN",
+    "prenom": "VIRGINIE",
+    "sexe": "F",
+    "dateNaissanceFr": "19\/01\/1975",
+    "idCategorie": "M3",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "2071637",
+    "nom": "GOTTIS",
+    "prenom": "VANESSA",
+    "sexe": "F",
+    "dateNaissanceFr": "18\/04\/1982",
+    "idCategorie": "M1",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1794059",
+    "nom": "GOUBET",
+    "prenom": "CHRISTELLE",
+    "sexe": "F",
+    "dateNaissanceFr": "16\/05\/1971",
+    "idCategorie": "M3",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1973429",
+    "nom": "GREBONVAL",
+    "prenom": "BRIGITTE",
+    "sexe": "F",
+    "dateNaissanceFr": "27\/08\/1958",
+    "idCategorie": "M6",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1384737",
+    "nom": "GRISONI",
+    "prenom": "JACK",
+    "sexe": "M",
+    "dateNaissanceFr": "09\/07\/1949",
+    "idCategorie": "M8",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1410136",
+    "nom": "GRISONI",
+    "prenom": "THEO",
+    "sexe": "M",
+    "dateNaissanceFr": "18\/10\/1999",
+    "idCategorie": "SE",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1838144",
+    "nom": "GROGNOT",
+    "prenom": "YANNICK",
+    "sexe": "M",
+    "dateNaissanceFr": "16\/06\/1981",
+    "idCategorie": "M1",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1940013",
+    "nom": "GROSSI",
+    "prenom": "CAMILLE",
+    "sexe": "F",
+    "dateNaissanceFr": "30\/01\/2000",
+    "idCategorie": "SE",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1573082",
+    "nom": "GROSSI",
+    "prenom": "DIDIER",
+    "sexe": "M",
+    "dateNaissanceFr": "18\/01\/1966",
+    "idCategorie": "M4",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1531258",
+    "nom": "GROSSI",
+    "prenom": "SOPHIE",
+    "sexe": "F",
+    "dateNaissanceFr": "29\/01\/1967",
+    "idCategorie": "M4",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1448306",
+    "nom": "GUILLERAND",
+    "prenom": "SANDRA",
+    "sexe": "F",
+    "dateNaissanceFr": "14\/09\/1975",
+    "idCategorie": "M3",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1259972",
+    "nom": "HALLIER",
+    "prenom": "GILLES",
+    "sexe": "M",
+    "dateNaissanceFr": "23\/07\/1959",
+    "idCategorie": "M6",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1149978",
+    "nom": "HAMIEZ",
+    "prenom": "BERNARD",
+    "sexe": "M",
+    "dateNaissanceFr": "02\/12\/1963",
+    "idCategorie": "M5",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1191092",
+    "nom": "HAMIEZ",
+    "prenom": "MICKAEL",
+    "sexe": "M",
+    "dateNaissanceFr": "01\/05\/1974",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1999386",
+    "nom": "HANNECART",
+    "prenom": "ESTELLE",
+    "sexe": "F",
+    "dateNaissanceFr": "18\/08\/1977",
+    "idCategorie": "M2",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "2033990",
+    "nom": "HANNECART",
+    "prenom": "MARIANNE",
+    "sexe": "F",
+    "dateNaissanceFr": "18\/07\/2004",
+    "idCategorie": "ES",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1668502",
+    "nom": "HARASSE",
+    "prenom": "OLIVIER",
+    "sexe": "M",
+    "dateNaissanceFr": "11\/10\/1982",
+    "idCategorie": "M1",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1756075",
+    "nom": "HART",
+    "prenom": "CHRISTOPHE",
+    "sexe": "M",
+    "dateNaissanceFr": "06\/02\/1970",
+    "idCategorie": "M4",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1914576",
+    "nom": "HATIF",
+    "prenom": "FREDERIC",
+    "sexe": "M",
+    "dateNaissanceFr": "03\/06\/1969",
+    "idCategorie": "M4",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "2079767",
+    "nom": "HAUTECOEUR",
+    "prenom": "RENAUD",
+    "sexe": "M",
+    "dateNaissanceFr": "11\/09\/1976",
+    "idCategorie": "M2",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "2072833",
+    "nom": "HAVRET",
+    "prenom": "EMILIE",
+    "sexe": "F",
+    "dateNaissanceFr": "14\/08\/1983",
+    "idCategorie": "M1",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1095947",
+    "nom": "HECART",
+    "prenom": "DANIEL",
+    "sexe": "M",
+    "dateNaissanceFr": "22\/02\/1963",
+    "idCategorie": "M5",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1285547",
+    "nom": "HEIN",
+    "prenom": "XAVIER",
+    "sexe": "M",
+    "dateNaissanceFr": "29\/12\/1976",
+    "idCategorie": "M2",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "2085241",
+    "nom": "HENONIN",
+    "prenom": "VERONIQUE",
+    "sexe": "F",
+    "dateNaissanceFr": "22\/07\/1976",
+    "idCategorie": "M2",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1874064",
+    "nom": "HERMANT",
+    "prenom": "FANNY",
+    "sexe": "F",
+    "dateNaissanceFr": "11\/10\/1976",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1749441",
+    "nom": "HERMITTE",
+    "prenom": "PASCAL",
+    "sexe": "M",
+    "dateNaissanceFr": "13\/08\/1956",
+    "idCategorie": "M6",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2077056",
+    "nom": "HILEY",
+    "prenom": "ALEXANDER",
+    "sexe": "M",
+    "dateNaissanceFr": "02\/07\/1982",
+    "idCategorie": "M1",
+    "nomClub": "SPORTING CLUB ABBEVILLOIS ATHL"
+  },
+  {
+    "licence": "1291718",
+    "nom": "HOLLEVILLE",
+    "prenom": "FRANCINE",
+    "sexe": "F",
+    "dateNaissanceFr": "11\/06\/1957",
+    "idCategorie": "M6",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1705876",
+    "nom": "HOLLVILLE",
+    "prenom": "ESTELLE",
+    "sexe": "F",
+    "dateNaissanceFr": "31\/07\/1971",
+    "idCategorie": "M3",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1848911",
+    "nom": "HOLLVILLE",
+    "prenom": "SABINE",
+    "sexe": "F",
+    "dateNaissanceFr": "20\/10\/1968",
+    "idCategorie": "M4",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1520358",
+    "nom": "HONORE",
+    "prenom": "CATHERINE",
+    "sexe": "F",
+    "dateNaissanceFr": "06\/02\/1960",
+    "idCategorie": "M6",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1733001",
+    "nom": "HONORE",
+    "prenom": "PAUL",
+    "sexe": "M",
+    "dateNaissanceFr": "25\/05\/1972",
+    "idCategorie": "M3",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1824728",
+    "nom": "HONVOH",
+    "prenom": "SANDRINE",
+    "sexe": "F",
+    "dateNaissanceFr": "15\/04\/1972",
+    "idCategorie": "M3",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1625941",
+    "nom": "HOORNAERT",
+    "prenom": "VINCENT",
+    "sexe": "M",
+    "dateNaissanceFr": "04\/08\/1976",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "000012",
+    "nom": "HUANT LEPINE",
+    "prenom": "ANNIE",
+    "sexe": "F",
+    "dateNaissanceFr": "20\/03\/1957",
+    "idCategorie": "M6",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1752261",
+    "nom": "HUCLEUX",
+    "prenom": "DAVID",
+    "sexe": "M",
+    "dateNaissanceFr": "22\/11\/1976",
+    "idCategorie": "M2",
+    "nomClub": "SPORTING CLUB ABBEVILLOIS ATHL"
+  },
+  {
+    "licence": "1646360",
+    "nom": "HUET RODRIGUEZ",
+    "prenom": "NATHALIE",
+    "sexe": "F",
+    "dateNaissanceFr": "27\/08\/1970",
+    "idCategorie": "M4",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1863249",
+    "nom": "HUK",
+    "prenom": "LAURENT",
+    "sexe": "M",
+    "dateNaissanceFr": "24\/02\/1968",
+    "idCategorie": "M4",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1967946",
+    "nom": "HUMBERT",
+    "prenom": "PAULINE",
+    "sexe": "F",
+    "dateNaissanceFr": "14\/06\/1985",
+    "idCategorie": "M1",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1589422",
+    "nom": "HUSS",
+    "prenom": "CHRISTELLE",
+    "sexe": "F",
+    "dateNaissanceFr": "27\/11\/1983",
+    "idCategorie": "M1",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1914588",
+    "nom": "ITSWEIRE",
+    "prenom": "LIONEL",
+    "sexe": "M",
+    "dateNaissanceFr": "28\/03\/1963",
+    "idCategorie": "M5",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1914596",
+    "nom": "ITSWEIRE",
+    "prenom": "VALERIE",
+    "sexe": "F",
+    "dateNaissanceFr": "02\/01\/1966",
+    "idCategorie": "M4",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1811817",
+    "nom": "JOLY",
+    "prenom": "FLORENCE",
+    "sexe": "F",
+    "dateNaissanceFr": "19\/06\/1964",
+    "idCategorie": "M5",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "2011134",
+    "nom": "JOLY",
+    "prenom": "HELENE",
+    "sexe": "F",
+    "dateNaissanceFr": "04\/07\/1968",
+    "idCategorie": "M4",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1079158",
+    "nom": "JOLY",
+    "prenom": "JEAN PIERRE",
+    "sexe": "M",
+    "dateNaissanceFr": "20\/09\/1952",
+    "idCategorie": "M7",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2012985",
+    "nom": "JOLY",
+    "prenom": "THIERRY",
+    "sexe": "M",
+    "dateNaissanceFr": "14\/08\/1975",
+    "idCategorie": "M3",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "2022024",
+    "nom": "JORON",
+    "prenom": "AURELIE",
+    "sexe": "F",
+    "dateNaissanceFr": "04\/12\/1986",
+    "idCategorie": "M0",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1512510",
+    "nom": "JOSSE",
+    "prenom": "NATHALIE",
+    "sexe": "F",
+    "dateNaissanceFr": "30\/01\/1967",
+    "idCategorie": "M4",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1385778",
+    "nom": "JOUBERT",
+    "prenom": "DANIEL",
+    "sexe": "M",
+    "dateNaissanceFr": "10\/11\/1978",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1770639",
+    "nom": "JOUENNE",
+    "prenom": "EMILIE",
+    "sexe": "F",
+    "dateNaissanceFr": "17\/08\/1990",
+    "idCategorie": "M0",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1756448",
+    "nom": "KADDOURI",
+    "prenom": "HAMADI",
+    "sexe": "M",
+    "dateNaissanceFr": "01\/08\/1977",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1067964",
+    "nom": "KAESER",
+    "prenom": "DIDIER",
+    "sexe": "M",
+    "dateNaissanceFr": "19\/10\/1955",
+    "idCategorie": "M7",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1191083",
+    "nom": "KELLER",
+    "prenom": "BASTIEN",
+    "sexe": "M",
+    "dateNaissanceFr": "19\/11\/1975",
+    "idCategorie": "M3",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1419989",
+    "nom": "KELLER",
+    "prenom": "LOUISON",
+    "sexe": "F",
+    "dateNaissanceFr": "25\/04\/2004",
+    "idCategorie": "ES",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "2080118",
+    "nom": "KOZAK DOLPHIN",
+    "prenom": "JEAN EDOUARD",
+    "sexe": "M",
+    "dateNaissanceFr": "05\/01\/2005",
+    "idCategorie": "ES",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1188800",
+    "nom": "LADENT",
+    "prenom": "SEBASTIEN",
+    "sexe": "M",
+    "dateNaissanceFr": "28\/04\/1972",
+    "idCategorie": "M3",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1664416",
+    "nom": "LAFFORGUE",
+    "prenom": "OLIVIER",
+    "sexe": "M",
+    "dateNaissanceFr": "23\/07\/1968",
+    "idCategorie": "M4",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "118034",
+    "nom": "LAFORGUE",
+    "prenom": "EMMANUEL",
+    "sexe": "M",
+    "dateNaissanceFr": "03\/03\/1976",
+    "idCategorie": "M2",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1821572",
+    "nom": "LAGUILLAUMIE",
+    "prenom": "CHRISTIAN",
+    "sexe": "M",
+    "dateNaissanceFr": "01\/01\/1965",
+    "idCategorie": "M5",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1192957",
+    "nom": "LALLIER",
+    "prenom": "LAETITIA",
+    "sexe": "F",
+    "dateNaissanceFr": "18\/12\/1980",
+    "idCategorie": "M2",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1701942",
+    "nom": "LALOI",
+    "prenom": "BRUNO",
+    "sexe": "M",
+    "dateNaissanceFr": "04\/04\/1967",
+    "idCategorie": "M4",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "2076796",
+    "nom": "LAMAN",
+    "prenom": "REGIS",
+    "sexe": "M",
+    "dateNaissanceFr": "21\/09\/1959",
+    "idCategorie": "M6",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1792911",
+    "nom": "LAMOTTE",
+    "prenom": "CYRIL",
+    "sexe": "M",
+    "dateNaissanceFr": "14\/06\/1976",
+    "idCategorie": "M2",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1712074",
+    "nom": "LAMPAERT",
+    "prenom": "JEAN CHARLES",
+    "sexe": "M",
+    "dateNaissanceFr": "08\/10\/1965",
+    "idCategorie": "M5",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "194981",
+    "nom": "LAMPAERT",
+    "prenom": "JEAN MICHEL",
+    "sexe": "M",
+    "dateNaissanceFr": "04\/07\/1958",
+    "idCategorie": "M6",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1843376",
+    "nom": "LAMRANI",
+    "prenom": "MENAD",
+    "sexe": "M",
+    "dateNaissanceFr": "18\/01\/1996",
+    "idCategorie": "SE",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1308283",
+    "nom": "LANFLE",
+    "prenom": "LAURENT",
+    "sexe": "M",
+    "dateNaissanceFr": "06\/10\/1968",
+    "idCategorie": "M4",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "2075732",
+    "nom": "LANNOY",
+    "prenom": "FANNY",
+    "sexe": "F",
+    "dateNaissanceFr": "04\/01\/1971",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2017323",
+    "nom": "LARGILLERE",
+    "prenom": "FRANCK",
+    "sexe": "M",
+    "dateNaissanceFr": "24\/07\/1990",
+    "idCategorie": "M0",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1454567",
+    "nom": "LARTIQUE",
+    "prenom": "STEPHANE",
+    "sexe": "M",
+    "dateNaissanceFr": "04\/10\/1973",
+    "idCategorie": "M3",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1754702",
+    "nom": "LARUELLE",
+    "prenom": "LIONEL",
+    "sexe": "M",
+    "dateNaissanceFr": "26\/09\/1972",
+    "idCategorie": "M3",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1217207",
+    "nom": "LASSALLE",
+    "prenom": "DOMINIQUE",
+    "sexe": "M",
+    "dateNaissanceFr": "06\/11\/1965",
+    "idCategorie": "M5",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1921049",
+    "nom": "LAURAIN",
+    "prenom": "VALERIE",
+    "sexe": "F",
+    "dateNaissanceFr": "22\/06\/1976",
+    "idCategorie": "M2",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1608065",
+    "nom": "LAURENT",
+    "prenom": "OLIVIER",
+    "sexe": "M",
+    "dateNaissanceFr": "05\/12\/1965",
+    "idCategorie": "M5",
+    "nomClub": "SAINT-OUEN DSL"
+  },
+  {
+    "licence": "1159220",
+    "nom": "LAZURE",
+    "prenom": "DOMINIQUE",
+    "sexe": "M",
+    "dateNaissanceFr": "06\/04\/1966",
+    "idCategorie": "M4",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2020312",
+    "nom": "LE BESQ",
+    "prenom": "STEPHANIE",
+    "sexe": "F",
+    "dateNaissanceFr": "05\/11\/1980",
+    "idCategorie": "M2",
+    "nomClub": "SPORTING CLUB ABBEVILLOIS ATHL"
+  },
+  {
+    "licence": "1437575",
+    "nom": "LE BOULAIR",
+    "prenom": "GENEVIEVE",
+    "sexe": "F",
+    "dateNaissanceFr": "10\/10\/1963",
+    "idCategorie": "M5",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1437576",
+    "nom": "LE BOULAIR",
+    "prenom": "MARC",
+    "sexe": "M",
+    "dateNaissanceFr": "26\/09\/1958",
+    "idCategorie": "M6",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1756890",
+    "nom": "LE GRANDIC",
+    "prenom": "GREGORY",
+    "sexe": "M",
+    "dateNaissanceFr": "28\/08\/1977",
+    "idCategorie": "M2",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1063347",
+    "nom": "LEBEAU",
+    "prenom": "PATRICE",
+    "sexe": "M",
+    "dateNaissanceFr": "25\/08\/1951",
+    "idCategorie": "M7",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1318788",
+    "nom": "LEBECQUE",
+    "prenom": "ANTOINE",
+    "sexe": "M",
+    "dateNaissanceFr": "07\/05\/1997",
+    "idCategorie": "SE",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1062670",
+    "nom": "LEBESGUE",
+    "prenom": "BRUNO",
+    "sexe": "M",
+    "dateNaissanceFr": "03\/10\/1962",
+    "idCategorie": "M5",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "2071968",
+    "nom": "LEBLOND",
+    "prenom": "SEBASTIEN",
+    "sexe": "M",
+    "dateNaissanceFr": "03\/05\/1975",
+    "idCategorie": "M3",
+    "nomClub": "SAINT-OUEN DSL"
+  },
+  {
+    "licence": "1862383",
+    "nom": "LEBON",
+    "prenom": "MEGANNE",
+    "sexe": "F",
+    "dateNaissanceFr": "12\/10\/2000",
+    "idCategorie": "SE",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1207713",
+    "nom": "LECAT",
+    "prenom": "FLORENCE",
+    "sexe": "F",
+    "dateNaissanceFr": "16\/07\/1964",
+    "idCategorie": "M5",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1964697",
+    "nom": "LECLERC",
+    "prenom": "CHRISTOPHE",
+    "sexe": "M",
+    "dateNaissanceFr": "26\/04\/1971",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2098887",
+    "nom": "LECLERC",
+    "prenom": "FRANCOIS",
+    "sexe": "M",
+    "dateNaissanceFr": "31\/07\/1957",
+    "idCategorie": "M6",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1294908",
+    "nom": "LECLERC",
+    "prenom": "PHILIPPE",
+    "sexe": "M",
+    "dateNaissanceFr": "05\/06\/1966",
+    "idCategorie": "M4",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1756081",
+    "nom": "LECLERCQ",
+    "prenom": "FANNY",
+    "sexe": "F",
+    "dateNaissanceFr": "15\/09\/1977",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1293983",
+    "nom": "LECOIN",
+    "prenom": "CAMILLE",
+    "sexe": "F",
+    "dateNaissanceFr": "18\/09\/1995",
+    "idCategorie": "SE",
+    "nomClub": "SPORTING CLUB ABBEVILLOIS ATHL"
+  },
+  {
+    "licence": "1109905",
+    "nom": "LECOIN",
+    "prenom": "HELENE",
+    "sexe": "F",
+    "dateNaissanceFr": "12\/06\/1971",
+    "idCategorie": "M3",
+    "nomClub": "SPORTING CLUB ABBEVILLOIS ATHL"
+  },
+  {
+    "licence": "1977353",
+    "nom": "LECOMTE",
+    "prenom": "AGATHE",
+    "sexe": "F",
+    "dateNaissanceFr": "11\/06\/2004",
+    "idCategorie": "ES",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "2080838",
+    "nom": "LECOMTE",
+    "prenom": "CHRISTOPHE",
+    "sexe": "M",
+    "dateNaissanceFr": "07\/12\/1967",
+    "idCategorie": "M4",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1758165",
+    "nom": "LECOMTE",
+    "prenom": "THIERRY",
+    "sexe": "M",
+    "dateNaissanceFr": "29\/05\/1965",
+    "idCategorie": "M5",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1967907",
+    "nom": "LEDOUX",
+    "prenom": "DAVID",
+    "sexe": "M",
+    "dateNaissanceFr": "30\/08\/1974",
+    "idCategorie": "M3",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1086136",
+    "nom": "LEDREUX",
+    "prenom": "JOSE",
+    "sexe": "M",
+    "dateNaissanceFr": "14\/11\/1959",
+    "idCategorie": "M6",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2096068",
+    "nom": "LEDUC",
+    "prenom": "EMILE",
+    "sexe": "M",
+    "dateNaissanceFr": "10\/02\/2004",
+    "idCategorie": "ES",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1180115",
+    "nom": "LEFEBVRE",
+    "prenom": "CHRISTOPHE",
+    "sexe": "M",
+    "dateNaissanceFr": "05\/03\/1970",
+    "idCategorie": "M4",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1625159",
+    "nom": "LEFEBVRE",
+    "prenom": "ELVIS",
+    "sexe": "M",
+    "dateNaissanceFr": "30\/12\/1994",
+    "idCategorie": "SE",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1970491",
+    "nom": "LEFEBVRE",
+    "prenom": "FRANCK",
+    "sexe": "M",
+    "dateNaissanceFr": "06\/04\/1970",
+    "idCategorie": "M4",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1993427",
+    "nom": "LEFERT",
+    "prenom": "AGNES",
+    "sexe": "F",
+    "dateNaissanceFr": "31\/05\/1982",
+    "idCategorie": "M1",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1862870",
+    "nom": "LEFEVRE",
+    "prenom": "ANTOINE",
+    "sexe": "M",
+    "dateNaissanceFr": "09\/07\/1986",
+    "idCategorie": "M0",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1298472",
+    "nom": "LEFEVRE",
+    "prenom": "JEREMY",
+    "sexe": "M",
+    "dateNaissanceFr": "15\/10\/1986",
+    "idCategorie": "M0",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1738243",
+    "nom": "LEFEVRE",
+    "prenom": "MATHILDE",
+    "sexe": "F",
+    "dateNaissanceFr": "01\/09\/1977",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1410229",
+    "nom": "LEFEVRE",
+    "prenom": "YANNICK",
+    "sexe": "M",
+    "dateNaissanceFr": "07\/02\/1955",
+    "idCategorie": "M7",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1967945",
+    "nom": "LEGRAND",
+    "prenom": "AMELIE",
+    "sexe": "F",
+    "dateNaissanceFr": "28\/04\/1986",
+    "idCategorie": "M0",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "2030257",
+    "nom": "LEGRAND",
+    "prenom": "NICOLAS",
+    "sexe": "M",
+    "dateNaissanceFr": "16\/04\/1975",
+    "idCategorie": "M3",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1380403",
+    "nom": "LEGRIS",
+    "prenom": "CLEMENCE",
+    "sexe": "F",
+    "dateNaissanceFr": "03\/02\/2005",
+    "idCategorie": "ES",
+    "nomClub": "SPORTING CLUB ABBEVILLOIS ATHL"
+  },
+  {
+    "licence": "1880311",
+    "nom": "LEGRIS",
+    "prenom": "LIONEL",
+    "sexe": "M",
+    "dateNaissanceFr": "12\/09\/1969",
+    "idCategorie": "M4",
+    "nomClub": "SPORTING CLUB ABBEVILLOIS ATHL"
+  },
+  {
+    "licence": "1946329",
+    "nom": "LEGRIS",
+    "prenom": "SANDRA",
+    "sexe": "F",
+    "dateNaissanceFr": "22\/10\/1972",
+    "idCategorie": "M3",
+    "nomClub": "SPORTING CLUB ABBEVILLOIS ATHL"
+  },
+  {
+    "licence": "1960005",
+    "nom": "LEGUILLIER",
+    "prenom": "STEPHANIE",
+    "sexe": "F",
+    "dateNaissanceFr": "10\/05\/1978",
+    "idCategorie": "M2",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1961962",
+    "nom": "LEGUILLIER",
+    "prenom": "WILLIAMS",
+    "sexe": "M",
+    "dateNaissanceFr": "13\/04\/1972",
+    "idCategorie": "M3",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1938261",
+    "nom": "LEMAIRE",
+    "prenom": "JULES",
+    "sexe": "M",
+    "dateNaissanceFr": "29\/09\/2002",
+    "idCategorie": "SE",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1848332",
+    "nom": "LENAFF",
+    "prenom": "ELISABETH",
+    "sexe": "F",
+    "dateNaissanceFr": "03\/11\/1953",
+    "idCategorie": "M7",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "2071497",
+    "nom": "LEROGNON",
+    "prenom": "AURORE",
+    "sexe": "F",
+    "dateNaissanceFr": "10\/03\/1973",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2074438",
+    "nom": "LEROY",
+    "prenom": "GERARD",
+    "sexe": "M",
+    "dateNaissanceFr": "18\/11\/1954",
+    "idCategorie": "M7",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1563280",
+    "nom": "LEROY",
+    "prenom": "HENRI",
+    "sexe": "M",
+    "dateNaissanceFr": "13\/12\/2002",
+    "idCategorie": "SE",
+    "nomClub": "SPORTING CLUB ABBEVILLOIS ATHL"
+  },
+  {
+    "licence": "1766038",
+    "nom": "LEROY",
+    "prenom": "LUDOVIC",
+    "sexe": "M",
+    "dateNaissanceFr": "02\/08\/1971",
+    "idCategorie": "M3",
+    "nomClub": "SPORTING CLUB ABBEVILLOIS ATHL"
+  },
+  {
+    "licence": "1754552",
+    "nom": "LESAGE",
+    "prenom": "SIMON",
+    "sexe": "M",
+    "dateNaissanceFr": "29\/03\/1986",
+    "idCategorie": "M0",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1866891",
+    "nom": "LEULIER",
+    "prenom": "ARNAUD",
+    "sexe": "M",
+    "dateNaissanceFr": "31\/03\/1976",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2057461",
+    "nom": "LHERBIER",
+    "prenom": "NICOLAS",
+    "sexe": "M",
+    "dateNaissanceFr": "15\/03\/1974",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "130122",
+    "nom": "LHEUREUX",
+    "prenom": "FABIEN",
+    "sexe": "M",
+    "dateNaissanceFr": "05\/09\/1981",
+    "idCategorie": "M1",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1124414",
+    "nom": "LIBESSART",
+    "prenom": "DANIEL",
+    "sexe": "M",
+    "dateNaissanceFr": "25\/11\/1961",
+    "idCategorie": "M5",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1082420",
+    "nom": "LISEK",
+    "prenom": "CELINE",
+    "sexe": "F",
+    "dateNaissanceFr": "04\/11\/1977",
+    "idCategorie": "M2",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1755734",
+    "nom": "LOBBE",
+    "prenom": "JULIEN",
+    "sexe": "M",
+    "dateNaissanceFr": "24\/06\/1981",
+    "idCategorie": "M1",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1964326",
+    "nom": "LOLEKO MBOYO",
+    "prenom": "HAROUNA",
+    "sexe": "M",
+    "dateNaissanceFr": "24\/04\/1996",
+    "idCategorie": "SE",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "2064281",
+    "nom": "LONGCHAMP",
+    "prenom": "NICOLAS",
+    "sexe": "M",
+    "dateNaissanceFr": "10\/05\/1988",
+    "idCategorie": "M0",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "2056676",
+    "nom": "LOPES LAMY",
+    "prenom": "SARAH",
+    "sexe": "F",
+    "dateNaissanceFr": "10\/11\/1973",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2071501",
+    "nom": "LOUEY",
+    "prenom": "SOPHIE",
+    "sexe": "F",
+    "dateNaissanceFr": "26\/07\/1988",
+    "idCategorie": "M0",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1558185",
+    "nom": "MACQUART",
+    "prenom": "ANTHONY",
+    "sexe": "M",
+    "dateNaissanceFr": "29\/06\/1976",
+    "idCategorie": "M2",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "181039",
+    "nom": "MACQUET",
+    "prenom": "SAMUEL",
+    "sexe": "M",
+    "dateNaissanceFr": "24\/11\/1965",
+    "idCategorie": "M5",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1756069",
+    "nom": "MAGHRAOUI",
+    "prenom": "FARID",
+    "sexe": "M",
+    "dateNaissanceFr": "24\/05\/1969",
+    "idCategorie": "M4",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1457112",
+    "nom": "MAGHRAOUI",
+    "prenom": "HAMAD",
+    "sexe": "M",
+    "dateNaissanceFr": "18\/03\/1976",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1938724",
+    "nom": "MAGNIER",
+    "prenom": "VINCENT",
+    "sexe": "M",
+    "dateNaissanceFr": "18\/12\/1976",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1771251",
+    "nom": "MAGNIEZ",
+    "prenom": "CYRIL",
+    "sexe": "M",
+    "dateNaissanceFr": "10\/09\/1992",
+    "idCategorie": "SE",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1392394",
+    "nom": "MAHIEUX",
+    "prenom": "ALEXANDRE",
+    "sexe": "M",
+    "dateNaissanceFr": "21\/05\/1982",
+    "idCategorie": "M1",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1660844",
+    "nom": "MALASSAGNE",
+    "prenom": "PASCAL",
+    "sexe": "M",
+    "dateNaissanceFr": "23\/04\/1962",
+    "idCategorie": "M5",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1189313",
+    "nom": "MALGARINI",
+    "prenom": "CAMILLE",
+    "sexe": "F",
+    "dateNaissanceFr": "10\/03\/1992",
+    "idCategorie": "SE",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1864251",
+    "nom": "MARCHAL",
+    "prenom": "CHRISTOPHE",
+    "sexe": "M",
+    "dateNaissanceFr": "03\/03\/1966",
+    "idCategorie": "M4",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1652282",
+    "nom": "MARCHEUX",
+    "prenom": "BENJAMIN",
+    "sexe": "M",
+    "dateNaissanceFr": "15\/11\/1984",
+    "idCategorie": "M1",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "2038843",
+    "nom": "MARECHAL",
+    "prenom": "JOHANN",
+    "sexe": "M",
+    "dateNaissanceFr": "19\/12\/1976",
+    "idCategorie": "M2",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1781239",
+    "nom": "MARGOTIN",
+    "prenom": "NICOLAS",
+    "sexe": "M",
+    "dateNaissanceFr": "06\/12\/1968",
+    "idCategorie": "M4",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1963548",
+    "nom": "MARRAS",
+    "prenom": "GIUSEPPINA",
+    "sexe": "F",
+    "dateNaissanceFr": "26\/02\/1978",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1640606",
+    "nom": "MARTIN",
+    "prenom": "CLAUDINE",
+    "sexe": "F",
+    "dateNaissanceFr": "09\/04\/1965",
+    "idCategorie": "M5",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "2094365",
+    "nom": "MARTIN",
+    "prenom": "LAURENT",
+    "sexe": "M",
+    "dateNaissanceFr": "07\/04\/1979",
+    "idCategorie": "M2",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1212555",
+    "nom": "MARTIN",
+    "prenom": "OLIVIER",
+    "sexe": "M",
+    "dateNaissanceFr": "31\/01\/1960",
+    "idCategorie": "M6",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1062520",
+    "nom": "MASCRE",
+    "prenom": "CHRISTINE",
+    "sexe": "F",
+    "dateNaissanceFr": "12\/11\/1956",
+    "idCategorie": "M6",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1907521",
+    "nom": "MASSE",
+    "prenom": "ELISE",
+    "sexe": "F",
+    "dateNaissanceFr": "02\/04\/1996",
+    "idCategorie": "SE",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1659847",
+    "nom": "MEDMOUN",
+    "prenom": "ALI",
+    "sexe": "M",
+    "dateNaissanceFr": "10\/12\/1977",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1652756",
+    "nom": "MELCHIOR",
+    "prenom": "LAETITIA",
+    "sexe": "F",
+    "dateNaissanceFr": "16\/02\/1973",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "000011",
+    "nom": "MELET",
+    "prenom": "VINCENT",
+    "sexe": "M",
+    "dateNaissanceFr": "29\/06\/1979",
+    "idCategorie": "M2",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1062540",
+    "nom": "MELIQUE",
+    "prenom": "JEAN MARC",
+    "sexe": "M",
+    "dateNaissanceFr": "17\/12\/1952",
+    "idCategorie": "M7",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1478328",
+    "nom": "MELLOR",
+    "prenom": "DOROTHEE",
+    "sexe": "F",
+    "dateNaissanceFr": "07\/04\/1974",
+    "idCategorie": "M3",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "2059008",
+    "nom": "MERCIER",
+    "prenom": "JULIEN",
+    "sexe": "M",
+    "dateNaissanceFr": "23\/12\/1981",
+    "idCategorie": "M1",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1499899",
+    "nom": "MERCIER",
+    "prenom": "MELVYN",
+    "sexe": "M",
+    "dateNaissanceFr": "03\/02\/1995",
+    "idCategorie": "SE",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "2061788",
+    "nom": "MERLIN",
+    "prenom": "SABRINA",
+    "sexe": "F",
+    "dateNaissanceFr": "16\/11\/1982",
+    "idCategorie": "M1",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1602943",
+    "nom": "MESSIO",
+    "prenom": "MELANIE",
+    "sexe": "F",
+    "dateNaissanceFr": "12\/04\/1994",
+    "idCategorie": "SE",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1651695",
+    "nom": "MIART",
+    "prenom": "SYLVIE",
+    "sexe": "F",
+    "dateNaissanceFr": "31\/07\/1968",
+    "idCategorie": "M4",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1662143",
+    "nom": "MICHAU",
+    "prenom": "EMMANUEL",
+    "sexe": "M",
+    "dateNaissanceFr": "23\/05\/1970",
+    "idCategorie": "M4",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1770629",
+    "nom": "MILANO",
+    "prenom": "GAETAN",
+    "sexe": "M",
+    "dateNaissanceFr": "03\/11\/1986",
+    "idCategorie": "M0",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "2072532",
+    "nom": "MIRVAL",
+    "prenom": "MELISSA",
+    "sexe": "F",
+    "dateNaissanceFr": "01\/08\/1990",
+    "idCategorie": "M0",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1384729",
+    "nom": "MOLIN",
+    "prenom": "JEAN PAUL",
+    "sexe": "M",
+    "dateNaissanceFr": "19\/12\/1947",
+    "idCategorie": "M8",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "2095355",
+    "nom": "MONCONDHUY",
+    "prenom": "MELANY",
+    "sexe": "F",
+    "dateNaissanceFr": "18\/02\/1981",
+    "idCategorie": "M1",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1497288",
+    "nom": "MONNEHAY",
+    "prenom": "MORGAN",
+    "sexe": "M",
+    "dateNaissanceFr": "16\/04\/1998",
+    "idCategorie": "SE",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1903552",
+    "nom": "MONNIER",
+    "prenom": "ALAIN",
+    "sexe": "M",
+    "dateNaissanceFr": "27\/02\/1970",
+    "idCategorie": "M4",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1906509",
+    "nom": "MONTARDIER",
+    "prenom": "SEBASTIEN",
+    "sexe": "M",
+    "dateNaissanceFr": "03\/12\/1977",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1555733",
+    "nom": "MONTARIOL",
+    "prenom": "PHILIPPE",
+    "sexe": "M",
+    "dateNaissanceFr": "19\/12\/1956",
+    "idCategorie": "M6",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1555731",
+    "nom": "MONTARIOL",
+    "prenom": "SYLVIE",
+    "sexe": "F",
+    "dateNaissanceFr": "20\/09\/1956",
+    "idCategorie": "M6",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1574377",
+    "nom": "MOREIRA",
+    "prenom": "CHRISTELLE",
+    "sexe": "F",
+    "dateNaissanceFr": "11\/08\/1974",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1545211",
+    "nom": "MOREIRA",
+    "prenom": "ISABELLE",
+    "sexe": "F",
+    "dateNaissanceFr": "10\/05\/1973",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1968181",
+    "nom": "MOREL",
+    "prenom": "ALAN",
+    "sexe": "M",
+    "dateNaissanceFr": "19\/12\/1981",
+    "idCategorie": "M1",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1967969",
+    "nom": "MOREL",
+    "prenom": "EMELINE",
+    "sexe": "F",
+    "dateNaissanceFr": "14\/12\/1977",
+    "idCategorie": "M2",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1798662",
+    "nom": "MOREL",
+    "prenom": "YVES ANDRE",
+    "sexe": "M",
+    "dateNaissanceFr": "04\/03\/1957",
+    "idCategorie": "M6",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "2038558",
+    "nom": "MORELLE",
+    "prenom": "HUGO",
+    "sexe": "M",
+    "dateNaissanceFr": "26\/01\/2002",
+    "idCategorie": "SE",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1287790",
+    "nom": "MORELLE",
+    "prenom": "JEAN PHILIPPE",
+    "sexe": "M",
+    "dateNaissanceFr": "21\/07\/1972",
+    "idCategorie": "M3",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1541742",
+    "nom": "MOUKAWANE",
+    "prenom": "MOHAMED",
+    "sexe": "M",
+    "dateNaissanceFr": "05\/04\/1974",
+    "idCategorie": "M3",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1078681",
+    "nom": "MOY",
+    "prenom": "PHILIPPE",
+    "sexe": "M",
+    "dateNaissanceFr": "25\/06\/1961",
+    "idCategorie": "M5",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1701966",
+    "nom": "MROZINSKI",
+    "prenom": "LUCAS",
+    "sexe": "M",
+    "dateNaissanceFr": "10\/01\/2001",
+    "idCategorie": "SE",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1651641",
+    "nom": "MUCHEMBLED",
+    "prenom": "JEREMY",
+    "sexe": "M",
+    "dateNaissanceFr": "24\/09\/1979",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1925380",
+    "nom": "MURAZ",
+    "prenom": "JULIETTE",
+    "sexe": "F",
+    "dateNaissanceFr": "22\/02\/2000",
+    "idCategorie": "SE",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1633850",
+    "nom": "NANTOIS",
+    "prenom": "JULIETTE",
+    "sexe": "F",
+    "dateNaissanceFr": "08\/10\/2001",
+    "idCategorie": "SE",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1261871",
+    "nom": "NANTOIS",
+    "prenom": "LAETITIA",
+    "sexe": "F",
+    "dateNaissanceFr": "21\/05\/1975",
+    "idCategorie": "M3",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1944439",
+    "nom": "NEUEZ",
+    "prenom": "DAVID",
+    "sexe": "M",
+    "dateNaissanceFr": "26\/01\/1975",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1765475",
+    "nom": "NOIROT",
+    "prenom": "SEBASTIEN",
+    "sexe": "M",
+    "dateNaissanceFr": "08\/01\/1982",
+    "idCategorie": "M1",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "2099148",
+    "nom": "NOLLET",
+    "prenom": "LAURINE",
+    "sexe": "F",
+    "dateNaissanceFr": "23\/07\/1982",
+    "idCategorie": "M1",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1596741",
+    "nom": "NONNON",
+    "prenom": "DANIEL",
+    "sexe": "M",
+    "dateNaissanceFr": "11\/06\/1967",
+    "idCategorie": "M4",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1114687",
+    "nom": "NOREL",
+    "prenom": "THIERRY",
+    "sexe": "M",
+    "dateNaissanceFr": "04\/10\/1968",
+    "idCategorie": "M4",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1543128",
+    "nom": "NORMAND",
+    "prenom": "GREGORY",
+    "sexe": "M",
+    "dateNaissanceFr": "19\/12\/1974",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1326968",
+    "nom": "NORMAND",
+    "prenom": "QUENTIN",
+    "sexe": "M",
+    "dateNaissanceFr": "24\/07\/2002",
+    "idCategorie": "SE",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1938663",
+    "nom": "NOURTIER",
+    "prenom": "JEAN PIERRE",
+    "sexe": "M",
+    "dateNaissanceFr": "25\/04\/1951",
+    "idCategorie": "M7",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1754870",
+    "nom": "NOWAK",
+    "prenom": "ALISA",
+    "sexe": "F",
+    "dateNaissanceFr": "22\/07\/1983",
+    "idCategorie": "M1",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2061867",
+    "nom": "OGER",
+    "prenom": "FRANCOIS",
+    "sexe": "M",
+    "dateNaissanceFr": "31\/12\/1960",
+    "idCategorie": "M6",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1888450",
+    "nom": "OGER",
+    "prenom": "MAGALI",
+    "sexe": "F",
+    "dateNaissanceFr": "14\/02\/1969",
+    "idCategorie": "M4",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1974389",
+    "nom": "OGER",
+    "prenom": "PASCALE",
+    "sexe": "F",
+    "dateNaissanceFr": "22\/09\/1975",
+    "idCategorie": "M3",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1322514",
+    "nom": "OLIVIER",
+    "prenom": "CANDICE",
+    "sexe": "F",
+    "dateNaissanceFr": "09\/09\/2004",
+    "idCategorie": "ES",
+    "nomClub": "SPORTING CLUB ABBEVILLOIS ATHL"
+  },
+  {
+    "licence": "1721061",
+    "nom": "OLIVIER",
+    "prenom": "GREGORY",
+    "sexe": "M",
+    "dateNaissanceFr": "14\/09\/1984",
+    "idCategorie": "M1",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "2065860",
+    "nom": "OMS",
+    "prenom": "NICOLAS",
+    "sexe": "M",
+    "dateNaissanceFr": "26\/07\/1981",
+    "idCategorie": "M1",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1712076",
+    "nom": "OSSART",
+    "prenom": "MARTINE",
+    "sexe": "F",
+    "dateNaissanceFr": "25\/09\/1968",
+    "idCategorie": "M4",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1651626",
+    "nom": "PANSERI",
+    "prenom": "MATTHIEU",
+    "sexe": "M",
+    "dateNaissanceFr": "26\/09\/1977",
+    "idCategorie": "M2",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1834038",
+    "nom": "PARAGE",
+    "prenom": "CHRISTOPHE",
+    "sexe": "M",
+    "dateNaissanceFr": "13\/03\/1981",
+    "idCategorie": "M1",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1298930",
+    "nom": "PATTE",
+    "prenom": "ANDRE",
+    "sexe": "M",
+    "dateNaissanceFr": "08\/06\/1968",
+    "idCategorie": "M4",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1747422",
+    "nom": "PAU ROBLOT",
+    "prenom": "CORINNE",
+    "sexe": "F",
+    "dateNaissanceFr": "26\/03\/1971",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1625974",
+    "nom": "PAUCHET",
+    "prenom": "YANNICK",
+    "sexe": "M",
+    "dateNaissanceFr": "27\/10\/1982",
+    "idCategorie": "M1",
+    "nomClub": "SPORTING CLUB ABBEVILLOIS ATHL"
+  },
+  {
+    "licence": "1558812",
+    "nom": "PAYEN",
+    "prenom": "CATHERINE",
+    "sexe": "F",
+    "dateNaissanceFr": "05\/02\/1963",
+    "idCategorie": "M5",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "2016790",
+    "nom": "PECOURT",
+    "prenom": "ANAIS",
+    "sexe": "F",
+    "dateNaissanceFr": "07\/04\/2002",
+    "idCategorie": "SE",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "2074261",
+    "nom": "PECOURT",
+    "prenom": "CHRISTOPHE",
+    "sexe": "M",
+    "dateNaissanceFr": "12\/08\/1978",
+    "idCategorie": "M2",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "2016784",
+    "nom": "PECOURT",
+    "prenom": "XAVIER",
+    "sexe": "M",
+    "dateNaissanceFr": "01\/04\/2000",
+    "idCategorie": "SE",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1597469",
+    "nom": "PEDRON",
+    "prenom": "CHRISTOPHE",
+    "sexe": "M",
+    "dateNaissanceFr": "03\/03\/1974",
+    "idCategorie": "M3",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1772143",
+    "nom": "PEETERS",
+    "prenom": "FRANCK",
+    "sexe": "M",
+    "dateNaissanceFr": "20\/03\/1964",
+    "idCategorie": "M5",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1833298",
+    "nom": "PEETERS",
+    "prenom": "HENRY",
+    "sexe": "M",
+    "dateNaissanceFr": "01\/03\/1989",
+    "idCategorie": "M0",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1124257",
+    "nom": "PELOSO",
+    "prenom": "PIERRE",
+    "sexe": "M",
+    "dateNaissanceFr": "24\/01\/1964",
+    "idCategorie": "M5",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1736848",
+    "nom": "PELOSO",
+    "prenom": "SANDRINE",
+    "sexe": "F",
+    "dateNaissanceFr": "03\/08\/1963",
+    "idCategorie": "M5",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2034341",
+    "nom": "PELTIER",
+    "prenom": "MICHELE",
+    "sexe": "F",
+    "dateNaissanceFr": "29\/03\/1968",
+    "idCategorie": "M4",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "2075938",
+    "nom": "PENEL",
+    "prenom": "MARION",
+    "sexe": "F",
+    "dateNaissanceFr": "10\/11\/1984",
+    "idCategorie": "M1",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1608046",
+    "nom": "PERNEL",
+    "prenom": "FREDERIC",
+    "sexe": "M",
+    "dateNaissanceFr": "28\/09\/1961",
+    "idCategorie": "M5",
+    "nomClub": "SAINT-OUEN DSL"
+  },
+  {
+    "licence": "1546118",
+    "nom": "PERON",
+    "prenom": "YANNICK",
+    "sexe": "M",
+    "dateNaissanceFr": "16\/01\/1954",
+    "idCategorie": "M7",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1987101",
+    "nom": "PERRAI",
+    "prenom": "RENAUD",
+    "sexe": "M",
+    "dateNaissanceFr": "15\/12\/1981",
+    "idCategorie": "M1",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1461175",
+    "nom": "PHUNG",
+    "prenom": "CHUNG LAM",
+    "sexe": "F",
+    "dateNaissanceFr": "15\/10\/1966",
+    "idCategorie": "M4",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1209651",
+    "nom": "PIC",
+    "prenom": "STEPHANE",
+    "sexe": "M",
+    "dateNaissanceFr": "07\/05\/1972",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2065395",
+    "nom": "PICQUE",
+    "prenom": "MICHAEL",
+    "sexe": "M",
+    "dateNaissanceFr": "27\/03\/1982",
+    "idCategorie": "M1",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1248499",
+    "nom": "PIGNON",
+    "prenom": "PATRICK",
+    "sexe": "M",
+    "dateNaissanceFr": "11\/04\/1963",
+    "idCategorie": "M5",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1124611",
+    "nom": "PILOT",
+    "prenom": "DIMITRI",
+    "sexe": "M",
+    "dateNaissanceFr": "16\/09\/1983",
+    "idCategorie": "M1",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1664780",
+    "nom": "PILVOIX",
+    "prenom": "CLAUDE",
+    "sexe": "M",
+    "dateNaissanceFr": "13\/06\/1957",
+    "idCategorie": "M6",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1863392",
+    "nom": "PINAUD",
+    "prenom": "BENOIT",
+    "sexe": "M",
+    "dateNaissanceFr": "08\/01\/1962",
+    "idCategorie": "M5",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1765457",
+    "nom": "PLEE",
+    "prenom": "MARILAINE",
+    "sexe": "F",
+    "dateNaissanceFr": "19\/12\/1968",
+    "idCategorie": "M4",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1649266",
+    "nom": "POCHET",
+    "prenom": "MAXIME",
+    "sexe": "M",
+    "dateNaissanceFr": "15\/05\/2000",
+    "idCategorie": "SE",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "2048013",
+    "nom": "POCQUES",
+    "prenom": "LAURENT",
+    "sexe": "M",
+    "dateNaissanceFr": "10\/08\/1971",
+    "idCategorie": "M3",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1960218",
+    "nom": "PODJUK",
+    "prenom": "JORDAN",
+    "sexe": "M",
+    "dateNaissanceFr": "07\/12\/1992",
+    "idCategorie": "SE",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1886800",
+    "nom": "POIDEVIN",
+    "prenom": "OLIVIER",
+    "sexe": "M",
+    "dateNaissanceFr": "17\/01\/1981",
+    "idCategorie": "M1",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1461133",
+    "nom": "POINTURIER",
+    "prenom": "MARYLENE",
+    "sexe": "F",
+    "dateNaissanceFr": "23\/09\/1959",
+    "idCategorie": "M6",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1102547",
+    "nom": "POLOSSE",
+    "prenom": "JEAN PAUL",
+    "sexe": "M",
+    "dateNaissanceFr": "09\/08\/1947",
+    "idCategorie": "M8",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2071507",
+    "nom": "POQUET",
+    "prenom": "ANGELIQUE",
+    "sexe": "F",
+    "dateNaissanceFr": "15\/02\/1978",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2071812",
+    "nom": "POQUET",
+    "prenom": "CHARLYNE",
+    "sexe": "F",
+    "dateNaissanceFr": "11\/02\/2005",
+    "idCategorie": "ES",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1422043",
+    "nom": "POTAGE",
+    "prenom": "CYRIL",
+    "sexe": "M",
+    "dateNaissanceFr": "01\/12\/1973",
+    "idCategorie": "M3",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1559271",
+    "nom": "POTAGE",
+    "prenom": "FABIENNE",
+    "sexe": "F",
+    "dateNaissanceFr": "11\/07\/1974",
+    "idCategorie": "M3",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1650344",
+    "nom": "POUSSET",
+    "prenom": "PATRICE",
+    "sexe": "M",
+    "dateNaissanceFr": "15\/03\/1953",
+    "idCategorie": "M7",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2037360",
+    "nom": "POUTRAIN",
+    "prenom": "PHILIPPINE",
+    "sexe": "F",
+    "dateNaissanceFr": "16\/04\/2005",
+    "idCategorie": "ES",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1461174",
+    "nom": "PRINGARBE",
+    "prenom": "DIDIER",
+    "sexe": "M",
+    "dateNaissanceFr": "06\/02\/1965",
+    "idCategorie": "M5",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1958202",
+    "nom": "PRONIEZ",
+    "prenom": "FABIEN",
+    "sexe": "M",
+    "dateNaissanceFr": "14\/08\/1974",
+    "idCategorie": "M3",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "126530",
+    "nom": "PRUDHOMME",
+    "prenom": "JEAN PIERRE",
+    "sexe": "M",
+    "dateNaissanceFr": "09\/10\/1959",
+    "idCategorie": "M6",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1534200",
+    "nom": "QUEFFELEC",
+    "prenom": "ALINE",
+    "sexe": "F",
+    "dateNaissanceFr": "10\/12\/1967",
+    "idCategorie": "M4",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1862369",
+    "nom": "QUENTIN",
+    "prenom": "FRANCK",
+    "sexe": "M",
+    "dateNaissanceFr": "02\/03\/1969",
+    "idCategorie": "M4",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1855206",
+    "nom": "RABHI",
+    "prenom": "MIHIDINN",
+    "sexe": "M",
+    "dateNaissanceFr": "29\/10\/1978",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1512477",
+    "nom": "RACINE",
+    "prenom": "KARINE",
+    "sexe": "F",
+    "dateNaissanceFr": "27\/02\/1977",
+    "idCategorie": "M2",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1756062",
+    "nom": "RAUX",
+    "prenom": "CLEMENT",
+    "sexe": "M",
+    "dateNaissanceFr": "15\/08\/1981",
+    "idCategorie": "M1",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1862358",
+    "nom": "RAUX",
+    "prenom": "JULIEN",
+    "sexe": "M",
+    "dateNaissanceFr": "21\/08\/1978",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1748379",
+    "nom": "RAYEZ",
+    "prenom": "TIFFANY",
+    "sexe": "F",
+    "dateNaissanceFr": "28\/06\/1996",
+    "idCategorie": "SE",
+    "nomClub": "SAINT-OUEN DSL"
+  },
+  {
+    "licence": "1981118",
+    "nom": "RAYON",
+    "prenom": "CATHERINE",
+    "sexe": "F",
+    "dateNaissanceFr": "22\/05\/1969",
+    "idCategorie": "M4",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1992920",
+    "nom": "REID",
+    "prenom": "ALISON",
+    "sexe": "F",
+    "dateNaissanceFr": "02\/08\/1983",
+    "idCategorie": "M1",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1720390",
+    "nom": "REMY",
+    "prenom": "PHILIPPE",
+    "sexe": "M",
+    "dateNaissanceFr": "15\/12\/1959",
+    "idCategorie": "M6",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1392412",
+    "nom": "RENAHY",
+    "prenom": "PIERRE",
+    "sexe": "M",
+    "dateNaissanceFr": "08\/09\/1984",
+    "idCategorie": "M1",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "2087814",
+    "nom": "RENSON",
+    "prenom": "SALOME",
+    "sexe": "F",
+    "dateNaissanceFr": "25\/03\/2003",
+    "idCategorie": "ES",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1555730",
+    "nom": "RICHARD",
+    "prenom": "DELPHINE",
+    "sexe": "F",
+    "dateNaissanceFr": "10\/12\/1979",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1907474",
+    "nom": "RICHE",
+    "prenom": "HELENE",
+    "sexe": "F",
+    "dateNaissanceFr": "22\/01\/1977",
+    "idCategorie": "M2",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1520443",
+    "nom": "RICQUE",
+    "prenom": "ANNE",
+    "sexe": "F",
+    "dateNaissanceFr": "23\/05\/1970",
+    "idCategorie": "M4",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1265836",
+    "nom": "RINGARD",
+    "prenom": "BRUNO",
+    "sexe": "M",
+    "dateNaissanceFr": "22\/05\/1965",
+    "idCategorie": "M5",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1556159",
+    "nom": "RINGARD",
+    "prenom": "CLEMENT",
+    "sexe": "M",
+    "dateNaissanceFr": "24\/03\/1997",
+    "idCategorie": "SE",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1851962",
+    "nom": "RINGARD",
+    "prenom": "GEOFFREY",
+    "sexe": "M",
+    "dateNaissanceFr": "24\/03\/1997",
+    "idCategorie": "SE",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1862374",
+    "nom": "ROBILLARD",
+    "prenom": "SEBASTIEN",
+    "sexe": "M",
+    "dateNaissanceFr": "06\/03\/1979",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2071865",
+    "nom": "ROBLIN",
+    "prenom": "ARNAUD",
+    "sexe": "M",
+    "dateNaissanceFr": "13\/10\/1975",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1062547",
+    "nom": "ROCHE",
+    "prenom": "DANIELLE",
+    "sexe": "F",
+    "dateNaissanceFr": "27\/03\/1944",
+    "idCategorie": "M9",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1395981",
+    "nom": "ROHAUT",
+    "prenom": "GUILLAUME",
+    "sexe": "M",
+    "dateNaissanceFr": "13\/08\/1974",
+    "idCategorie": "M3",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1179489",
+    "nom": "ROSE",
+    "prenom": "JEAN CHRISTOPHE",
+    "sexe": "M",
+    "dateNaissanceFr": "08\/02\/1971",
+    "idCategorie": "M3",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "2071508",
+    "nom": "ROUCHEREAU",
+    "prenom": "AMELIE",
+    "sexe": "F",
+    "dateNaissanceFr": "02\/12\/1974",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1651809",
+    "nom": "ROUCHEREAU",
+    "prenom": "BRUNO",
+    "sexe": "M",
+    "dateNaissanceFr": "13\/10\/1973",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2038546",
+    "nom": "ROUSSEL",
+    "prenom": "GREGORY",
+    "sexe": "M",
+    "dateNaissanceFr": "28\/10\/1981",
+    "idCategorie": "M1",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1888505",
+    "nom": "ROUSSEL",
+    "prenom": "SOPHIE",
+    "sexe": "F",
+    "dateNaissanceFr": "12\/01\/1980",
+    "idCategorie": "M2",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "2095318",
+    "nom": "ROUXEL",
+    "prenom": "AUDREY",
+    "sexe": "F",
+    "dateNaissanceFr": "31\/07\/1980",
+    "idCategorie": "M2",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1320710",
+    "nom": "RUDNICKI",
+    "prenom": "VERONIQUE",
+    "sexe": "F",
+    "dateNaissanceFr": "29\/09\/1957",
+    "idCategorie": "M6",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1156526",
+    "nom": "RUET",
+    "prenom": "JIMMY",
+    "sexe": "M",
+    "dateNaissanceFr": "20\/06\/1990",
+    "idCategorie": "M0",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1778656",
+    "nom": "RUIS",
+    "prenom": "JENNIFER",
+    "sexe": "F",
+    "dateNaissanceFr": "11\/12\/1978",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1738246",
+    "nom": "RUTTEN",
+    "prenom": "ERIC",
+    "sexe": "M",
+    "dateNaissanceFr": "06\/03\/1964",
+    "idCategorie": "M5",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1388149",
+    "nom": "SAULDUBOIS KELLER",
+    "prenom": "ANNE LISE",
+    "sexe": "F",
+    "dateNaissanceFr": "23\/06\/1973",
+    "idCategorie": "M3",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1987561",
+    "nom": "SAVOYE",
+    "prenom": "SEVERINE",
+    "sexe": "F",
+    "dateNaissanceFr": "10\/11\/1973",
+    "idCategorie": "M3",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "2056015",
+    "nom": "SCHMUCK",
+    "prenom": "ROMANIE",
+    "sexe": "F",
+    "dateNaissanceFr": "16\/09\/1984",
+    "idCategorie": "M1",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1860513",
+    "nom": "SEGUIN",
+    "prenom": "CEDRIC",
+    "sexe": "M",
+    "dateNaissanceFr": "16\/05\/1981",
+    "idCategorie": "M1",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1375528",
+    "nom": "SEGUIN",
+    "prenom": "JEAN LUC",
+    "sexe": "M",
+    "dateNaissanceFr": "01\/03\/1966",
+    "idCategorie": "M4",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1465371",
+    "nom": "SELLEZ",
+    "prenom": "CLOE",
+    "sexe": "F",
+    "dateNaissanceFr": "02\/02\/1982",
+    "idCategorie": "M1",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1865251",
+    "nom": "SERAFFIN",
+    "prenom": "MARIE",
+    "sexe": "F",
+    "dateNaissanceFr": "14\/05\/1994",
+    "idCategorie": "SE",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1914570",
+    "nom": "SERRISIER",
+    "prenom": "CLAIRE",
+    "sexe": "F",
+    "dateNaissanceFr": "14\/10\/1998",
+    "idCategorie": "SE",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1062618",
+    "nom": "SIMIONI",
+    "prenom": "CLAUDE",
+    "sexe": "F",
+    "dateNaissanceFr": "19\/01\/1952",
+    "idCategorie": "M7",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1183280",
+    "nom": "SIRJACOBS",
+    "prenom": "ROSINE",
+    "sexe": "F",
+    "dateNaissanceFr": "22\/10\/1950",
+    "idCategorie": "M8",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1862024",
+    "nom": "SKRZYNIARZ",
+    "prenom": "BENJAMIN",
+    "sexe": "M",
+    "dateNaissanceFr": "11\/09\/1992",
+    "idCategorie": "SE",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1650419",
+    "nom": "SKRZYPCZAK",
+    "prenom": "ELISA",
+    "sexe": "F",
+    "dateNaissanceFr": "09\/04\/1985",
+    "idCategorie": "M1",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2028710",
+    "nom": "SKUPIEN",
+    "prenom": "RAPHAELE",
+    "sexe": "F",
+    "dateNaissanceFr": "01\/01\/1989",
+    "idCategorie": "M0",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "000010",
+    "nom": "SOUFFLET",
+    "prenom": "STEPHANE",
+    "sexe": "M",
+    "dateNaissanceFr": "12\/01\/1971",
+    "idCategorie": "M3",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1064889",
+    "nom": "SOUFFLET",
+    "prenom": "VALERIE",
+    "sexe": "F",
+    "dateNaissanceFr": "14\/01\/1969",
+    "idCategorie": "M4",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1982799",
+    "nom": "SOW",
+    "prenom": "ROBERT",
+    "sexe": "M",
+    "dateNaissanceFr": "03\/05\/1974",
+    "idCategorie": "M3",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "2059648",
+    "nom": "SPICHER",
+    "prenom": "SABINE",
+    "sexe": "F",
+    "dateNaissanceFr": "24\/04\/1976",
+    "idCategorie": "M2",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "123148",
+    "nom": "STROH",
+    "prenom": "SYLVIE",
+    "sexe": "F",
+    "dateNaissanceFr": "12\/02\/1956",
+    "idCategorie": "M6",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1548026",
+    "nom": "SUEL",
+    "prenom": "MARIE CHRISTINE",
+    "sexe": "F",
+    "dateNaissanceFr": "10\/12\/1969",
+    "idCategorie": "M4",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1806101",
+    "nom": "SZCZEPANIAK",
+    "prenom": "AUDE",
+    "sexe": "F",
+    "dateNaissanceFr": "04\/11\/1971",
+    "idCategorie": "M3",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1557051",
+    "nom": "TABARY",
+    "prenom": "LIONEL",
+    "sexe": "M",
+    "dateNaissanceFr": "09\/05\/1970",
+    "idCategorie": "M4",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "165915",
+    "nom": "TABUTEAU",
+    "prenom": "QUENTIN",
+    "sexe": "M",
+    "dateNaissanceFr": "11\/07\/1967",
+    "idCategorie": "M4",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1744274",
+    "nom": "TELLIER",
+    "prenom": "TEDDY",
+    "sexe": "M",
+    "dateNaissanceFr": "24\/04\/1974",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2023671",
+    "nom": "TEURKI",
+    "prenom": "SMAEL",
+    "sexe": "M",
+    "dateNaissanceFr": "06\/12\/1988",
+    "idCategorie": "M0",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "2073468",
+    "nom": "THERIER",
+    "prenom": "THIBAUT",
+    "sexe": "M",
+    "dateNaissanceFr": "08\/05\/1986",
+    "idCategorie": "M0",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1862419",
+    "nom": "THERON",
+    "prenom": "REMI",
+    "sexe": "M",
+    "dateNaissanceFr": "08\/08\/1983",
+    "idCategorie": "M1",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1627243",
+    "nom": "THEVENIN LEBRAN",
+    "prenom": "LOUISE MARIE",
+    "sexe": "F",
+    "dateNaissanceFr": "29\/01\/1998",
+    "idCategorie": "SE",
+    "nomClub": "SPORTING CLUB ABBEVILLOIS ATHL"
+  },
+  {
+    "licence": "1653708",
+    "nom": "THIERRY",
+    "prenom": "FLORENT",
+    "sexe": "M",
+    "dateNaissanceFr": "26\/05\/1982",
+    "idCategorie": "M1",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1653712",
+    "nom": "THIERRY",
+    "prenom": "FLORIANE",
+    "sexe": "F",
+    "dateNaissanceFr": "02\/10\/1985",
+    "idCategorie": "M1",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1505752",
+    "nom": "THUILLIER",
+    "prenom": "GERALD",
+    "sexe": "M",
+    "dateNaissanceFr": "19\/10\/1970",
+    "idCategorie": "M4",
+    "nomClub": "SAINT-OUEN DSL"
+  },
+  {
+    "licence": "1992914",
+    "nom": "TINENCOURT",
+    "prenom": "CLAIRE",
+    "sexe": "F",
+    "dateNaissanceFr": "12\/11\/1981",
+    "idCategorie": "M1",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1907409",
+    "nom": "TOUATI",
+    "prenom": "CLEMENT",
+    "sexe": "M",
+    "dateNaissanceFr": "21\/10\/2000",
+    "idCategorie": "SE",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1907451",
+    "nom": "TRAN VAN",
+    "prenom": "PIERRE",
+    "sexe": "M",
+    "dateNaissanceFr": "11\/04\/2002",
+    "idCategorie": "SE",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1907396",
+    "nom": "TRAN VAN",
+    "prenom": "SOLENE",
+    "sexe": "F",
+    "dateNaissanceFr": "08\/12\/1999",
+    "idCategorie": "SE",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1284087",
+    "nom": "TRANCART",
+    "prenom": "CHRISTINE",
+    "sexe": "F",
+    "dateNaissanceFr": "09\/09\/1961",
+    "idCategorie": "M5",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1448651",
+    "nom": "TRANCART",
+    "prenom": "PHILIPPE",
+    "sexe": "M",
+    "dateNaissanceFr": "20\/09\/1960",
+    "idCategorie": "M6",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1970510",
+    "nom": "TROGNEUX",
+    "prenom": "JEAN JACQUES",
+    "sexe": "M",
+    "dateNaissanceFr": "12\/11\/1982",
+    "idCategorie": "M1",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "2050449",
+    "nom": "TROQUENET",
+    "prenom": "CLEMENT",
+    "sexe": "M",
+    "dateNaissanceFr": "05\/08\/2000",
+    "idCategorie": "SE",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1548505",
+    "nom": "TROUILLET",
+    "prenom": "MICHEL",
+    "sexe": "M",
+    "dateNaissanceFr": "26\/01\/1967",
+    "idCategorie": "M4",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1084308",
+    "nom": "TURBEAU",
+    "prenom": "RAYMOND",
+    "sexe": "M",
+    "dateNaissanceFr": "12\/09\/1950",
+    "idCategorie": "M8",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1573378",
+    "nom": "TUTOIS",
+    "prenom": "GREGORY",
+    "sexe": "M",
+    "dateNaissanceFr": "05\/02\/1982",
+    "idCategorie": "M1",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1364950",
+    "nom": "TUVERI",
+    "prenom": "JULIE",
+    "sexe": "F",
+    "dateNaissanceFr": "04\/03\/1990",
+    "idCategorie": "M0",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1862015",
+    "nom": "URBANIAK",
+    "prenom": "MARIE",
+    "sexe": "F",
+    "dateNaissanceFr": "06\/08\/1981",
+    "idCategorie": "M1",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1969070",
+    "nom": "VALERS",
+    "prenom": "KENJI",
+    "sexe": "M",
+    "dateNaissanceFr": "26\/02\/1987",
+    "idCategorie": "M0",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1775139",
+    "nom": "VAN DE MOORTELE",
+    "prenom": "STEPHANE",
+    "sexe": "M",
+    "dateNaissanceFr": "24\/10\/1972",
+    "idCategorie": "M3",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "1970289",
+    "nom": "VANHERPE",
+    "prenom": "JEAN REMI",
+    "sexe": "M",
+    "dateNaissanceFr": "08\/01\/1954",
+    "idCategorie": "M7",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1918890",
+    "nom": "VANHUSE",
+    "prenom": "VINCENT",
+    "sexe": "M",
+    "dateNaissanceFr": "17\/10\/1981",
+    "idCategorie": "M1",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1705993",
+    "nom": "VANSUYT",
+    "prenom": "CLEMENT",
+    "sexe": "M",
+    "dateNaissanceFr": "10\/09\/2002",
+    "idCategorie": "SE",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1560332",
+    "nom": "VANSUYT",
+    "prenom": "GUILLAUME",
+    "sexe": "M",
+    "dateNaissanceFr": "25\/06\/1996",
+    "idCategorie": "SE",
+    "nomClub": "AMIENS UC"
+  },
+  {
+    "licence": "1897118",
+    "nom": "VANSUYT",
+    "prenom": "PASCAL",
+    "sexe": "M",
+    "dateNaissanceFr": "10\/02\/1965",
+    "idCategorie": "M5",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1451480",
+    "nom": "VANTARD",
+    "prenom": "FLORENT",
+    "sexe": "M",
+    "dateNaissanceFr": "19\/11\/1983",
+    "idCategorie": "M1",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1581450",
+    "nom": "VAQUETTE",
+    "prenom": "FREDERIC",
+    "sexe": "M",
+    "dateNaissanceFr": "04\/06\/1971",
+    "idCategorie": "M3",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1963547",
+    "nom": "VARELA FERNANDES",
+    "prenom": "NALDI",
+    "sexe": "F",
+    "dateNaissanceFr": "21\/12\/1972",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1974538",
+    "nom": "VARLET",
+    "prenom": "ALIX",
+    "sexe": "F",
+    "dateNaissanceFr": "30\/11\/2001",
+    "idCategorie": "SE",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "2012775",
+    "nom": "VASSEUR",
+    "prenom": "ADELE",
+    "sexe": "F",
+    "dateNaissanceFr": "15\/11\/2004",
+    "idCategorie": "ES",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1214548",
+    "nom": "VASSEUR",
+    "prenom": "CHRISTOPHE",
+    "sexe": "M",
+    "dateNaissanceFr": "29\/03\/1969",
+    "idCategorie": "M4",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1329365",
+    "nom": "VASSEUR",
+    "prenom": "PASCAL",
+    "sexe": "M",
+    "dateNaissanceFr": "30\/06\/1971",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1580302",
+    "nom": "VATEL",
+    "prenom": "ARNAUD",
+    "sexe": "M",
+    "dateNaissanceFr": "14\/07\/1973",
+    "idCategorie": "M3",
+    "nomClub": "VYTAJOG"
+  },
+  {
+    "licence": "130624",
+    "nom": "VERDIER",
+    "prenom": "OLIVIER",
+    "sexe": "M",
+    "dateNaissanceFr": "11\/11\/1973",
+    "idCategorie": "M3",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "1864512",
+    "nom": "VERMES",
+    "prenom": "MATHIEU",
+    "sexe": "M",
+    "dateNaissanceFr": "21\/03\/1966",
+    "idCategorie": "M4",
+    "nomClub": "SPORTING CLUB ABBEVILLOIS ATHL"
+  },
+  {
+    "licence": "1885501",
+    "nom": "VERMES",
+    "prenom": "VALENTIN",
+    "sexe": "M",
+    "dateNaissanceFr": "13\/04\/1997",
+    "idCategorie": "SE",
+    "nomClub": "SPORTING CLUB ABBEVILLOIS ATHL"
+  },
+  {
+    "licence": "1212556",
+    "nom": "VERMUNT",
+    "prenom": "CORINNE",
+    "sexe": "F",
+    "dateNaissanceFr": "15\/06\/1967",
+    "idCategorie": "M4",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1212557",
+    "nom": "VERMUNT",
+    "prenom": "JEAN MARC",
+    "sexe": "M",
+    "dateNaissanceFr": "03\/04\/1966",
+    "idCategorie": "M4",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1298481",
+    "nom": "VICART",
+    "prenom": "KEVIN",
+    "sexe": "M",
+    "dateNaissanceFr": "02\/04\/1988",
+    "idCategorie": "M0",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1374123",
+    "nom": "VIDAL",
+    "prenom": "MARTINE",
+    "sexe": "F",
+    "dateNaissanceFr": "05\/09\/1958",
+    "idCategorie": "M6",
+    "nomClub": "US CAMON"
+  },
+  {
+    "licence": "1617428",
+    "nom": "VIEIRA",
+    "prenom": "OLIVIER",
+    "sexe": "M",
+    "dateNaissanceFr": "16\/03\/1972",
+    "idCategorie": "M3",
+    "nomClub": "SAINT-OUEN DSL"
+  },
+  {
+    "licence": "1191078",
+    "nom": "VIOT",
+    "prenom": "DAVID",
+    "sexe": "M",
+    "dateNaissanceFr": "15\/02\/1973",
+    "idCategorie": "M3",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1374023",
+    "nom": "VIOT",
+    "prenom": "SABINE",
+    "sexe": "F",
+    "dateNaissanceFr": "17\/08\/1967",
+    "idCategorie": "M4",
+    "nomClub": "ESPRIT RUN"
+  },
+  {
+    "licence": "1251762",
+    "nom": "VOISIN",
+    "prenom": "SANDRINE",
+    "sexe": "F",
+    "dateNaissanceFr": "09\/10\/1969",
+    "idCategorie": "M4",
+    "nomClub": "ALBERT MEAULTE AEROSPA.AC"
+  },
+  {
+    "licence": "1293996",
+    "nom": "VUE",
+    "prenom": "FREDERIC",
+    "sexe": "M",
+    "dateNaissanceFr": "01\/11\/1967",
+    "idCategorie": "M4",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1772159",
+    "nom": "WALLET",
+    "prenom": "STEPHANE",
+    "sexe": "M",
+    "dateNaissanceFr": "03\/07\/1966",
+    "idCategorie": "M4",
+    "nomClub": "RUNNING CLUB DE CORBIE"
+  },
+  {
+    "licence": "2084830",
+    "nom": "WISCART",
+    "prenom": "CATHERINE",
+    "sexe": "F",
+    "dateNaissanceFr": "21\/05\/1974",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1756085",
+    "nom": "WISCART",
+    "prenom": "JEAN PHILIPPE",
+    "sexe": "M",
+    "dateNaissanceFr": "20\/11\/1974",
+    "idCategorie": "M3",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1062544",
+    "nom": "WYCKAERT",
+    "prenom": "CHRISTIAN",
+    "sexe": "M",
+    "dateNaissanceFr": "19\/02\/1956",
+    "idCategorie": "M6",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "1775061",
+    "nom": "ZAMBELLI",
+    "prenom": "LOIC",
+    "sexe": "M",
+    "dateNaissanceFr": "12\/07\/1983",
+    "idCategorie": "M1",
+    "nomClub": "AMICALE DU VAL DE SOMME"
+  },
+  {
+    "licence": "200222",
+    "nom": "ZOUAD",
+    "prenom": "AKIM",
+    "sexe": "M",
+    "dateNaissanceFr": "07\/04\/1978",
+    "idCategorie": "M2",
+    "nomClub": "AMIENS UC"
+  }
+]

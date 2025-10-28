@@ -1,0 +1,55 @@
+<div class="row">
+    <div class="col-6">
+        <pre><code>Le script php.php lit les données et les envoie au client
+$titre = "Lecture d'un fichier json";
+            <xmp>
+$data = file_get_contents(RACINE . "/data/etudiant.json");
+$head = <<<HTML
+    <script>
+        let lesEtudiants = $data;
+    </script>
+HTML;
+            </xmp>
+// chargement de l'interface
+require $_SERVER['DOCUMENT_ROOT'] . "/include/interface.php";
+
+Le script php.html affiche l'entête du tableau
+<xmp><table class='table'>
+      <thead>
+         <tr>
+              <th class='col-5'>Nom</th>
+              <th class='col-5'>Prénom</th>
+              <th class='col-2 text-center'>Option</th>
+        </tr>
+     </thead>
+     <tbody id="lesLignes"></tbody>
+</table>
+</xmp>
+ Le script php.js génère les balises tr et td pour les intégrer sur l'interface
+ for (const etudiant of lesEtudiants) {
+       const tr = lesLignes.insertRow();
+       tr.insertCell().innerText = etudiant.nom;
+       tr.insertCell().innerText = etudiant.prenom;
+       const td = document.createElement('td');
+       td.classList.add('text-center');
+       // td.style.textAlign = 'center';
+       td.innerText = etudiant.option;
+       tr.appendChild(td);
+}</code></pre>
+    </div>
+    <div class="col-6">
+        <table class='table'>
+            <thead>
+            <tr>
+                <th class='col-5'>Nom</th>
+                <th class='col-5'>Prénom</th>
+            </tr>
+            </thead>
+            <tbody id="lesLignes"></tbody>
+        </table>
+    </div>
+
+</div>
+
+
+

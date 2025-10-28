@@ -1,0 +1,84 @@
+<style>
+
+
+    .tab {
+        display: grid;
+        grid-template-columns: 450px 1fr;
+        gap: 1rem;
+        margin: 1rem auto;
+        padding: 1rem;
+        background: transparent;
+        align-items: center;
+        width: 100%;
+        box-sizing: border-box;
+        border: 1px solid #ddd; /* Bordure pour la tab1 */
+    }
+
+    .tab2 .entete {
+        background: transparent;
+        color: darkblue;
+        text-align: left;
+        padding: 0.4rem 1rem 0.4rem 0.4rem;
+    }
+
+
+    @media (max-width: 600px) {
+        .tab {
+            grid-template-columns: 1fr; /* Une seule colonne */
+        }
+
+        .tab1 label {
+            padding-bottom: 0;
+        }
+    }
+</style>
+
+
+<div class="tab">
+    <div class='entete'>Icône modification</div>
+    <div id="btnModifier"></div>
+    <div class='entete'>Icône suppression</div>
+    <div id="btnSupprimer"></div>
+    <div class='entete'>Zone de texte</div>
+    <div id="zoneTexte"></div>
+    <div class='entete'>Zone de liste</div>
+    <div id="zoneListe"></div>
+    <div class='entete'>Case à cocher</div>
+    <div id="caseACocher"></div>
+</div>
+
+<pre>// -----------------------------------------------------------------------------------
+// Import des fonctions nécessaires
+// -----------------------------------------------------------------------------------
+
+import {
+    creerInputTexte,
+    creerBoutonSuppression,
+    creerBoutonModification,
+    creerSelect, creerCheckbox
+} from "/composant/fonction/formulaire.js";
+import {afficherToast} from "/composant/fonction/afficher";
+
+// -----------------------------------------------------------------------------------
+// Déclaration des variables globales
+// -----------------------------------------------------------------------------------
+
+const btnModifier = document.getElementById('btnModifier');
+const btnSupprimer = document.getElementById('btnSupprimer');
+const zoneTexte = document.getElementById('zoneTexte');
+const zoneListe = document.getElementById('zoneListe');
+const caseACocher = document.getElementById('caseACocher');
+
+// -----------------------------------------------------------------------------------
+// Programme principal
+// -----------------------------------------------------------------------------------
+
+btnModifier.appendChild(creerBoutonModification(() =>  afficherToast('Modification enregistrée') ));
+btnSupprimer.appendChild(creerBoutonSuppression(() =>  afficherToast('Suppression enregistrée') ));
+zoneTexte.appendChild(creerInputTexte({ placeholder : 'Saisir votre texte'}));
+const zdl = creerSelect();
+zdl.add(new Option('SLAM', 'SLAM'));
+zdl.add(new Option('SISR', 'SISR'));
+zoneListe.appendChild(zdl);
+
+caseACocher.appendChild(creerCheckbox());</pre>
