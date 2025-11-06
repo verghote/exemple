@@ -1,0 +1,143 @@
+<style>
+    .form-check {
+        margin-bottom: 10px; /* Espace vertical entre chaque ligne */
+    }
+
+    .form-check-input {
+        margin-right: 15px; /* Espace horizontal entre l'input et le label */
+    }
+
+    .form-check-label {
+        padding-left: 5px; /* Espace entre l'input et le texte du label */
+    }
+
+    .form-check.form-switch {
+        margin-top: 10px; /* Espacer un peu le switch du reste */
+    }
+
+</style>
+
+<div id="formulaire" class="formulaire">
+    <label for="nom" class="obligatoire">
+        Nom <span
+            class='commentaire'>(30 caractères maximum, caractères autorisés : lettres non accentuées et espace)</span>
+    </label>
+    <input id="nom"
+           type="text"
+           required
+           pattern="^[A-Za-z]( ?[A-Za-z])*$"
+           maxlength="30"
+           minlength="3"
+           autocomplete="off">
+
+    <!-- Prénom -->
+    <label for="prenom" class="obligatoire">
+        Prénom <span class='commentaire'>(30 caractères maximum, caractères autorisés : lettres non accentuées et espace)</span>
+    </label>
+    <input id="prenom"
+           type="text"
+           required
+           pattern="^[A-Za-zÀÁÂÃÄÅÇÈÉÊËÌÍÎÏÒÓÔÕÖÙÚÛÜÝàáâãäåçèéêëìíîïðòóôõöùúûüýÿ]([A-Za-zÀÁÂÃÄÅÇÈÉÊËÌÍÎÏÒÓÔÕÖÙÚÛÜÝàáâãäåçèéêëìíîïðòóôõöùúûüýÿ '\-]*[A-Za-zÀÁÂÃÄÅÇÈÉÊËÌÍÎÏÒÓÔÕÖÙÚÛÜÝàáâãäåçèéêëìíîïðòóôõöùúûüýÿ])*$"
+           maxlength="30"
+           minlength="3"
+           autocomplete="off">
+
+    <!-- Date de naissance -->
+    <label for="dateNaissance">Date de naissance</label>
+    <input id="dateNaissance" type="date" required>
+
+    <!-- Sexe -->
+    <label for="sexe">Sexe</label>
+    <select id="sexe" style="display : block; width: 150px">
+        <option value="M">Homme</option>
+        <option value="F">Femme</option>
+    </select>
+    <!-- email -->
+    <label for="email">Adresse mail</label>
+    <input id="email" type="email" autocomplete="off">
+
+    <!-- Téléphone -->
+    <label for="telephone">
+        Téléphone portable<span class='commentaire'> (10 chiffres, 06XXXXXXXX ou 07XXXXXXXX)</span>
+    </label>
+    <input id="telephone"
+           type="text"
+           pattern="^0(6|7)[0-9]{8}$"
+           maxlength="10"
+           minlength="10"
+           autocomplete="off">
+    <fieldset>
+        <legend>Informations utiles</legend>
+
+        <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="externe" required>
+            <label class="form-check-label" for="externe">Externe</label>
+        </div>
+
+        <div class="form-check form-switch">
+            <input class="form-check-input" type="checkbox" id="redoublant">
+            <label class="form-check-label" for="redoublant">Redoublant</label>
+        </div>
+    </fieldset>
+
+    <!-- Url Github -->
+
+    <label class='obligatoire col-form-label' for="urlGitHub">Url de votre compte Github</label>
+    <input id='urlGitHub'
+           type="url"
+           minlength='10'
+           maxlength='150'
+           required
+           autocomplete="off">
+
+    <!-- Champ textarea -->
+    <label for="presentation" class="col-form-label">Présentez-vous en quelques phrase</label>
+    <textarea id='presentation' minlength="10"
+              required
+              style="resize:vertical; min-height:150px"></textarea>
+
+    <fieldset>
+        <legend>Quelle option pensez-vous demander ?</legend>
+        <div class="form-check">
+            <input type="radio" class="form-check-input btn-lg" name="option" value="SLAM" id="SLAM">
+            <label class="form-check-label" for="SLAM">Développement</label><br>
+
+            <input type="radio" class="form-check-input btn-sm" name="option" value="SISR" id="SISR">
+            <label class="form-check-label" for="SISR">Réseau</label><br>
+
+            <input type="radio" checked class="form-check-input btn-xs" name="option" value="ND" id="nd">
+            <label class="form-check-label" for="ND">Je ne sais pas encore</label>
+        </div>
+    </fieldset>
+    <fieldset>
+        <legend>Quelles sont vos principales activités extrascolaires ?</legend>
+        <div class="form-check">
+            <input type="checkbox" class="form-check-input" name="activites" value="ludique"
+                   id="ludique">
+            <label class="form-check-label" for="ludique">Ludiques (jeux vidéo, jeux de
+                société...)</label><br>
+
+            <input type="checkbox" class="form-check-input" name="activites" value="sportive"
+                   id="sportive">
+            <label class="form-check-label" for="sportive">Sportives</label><br>
+
+            <input type="checkbox" class="form-check-input" name="activites" value="culturelle"
+                   id="culture">
+            <label class="form-check-label" for="culture">Culturelles (musique, théatre, lecture,
+                peinture...)</label><br>
+
+            <input type="checkbox" class="form-check-input" name="activites" value="associative"
+                   id="associative">
+            <label class="form-check-label" for="associative">Associatives (membre actif d'une
+                association,
+                bénévolat...)</label><br>
+
+            <input type="checkbox" class="form-check-input" name="activites" value="salariale"
+                   id="salariale">
+            <label class="form-check-label" for="salariale">Salariales</label><br>
+        </div>
+    </fieldset>
+    <div class="text-center mt-3">
+        <button id='btnEnvoyer' class="btn btn btn-danger">Envoyer</button>
+    </div>
+</div>

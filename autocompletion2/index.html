@@ -1,0 +1,186 @@
+<style>
+    .fiche-grid {
+        display: grid;
+        grid-template-columns: 2fr 3fr;
+        margin: 1rem auto;
+        padding: 1rem;
+        background: transparent;
+    }
+
+    .fiche-label {
+        font-weight: bold;
+        text-align: left;
+        padding: 0.4rem 1rem 0.4rem 0.4rem;
+        border: 1px solid #ddd;
+    }
+
+    .fiche-value {
+        padding: 0.4rem 0 0.4rem 1rem;
+        text-align: left;
+        word-break: break-word;
+        border: 1px solid #ddd;
+    }
+
+    .nom-input {
+        width: 95%;
+        padding: 0.4rem;
+        border: 1px solid #ccc;
+    }
+
+</style>
+
+
+<div class="fiche-grid" style="max-width: 1000px; margin: auto;">
+    <div class="fiche-label">Licence</div>
+    <div class="fiche-value" id="licence"></div>
+    <div class="fiche-label">Nom</div>
+    <div class="fiche-value">
+        <input type="text" id="nom"
+               class="nom-input"
+               placeholder="Saisir le nom du licencié "
+               autocomplete="on">
+    </div>
+    <div class="fiche-label">Prénom</div>
+    <div class="fiche-value" id="prenom"></div>
+    <div class="fiche-label">Date de naissance</div>
+    <div class="fiche-value" id="dateNaissance"></div>
+    <div class="fiche-label">Sexe</div>
+    <div class="fiche-value" id="sexe"></div>
+    <div class="fiche-label">Âge</div>
+    <div class="fiche-value" id="age"></div>
+    <div class="fiche-label">Catégorie</div>
+    <div class="fiche-value" id="idCategorie"></div>
+    <div class="fiche-label">Club</div>
+    <div class="fiche-value" id="nomClub"></div>
+</div>
+<pre><code>
+/*
+    utilisation du script composant/fonction/autocomplete.js qui automatise l'usage du composant autoComplete
+    selector: le champ qui vza être associé à l'autocomplétion, ici "#nom",
+    fetchUrl: le script à lancer pour récupérer les données vérifiant le filtre : "ajax/getbynom.php",
+    searchKey: le nom de la propriété dans les données résultantes qui alimente la zone d'autocomplétion "nom",
+    onSelection: la fonction de rappel à lancer lorqu'une ligne est sélectionnée dans la zone d'autocomplétion
+    (selection) => {
+        nom.value = selection.nom;
+        afficher(selection);
+    }
+ */
+
+// -----------------------------------------------------------------------------------
+// Import des fonctions nécessaires
+// -----------------------------------------------------------------------------------
+
+import {getAge} from '/composant/fonction/date.js';
+import {filtrerLaSaisie} from '/composant/fonction/formulaire.js';
+import {initAutoComplete} from "/composant/fonction/autocomplete.js";
+
+// -----------------------------------------------------------------------------------
+// Déclaration des variables globales
+// -----------------------------------------------------------------------------------
+
+/* global data, autoComplete */
+
+// récupération des éléments de l'interface
+const licence = document.getElementById('licence');
+const nom = document.getElementById('nom');
+const prenom = document.getElementById('prenom');
+const sexe = document.getElementById('sexe');
+const dateNaissance = document.getElementById('dateNaissance');
+const nomClub = document.getElementById('nomClub');
+const idCategorie = document.getElementById('idCategorie');
+const age = document.getElementById('age');
+
+// -----------------------------------------------------------------------------------
+// Procédures évènementielles
+// -----------------------------------------------------------------------------------
+
+// Efface tous  quand celui-ci est sélectionné
+nom.onfocus = effacer;
+
+
+// -----------------------------------------------------------------------------------
+// Fonctions de traitement
+// -----------------------------------------------------------------------------------
+
+function afficher(licencie) {
+    licence.innerText = licencie.licence;
+    nom.innerText = licencie.nom;
+    prenom.innerText = licencie.prenom;
+    sexe.innerText = licencie.sexe;
+    dateNaissance.innerText = licencie.dateNaissanceFr;
+    nomClub.innerText = licencie.nomClub;
+    idCategorie.innerText = licencie.idCategorie;
+    if(licencie.dateNaissanceFr !== '') {
+        age.innerText = getAge(licencie.dateNaissanceFr) + ' ans';
+    } else {
+        age.innerText = '';
+    }
+    nom.blur();
+}
+
+/**
+ * Efface les valeurs affichées dans les balises div de class fiche-value.
+ */
+function effacer() {
+    document.querySelectorAll('.fiche-value').forEach(el => {
+        const input = el.querySelector('input');
+        if (input) {
+            input.value = ''; // efface juste le contenu du champ input
+        } else {
+            el.innerText = ''; // efface le contenu textuel des autres champs
+        }
+    });
+}
+
+// -----------------------------------------------------------------------------------
+// Programme principal
+// -----------------------------------------------------------------------------------
+
+// paramétrage du composant autoComplete
+initAutoComplete({
+    selector: "#nom",
+    fetchUrl: "ajax/getbynom.php",
+    searchKey: "nom",
+    onSelection: (selection) => {
+        nom.value = selection.nom;
+        afficher(selection);
+    }
+});
+
+// filtrage de la saisie
+filtrerLaSaisie('nom', /[a-zA-Z ]/);
+
+Les données sont stockées dans le fichier data/licencies.json
+Le script ajax/getbynom.php se charge de lire ce fichier et de filtrer les données
+
+$lesEtudiants = [];
+
+// vérification de la transmission des données attendues
+if (!Std::existe('search')) {
+    echo json_encode([]);
+    exit;
+}
+
+$search = $_GET['search'];
+
+// Vérification du format de l'identifiant
+if (!preg_match('/^[a-zA-z]+$/', $search)) {
+    echo json_encode([]);
+    exit;
+}
+
+// récupération des données
+$data = file_get_contents(RACINE . "/data/licencies.json");
+
+// conversion des données JSON en tableau PHP
+$lesEtudiants = json_decode($data, true);
+
+// extraire les licenciés dont le nom ou le prénom contient la chaîne de caractères recherchée
+$lesEtudiants = array_filter($lesEtudiants, function ($etudiant) use ($search) {
+    return stripos($etudiant['nom'], $search) !== false;
+});
+
+//  il faut forcer la réindexation avec array_values()
+echo json_encode(array_values($lesEtudiants), JSON_UNESCAPED_UNICODE);
+
+</code></pre>

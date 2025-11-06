@@ -1,0 +1,17 @@
+<div style="margin-left: 50px;">
+    Vous êtes dans le menu horizontal, dans le dossier <strong>menu1</strong>.
+
+    <p style="font-style: italic; text-align: left; padding-left: 20px;">
+        Le fichier index.php charge Le fichier de configuration /menuhorizontal/.congif/menuhorizontal.json
+        <br>
+        $lesOptionsHorizontales =  file_get_contents('../.config/menuhorizontal.json');
+        <br>
+        Le fichier index.js active le composant
+        <br>
+            import {initialiserMenuHorizontal} from "/composant/menuhorizontal/menu.js";
+        <br>
+        /* global lesOptionsHorizontales */
+        <br>
+        initialiserMenuHorizontal(lesOptionsHorizontales);
+    </p>
+</div>

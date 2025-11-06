@@ -1,0 +1,103 @@
+<style>
+    .tab1 {
+        display: grid;
+        grid-template-columns: 300px 1fr 1fr;
+        gap: 1rem;
+        margin: 1rem auto;
+        padding: 1rem;
+        background: transparent;
+        align-items: center;
+        width: 100%;
+        box-sizing: border-box;
+        border: 1px solid #ddd; /* Bordure pour la tab1 */
+    }
+
+    .tab1 .entete {
+        background: transparent;
+        color: darkblue;
+        text-align: left;
+        padding: 0.4rem 1rem 0.4rem 0.4rem;
+    }
+
+    .tab1 output {
+        padding: 0.25rem;
+        text-align: left;
+        word-break: break-word;
+        background-color: transparent;
+        border: 1px solid #ddd;
+    }
+
+
+    .tab2 {
+        display: grid;
+        grid-template-columns: 350px 1fr ;
+        gap: 1rem;
+        margin: 1rem auto;
+        padding: 1rem;
+        background: transparent;
+        align-items: center;
+        width: 100%;
+        box-sizing: border-box;
+        border: 1px solid #ddd; /* Bordure pour la tab1 */
+    }
+
+    .tab2 .entete {
+        background: transparent;
+        color: darkblue;
+        text-align: left;
+        padding: 0.4rem 1rem 0.4rem 0.4rem;
+    }
+
+    .tab2 output {
+        padding: 0.25rem;
+        text-align: left;
+        word-break: break-word;
+        background-color: transparent;
+        border: 1px solid #ddd;
+    }
+
+    @media (max-width: 600px) {
+        .tab1, .tab2 {
+            grid-template-columns: 1fr; /* Une seule colonne */
+        }
+
+        .tab1 label {
+            padding-bottom: 0;
+        }
+
+        .tab1 output,
+        .tab1 input[type="checkbox"] {
+            margin-bottom: 1em;
+        }
+    }
+</style>
+
+<div id="msg"></div>
+
+<div class="tab1">
+    <div class='entete'>Valeur</div>
+    <input type="text" id="str1" required>
+    <input type="text" id="str2" required>
+    <div class='entete'>supprimerEspace()</div>
+    <output id="str1SansEspace"></output>
+    <output id="str2SansEspace"></output>
+
+    <div class='entete'>enleverAccent()</div>
+    <output id="str1SansAccent"></output>
+    <output id="str2SansAccent"></output>
+
+    <div class='entete'>enleverAccentEtMajuscule</div>
+    <output id="str1SansAccentEtSansMajuscule"></output>
+    <output id="str2SansAccentEtSansMajuscule"></output>
+</div>
+
+<div class="tab2">
+    <div class='entete'>comparer avec ====</div>
+    <output id="comparer1"></output>
+    <div class='entete'>comparerSansCasse()</div>
+    <output id="comparer2"></output>
+    <div class='entete'>comparerSansAccentEtSansCasse()</div>
+    <output id="comparer3"></output>
+    <div class='entete'>contenir()</div>
+    <output id="comparer4"></output>
+</div>

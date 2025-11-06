@@ -1,0 +1,674 @@
+<div class="accordion accordion-flush" id="element">
+    <div class="accordion-item">
+        <h2 class="accordion-header">
+            <button aria-controls="grille" aria-expanded="false" class="accordion-button " data-bs-target="#grille"
+                    data-bs-toggle="collapse" type="button">
+                Le système de grille
+            </button>
+        </h2>
+        <div class="accordion-collapse collapse " data-bs-parent="#element" id="grille">
+            <div class="accordion-body">
+                <table class="table mb-4">
+                    <thead>
+                    <tr>
+                        <th scope="col"></th>
+                        <th scope="col">
+                            xs<br>
+                            <span class="fw-normal">&lt;576px</span>
+                        </th>
+                        <th scope="col">
+                            sm<br>
+                            <span class="fw-normal">≥576px</span>
+                        </th>
+                        <th scope="col">
+                            md<br>
+                            <span class="fw-normal">≥768px</span>
+                        </th>
+                        <th scope="col">
+                            lg<br>
+                            <span class="fw-normal">≥992px</span>
+                        </th>
+                        <th scope="col">
+                            xl<br>
+                            <span class="fw-normal">≥1200px</span>
+                        </th>
+                        <th scope="col">
+                            xxl<br>
+                            <span class="fw-normal">≥1400px</span>
+                        </th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <th class="text-nowrap" scope="row">Container <code class="fw-normal">max-width</code></th>
+                        <td>None (auto)</td>
+                        <td>540px</td>
+                        <td>720px</td>
+                        <td>960px</td>
+                        <td>1140px</td>
+                        <td>1320px</td>
+                    </tr>
+                    <tr>
+                        <th class="text-nowrap" scope="row">Class prefix</th>
+                        <td><code>.col-</code></td>
+                        <td><code>.col-sm-</code></td>
+                        <td><code>.col-md-</code></td>
+                        <td><code>.col-lg-</code></td>
+                        <td><code>.col-xl-</code></td>
+                        <td><code>.col-xxl-</code></td>
+                    </tr>
+                    </tbody>
+                </table>
+                <h5>Deux colonnes quelle qu'en soit la taille</h5>
+
+                <div class="row">
+                    <div class="col-8 bg-dark text-light">
+                        col-8
+                    </div>
+                    <div class="col-4 bg-danger text-light">
+                        col-4
+                    </div>
+                </div>
+                <h5>Trois colonnes identiques jusqu'à la tablette</h5>
+                <div class="row">
+                    <div class="col-sm bg-dark text-light">col-sm</div>
+                    <div class="col-sm bg-danger text-light">col-sm</div>
+                    <div class="col-sm bg-warning">col-sm</div>
+                </div>
+                <h5>Deux colonnes dont la taille varie en fonction de l'écran</h5>
+                <div class="row">
+                    <div class="col-lg-6 col-md-8 col-sm-10 col-12 bg-dark text-light">
+                        col-lg-6 col-md-8 col-sm-10 col-12
+                    </div>
+                    <div class="col-lg-6 col-md-4 col-sm-2 col-12 bg-danger text-light">
+                        col-lg-6 col-md-4 col-sm-2 col-12
+                    </div>
+                </div>
+                <h5>Trois colonnes identiques en lg 6 3 3 en md 5 4 3 en sm 8 2 2 en xs </h5>
+                <div class="row">
+                    <div class="col-lg col-md-6 col-sm-5 col-8  bg-dark text-light">col-lg col-md-6 col-sm-5 col-8
+                    </div>
+                    <div class="col-lg col-md-3 col-sm-4 col-2  bg-danger text-light">col-lg col-md-3 col-sm-4
+                        col-2
+                    </div>
+                    <div class="col-lg col-md-3 col-sm-3 col-2  bg-warning">col-lg col-md-3 col-sm-3 col-2</div>
+                </div>
+
+                <h5>deux zones de 4 et 6 colonnes avec deux colonnes de séparation </h5>
+                <div class="row">
+                    <div class="col-lg-4 bg-dark text-light">col-lg-4</div>
+                    <div class="col-lg-6 offset-lg-2 bg-danger text-light">col-lg-6</div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 bg-dark text-light">col-md-4</div>
+                    <div class="col-md-6 offset-md-2 bg-danger text-light">col-md-6</div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-4 bg-dark text-light">col-sm-4</div>
+                    <div class="col-sm-6 offset-sm-2 bg-danger text-light">col-sm-6</div>
+                </div>
+                <div class="row">
+                    <div class="col-4 bg-dark text-light">col-4</div>
+                    <div class="col-6 offset-2 bg-danger text-light">col-6</div>
+                </div>
+                <h5>deux zones dont la taille et la séparation s'adaptent</h5>
+                <div class="row">
+                    <div class="col-lg-2 col-md-4 col-sm-5 col-6  bg-dark text-light">col-lg-2 col-md-4 col-sm-5
+                        col-6
+                    </div>
+                    <div class="col-lg-2 offset-lg-8 col-md-4 offset-md-4 col-sm-5 offset-sm-2 col-6 bg-danger text-light">
+                        col-lg-2 offset-lg-8 col-md-4 offset-md-4 col-sm-5 offset-sm-2 col-6
+                    </div>
+                </div>
+                <h5>4 colonnes de 6 sur petit écran (soit deux lignes) et 4 colonnes de 3 pour les autres mais avec
+                    un saut de
+                    ligne après 2 colonnes</h5>
+
+                <div class="row">
+                    <div class="col-6 col-sm-3 bg-dark text-light ">.col-6 .col-sm-3</div>
+                    <div class="col-6 col-sm-3 bg-danger text-light">.col-6 .col-sm-3</div>
+                    <div class="w-100"></div>
+                    <div class="col-6 col-sm-3 bg-dark text-light">.col-6 .col-sm-3</div>
+                    <div class="col-6 col-sm-3 bg-danger text-light">.col-6 .col-sm-3</div>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+    <div class="accordion-item">
+        <h2 class="accordion-header">
+            <button aria-controls="display" aria-expanded="false" class="accordion-button collapsed"
+                    data-bs-target="#display" data-bs-toggle="collapse" type="button">
+                Display bloc, inline ou flex
+            </button>
+        </h2>
+        <div class="accordion-collapse collapse" data-bs-parent="#element" id="display">
+            <div class="accordion-body">
+                <h5>display inline </h5>
+                <div class="d-inline p-2 bg-dark text-white">d-inline</div>
+                <div class="d-inline p-2 bg-danger text-white">d-inline</div>
+
+                <h5>display block</h5>
+                <span class="d-block p-2 bg-dark text-white">d-block</span>
+                <span class="d-block p-2 bg-danger text-white">d-block</span>
+
+                <h5>display inline-block</h5>
+                <span class="d-inline-block p-2 bg-dark text-white">d-inline-block</span>
+                <span class="d-inline-block p-2 bg-danger text-white">d-inline-block</span>
+
+                <h5>display flex justify-content-between</h5>
+                <div class="d-flex justify-content-between">
+                    <span class="p-2 bg-dark text-white">à gauche</span>
+                    <span class="p-2 bg-danger text-white">à droite</span>
+                </div>
+                <h5>display flex justify-content-center</h5>
+                <div class="d-flex justify-content-center">
+                    <span class="p-2 bg-dark text-white">à gauche</span>
+                    <span class="p-2 bg-danger text-white">à droite</span>
+                </div>
+                <h5>display flex justify-content-evenly</h5>
+                <div class="d-flex justify-content-evenly">
+                    <span class="p-2 bg-dark text-white">à gauche</span>
+                    <span class="p-2 bg-danger text-white">à droite</span>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="accordion-item">
+        <h2 class="accordion-header">
+            <button aria-controls="masquerAfficher" aria-expanded="false" class="accordion-button collapsed"
+                    data-bs-target="#masquerAfficher" data-bs-toggle="collapse" type="button">
+                Masquer un élément selon la taille de l'écran
+            </button>
+        </h2>
+        <div class="accordion-collapse collapse" data-bs-parent="#element" id="masquerAfficher">
+            <div class="accordion-body">
+                <a href="//getbootstrap.com/docs/5.0/utilities/display/#hiding-elements"
+                   target="_blank">Documentation</a>
+                <h6>Masquer la deuxième colonne si taille &lt; 576 px (sm) </h6>
+                <div class="row">
+                    <div class="col-8 bg-dark text-light">
+                        col-8
+                    </div>
+                    <div class="col-4 d-none d-sm-block bg-danger text-light">
+                        col-4 d-none d-sm-block
+                    </div>
+                </div>
+                <h6>Masquer la deuxième colonne si taille &lt; 768px (sm) </h6>
+                <div class="row">
+                    <div class="col-8 bg-dark text-light">
+                        col-8
+                    </div>
+                    <div class="col-4 d-sm-none d-md-block bg-danger text-light">
+                        col-4 d-sm-none d-md-block
+                    </div>
+                </div>
+                <h6>Afficher une colonne de moins à chaque changement de largeur d'écran </h6>
+                <div class="row">
+                    <div class="col-2 bg-dark text-light">
+                        Toujours
+                    </div>
+                    <div class="col-2 d-none d-sm-block bg-danger text-light">
+                        à partir de 576px (sm) <br> d-none d-sm-block
+                    </div>
+                    <div class="col-2 d-none d-md-block  bg-dark text-light">
+                        à partir de 768px (md) <br> d-none d-md-block
+                    </div>
+                    <div class="col-2 d-none d-lg-block  bg-danger text-light">
+                        à partir de 992px (lg) <br> d-none d-lg-block
+                    </div>
+                    <div class="col-2 d-none d-xl-block  bg-dark text-light">
+                        à partir de 1200px (xl) <br> d-none d-xl-block
+                    </div>
+                    <div class="col-2 d-none d-xxl-block  bg-dark text-light">
+                        à partir de 1400px (xxl) <br> d-none d-xxl-block
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="accordion-item">
+        <h2 class="accordion-header">
+            <button aria-controls="alignement" aria-expanded="false" class="accordion-button collapsed"
+                    data-bs-target="#alignement" data-bs-toggle="collapse" type="button">
+                Alignement des éléments
+            </button>
+
+        </h2>
+        <div class="accordion-collapse collapse" data-bs-parent="#element" id="alignement">
+            <div class="accordion-body">
+                <h5>Centrer horizontalement </h5>
+                <div class="row justify-content-start">
+                    <div class="col-4 bg-dark text-light">
+                        à gauche : justify-content-start
+                    </div>
+                    <div class="col-4 bg-danger text-light">
+                        à gauche : justify-content-start
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-4 bg-dark text-light">
+                        au centre : justify-content-center
+                    </div>
+                    <div class="col-4 bg-danger text-light">
+                        au centre : justify-content-center
+                    </div>
+                </div>
+                <div class="row justify-content-end">
+                    <div class="col-4 bg-dark text-light">
+                        à droite : justify-content-end
+                    </div>
+                    <div class="col-4 bg-danger text-light">
+                        à droite : justify-content-end
+                    </div>
+                </div>
+                <div class="row justify-content-around">
+                    <div class="col-4 bg-dark text-light">
+                        réparti : justify-content-around
+                    </div>
+                    <div class="col-4 bg-danger text-light">
+                        réparti : justify-content-around
+                    </div>
+                </div>
+                <div class="row justify-content-between">
+                    <div class="col-4 bg-dark text-light">
+                        Entre : justify-content-between
+                    </div>
+                    <div class="col-4 bg-danger text-light">
+                        Entre : justify-content-between
+                    </div>
+                </div>
+
+                <h5>Centrer verticalement </h5>
+
+                <div class="row align-items-start border border-dark" style="height:80px">
+                    <div class="col">
+                        En haut : align-items-start
+                    </div>
+
+                </div>
+                <div class="row align-items-center border border-dark" style="height:80px">
+                    <div class="col">
+                        Au milieu : align-items-center
+                    </div>
+                </div>
+                <div class="row align-items-end border border-dark" style="height:80px">
+                    <div class="col">
+                        En bas : align-items-end
+                    </div>
+                </div>
+
+                <h5>Un élément centré horizontalement et verticalement</h5>
+                <div class="row align-items-center border border-dark" style="height:80px">
+                    <div class="col text-center ">
+                        Centrer
+                    </div>
+                </div>
+                <div class="d-flex align-items-center justify-content-center mb-3 " style="height: 110px">
+                    <div class="p-2 bg-dark text-light">d-flex align-items-center justify-content-center</div>
+                </div>
+
+                <h5>alignement à gauche ou à droite</h5>
+                <div class="float-start bg-dark text-white">à gauche sur toutes les largeurs d'écran</div>
+                <br>
+                <div class="float-end bg-danger text-white">à droite sur toutes les largeurs d'écran</div>
+                <br>
+                <div class="float-sm-end bg-dark text-white">à droite à partir de la taille sm</div>
+                <br>
+                <div class="float-md-end bg-dark text-white">à droite à partir de la taille ms</div>
+                <br>
+                <div class="float-lg-end bg-dark text-white">à droite à partir de la taille ls</div>
+                <br>
+                <div class="float-xl-end bg-dark text-white">à droite à partir de la taille xl</div>
+                <br>
+            </div>
+        </div>
+    </div>
+    <div class="accordion-item">
+        <h2 class="accordion-header">
+            <button aria-expanded="false" class="accordion-button collapsed" data-bs-target="#bordure"
+                    data-bs-toggle="collapse" type="button">
+                Les bordures
+            </button>
+        </h2>
+        <div class="accordion-collapse collapse" data-bs-parent="#element" id="bordure">
+            <div class="accordion-body ">
+                <h5>les bordures</h5>
+                <div class="d-flex justify-content-between flex-wrap">
+                    <div class="d-inline-block border border-dark" style="width:110px; height:60px">border</div>
+                    <div class="d-inline-block border-left border-dark" style="width:110px; height:60px">-left</div>
+                    <div class="d-inline-block border-top border-dark" style="width:110px; height:60px">-top</div>
+                    <div class="d-inline-block border-right border-dark" style="width:110px; height:60px">-right
+                    </div>
+                    <div class="d-inline-block border-bottom border-dark" style="width:110px; height:60px">-bottom
+                    </div>
+                    <div class="d-inline-block border border-left-0 border-dark" style="width:110px; height:60px">
+                        -left-0
+                    </div>
+                    <div class="d-inline-block border border-top-0 border-dark" style="width:110px; height:60px">
+                        -top-0
+                    </div>
+                    <div class="d-inline-block border border-right-0 border-dark" style="width:110px; height:60px">
+                        -right-0
+                    </div>
+                    <div class="d-inline-block border border-bottom-0 border-dark" style="width:110px; height:60px">
+                        -bottom-0
+                    </div>
+                </div>
+                <h5>les couleurs</h5>
+                <div class="d-flex justify-content-between flex-wrap">
+                    <div class="d-inline-block border border-primary" style="width:110px; height:60px"></div>
+                    <div class="d-inline-block border border-secondary" style="width:110px; height:60px"></div>
+                    <div class="d-inline-block border border-success" style="width:110px; height:60px"></div>
+                    <div class="d-inline-block border border-danger" style="width:110px; height:60px"></div>
+                    <div class="d-inline-block border border-warning" style="width:110px; height:60px"></div>
+                    <div class="d-inline-block border border-info" style="width:110px; height:60px"></div>
+                    <div class="d-inline-block border border-light" style="width:110px; height:60px"></div>
+                    <div class="d-inline-block border border-dark" style="width:110px; height:60px"></div>
+                    <div class="d-inline-block border border-white" style="width:110px; height:60px"></div>
+                </div>
+
+                <h5>les arrondis</h5>
+                <div class="d-flex justify-content-between flex-wrap">
+                    <div class="d-inline-block border rounded border-dark" style="width:110px; height:60px">rounded
+                    </div>
+                    <div class="d-inline-block border rounded-left border-dark" style="width:110px; height:60px">
+                        -left
+                    </div>
+                    <div class="d-inline-block border rounded-top border-dark" style="width:110px; height:60px">-top
+                    </div>
+                    <div class="d-inline-block border rounded-right border-dark" style="width:110px; height:60px">
+                        -right
+                    </div>
+                    <div class="d-inline-block border rounded-bottom border-dark" style="width:110px; height:60px">
+                        -bottom
+                    </div>
+                    <div class="d-inline-block border rounded-0 border-dark" style="width:110px; height:60px">-0
+                    </div>
+                    <div class="d-inline-block border rounded-circle border-dark" style="width:110px; height:60px">
+                        circle
+                    </div>
+                    <br><br>
+                    <div class="d-inline-block border border-dark" style="width:110px; height:60px"></div>
+                    <div class="d-inline-block border rounded border-danger" style="width:110px; height:60px"></div>
+                    <div class="d-inline-block border rounded-circle border-dark"
+                         style="width:110px; height:60px"></div>
+                </div>
+                <div class="d-inline-block w-25 p-3" style="background-color: #eee;">Width 25%</div>
+                <div class="w-50 p-3" style="background-color: #eee;">Width 50%</div>
+                <div class="w-75 p-3" style="background-color: #eee;">Width 75%</div>
+                <div class="w-100 p-3" style="background-color: #eee;">Width 100%</div>
+            </div>
+        </div>
+    </div>
+    <div class="accordion-item">
+        <h2 class="accordion-header">
+            <button aria-controls="carte" aria-expanded="false" class="accordion-button collapsed"
+                    data-bs-target="#carte" data-bs-toggle="collapse" type="button">
+                Les cartes (class ='card')
+            </button>
+        </h2>
+        <div class="accordion-collapse collapse" data-bs-parent="#element" id="carte">
+            <div class="accordion-body">
+                <a href="//getbootstrap.com/docs/5.0/components/card/" target="_blank">Documentation</a>
+
+                <h5>une Carte de largeur 18rem</h5>
+                <div class="card" style="width: 18rem;">
+                    <img alt="Card image cap" class="card-img-top" src="bootstrap.jpg">
+                    <div class="card-header">Titre</div>
+                    <div class="card-body">Contenu</div>
+                </div>
+
+                <h5>Plusieurs cartes class="card-group" </h5>
+                <div class="card-group">
+                    <div class="card">
+                        <img alt="Card image cap" class="card-img-top" src="bootstrap.jpg">
+                        <div class="card-header">Titre</div>
+                        <div class="card-body">Contenu</div>
+                    </div>
+                    <div class="card">
+                        <img alt="Card image cap" class="card-img-top" src="bootstrap.jpg">
+                        <div class="card-header">Titre</div>
+                        <div class="card-body">Contenu</div>
+                    </div>
+                    <div class="card">
+                        <img alt="Card image cap" class="card-img-top" src="bootstrap.jpg">
+                        <div class="card-header">Titre</div>
+                        <div class="card-body">Contenu</div>
+                    </div>
+                    <div class="card">
+                        <img alt="Card image cap" class="card-img-top" src="bootstrap.jpg">
+                        <div class="card-header">Titre</div>
+                        <div class="card-body">Contenu</div>
+                    </div>
+                </div>
+
+                Les classes permettant d'afficher plusieurs cartes sur la même ligne ont été supprimées : card-deck
+                card-column
+                <br> il faut utiliser la grille
+                <h5>Plusieurs cartes class="col-auto"" </h5>
+                <div class="row">
+                    <div class="col-auto">
+                        <div class="card">
+                            <img alt="Card image cap" class="card-img-top" src="bootstrap.jpg">
+                            <div class="card-header">Titre</div>
+                            <div class="card-body">Contenu</div>
+                        </div>
+                    </div>
+                    <div class="col-auto">
+                        <div class="card">
+                            <img alt="Card image cap" class="card-img-top" src="bootstrap.jpg">
+                            <div class="card-header">Titre</div>
+                            <div class="card-body">Contenu</div>
+                        </div>
+                    </div>
+                    <div class="col-auto">
+                        <div class="card">
+                            <img alt="Card image cap" class="card-img-top" src="bootstrap.jpg">
+                            <div class="card-header">Titre</div>
+                            <div class="card-body">Contenu</div>
+                        </div>
+                    </div>
+                    <div class="col-auto">
+                        <div class="card">
+                            <img alt="Card image cap" class="card-img-top" src="bootstrap.jpg">
+                            <div class="card-header">Titre</div>
+                            <div class="card-body">Contenu</div>
+                        </div>
+                    </div>
+                    <div class="col-auto">
+                        <div class="card">
+                            <img alt="Card image cap" class="card-img-top" src="bootstrap.jpg">
+                            <div class="card-header">Titre</div>
+                            <div class="card-body">Contenu</div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="accordion-item">
+        <h2 class="accordion-header">
+            <button aria-controls="infobulle" aria-expanded="false" class="accordion-button collapsed"
+                    data-bs-target="#infobulle" data-bs-toggle="collapse" type="button">
+                Les infobulles : tooltip et pospover
+            </button>
+        </h2>
+        <div class="accordion-collapse collapse" data-bs-parent="#element" id="infobulle">
+            <div class="accordion-body">
+                <a href="//getbootstrap.com/docs/5.0/components/tooltips/" target="_blank">Documentation
+                    tooltips</a>
+                <a href="//getbootstrap.com/docs/5.0/components/popovers/" target="_blank">Documentation
+                    popover</a>
+
+                <h5>tooltip</h5>
+                <button class="btn btn-secondary" data-bs-placement="top" data-bs-toggle="tooltip" title="Infobulle en haut"
+                        type="button">
+                    <i class="bi bi-arrow-up-short"></i>
+                </button>
+                <button class="btn btn-secondary" data-bs-placement="right" data-bs-toggle="tooltip" title="Infobulle à droite"
+                        type="button">
+                    <i class="bi bi-arrow-right-short"></i>
+                </button>
+                <button class="btn btn-secondary" data-bs-placement="bottom" data-bs-toggle="tooltip" title="Infobulle en bas"
+                        type="button">
+                    <i class="bi bi-arrow-down-short"></i>
+                </button>
+                <button class="btn btn-secondary" data-bs-placement="left" data-bs-toggle="tooltip" title="Infobulle à gauche"
+                        type="button">
+                    <i class="bi bi-arrow-left-short"></i>
+                </button>
+                <button class="btn btn-secondary" data-bs-html="true" data-bs-title="<em>Infobulle</em> <u>en</u> <b>HTML</b>" data-bs-toggle="tooltip"
+                        type="button">
+                    <i class="bi bi-question-circle"></i>
+                </button>
+                <h5>popover</h5>
+                <button class="mb-3 btn btn-warning"
+                        data-bs-container="body"
+                        data-bs-content="Type(s) : <strong>Pdf uniquement</strong><br> Taille maximale : <strong>1 Mo</strong>"
+                        data-bs-html="true"
+                        data-bs-original-title="Fichiers autorisés"
+                        data-bs-placement='bottom'
+                        data-bs-toggle="popover"
+                        data-bs-trigger="hover"
+                        id="btnSelection">
+                    <i class="bi bi-cloud-upload px-1"></i>Charger un nouveau document
+                </button>
+            </div>
+        </div>
+    </div>
+    <div class="accordion-item">
+        <h2 class="accordion-header">
+            <button aria-expanded="false" class="accordion-button collapsed" data-bs-target="#menu"
+                    data-bs-toggle="collapse" type="button">
+                Une barre de navigation
+            </button>
+        </h2>
+        <div class="accordion-collapse collapse" data-bs-parent="#element" id="menu">
+            <div class="accordion-body">
+                <a href="//getbootstrap.com/docs/5.0/components/navbar/" target="_blank">Documentation</a>
+                <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                    <a class="navbar-brand" href="#">Navbar</a>
+                    <button aria-controls="maBarre" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler"
+                            data-bs-toggle="collapse" data-target="#maBarre" type="button">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <div class="collapse navbar-collapse" id="maBarre">
+                        <ul class="navbar-nav mr-auto">
+                            <li class="nav-item active">
+                                <a class="nav-link" href="#">Menu 1</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Menu 2</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#"
+                                   id="navbarDropdown" role="button">
+                                    Avec Options
+                                </a>
+                                <ul aria-labelledby="navbarDropdown" class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="#">Option 1</a></li>
+                                    <li><a class="dropdown-item" href="#">Option 2</a></li>
+                                    <li>
+                                        <hr class="dropdown-divider">
+                                    </li>
+                                    <li><a class="dropdown-item" href="#">Option 3</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <form class="d-flex">
+                            <input aria-label="Search" class="form-control mr-sm-2" placeholder="Search"
+                                   type="search">
+                            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                        </form>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <div class="accordion-item">
+        <h2 class="accordion-header">
+            <button aria-controls="icone" aria-expanded="false" class="accordion-button collapsed"
+                    data-bs-target="#icone" data-bs-toggle="collapse" type="button">
+                Icône bootstrap 5
+            </button>
+        </h2>
+        <div class="accordion-collapse collapse" data-bs-parent="#element" id="icone">
+            <div class="accordion-body">
+                <a href="//icons.getbootstrap.com/" target="_blank">Documentation</a>
+                <div class="d-flex justify-content-between wrap">
+                    <i class="bi bi-printer" data-bs-original-title="bi bi-printer" data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-file-earmark-pdf" data-bs-original-title="bi bi-file-earmark-pdf"
+                       data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-trash" data-bs-original-title="bi bi-trashr" data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-file-earmark-excel" data-bs-original-title="bi bi-file-earmark-excel"
+                       data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-reply" data-bs-original-title="bi bi-reply" data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-file-word" data-bs-original-title="bi bi-file-wordr"
+                       data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-plus-square" data-bs-original-title="bi bi-plus-square"
+                       data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-image" data-bs-original-title="bi bi-image" data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-person-plus" data-bs-original-title="bi bi-person-plus"
+                       data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-brush" data-bs-original-title="bi bi-brush" data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-person-dash" data-bs-original-title="bi bi-person-dashr"
+                       data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-exclamation-triangle" data-bs-original-title="bi bi-exclamation-triangler"
+                       data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-info-circle" data-bs-original-title="bi bi-info-circle"
+                       data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-check-circle" data-bs-original-title="bi bi-check-circle"
+                       data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-arrow-90deg-up" data-bs-original-title="bi bi-arrow-90deg-up"
+                       data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-x-circle" data-bs-original-title="bi bi-x-circle" data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-arrow-bar-down" data-bs-original-title="bi bi-arrow-bar-down"
+                       data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-file-plus" data-bs-original-title="bi bi-file-plus"
+                       data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-arrow-bar-left" data-bs-original-title="bi bi-arrow-bar-left"
+                       data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-house" data-bs-original-title="bi bi-house" data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-arrow-bar-right" data-bs-original-title="bi bi-arrow-bar-right"
+                       data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-caret-right" data-bs-original-title="bi bi-caret-right"
+                       data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-camera" data-bs-original-title="bi bi-camera" data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-inbox" data-bs-original-title="bi bi-inbox" data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-cloud-arrow-down" data-bs-original-title="bi bi-cloud-arrow-down"
+                       data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-tools" data-bs-original-title="bi bi-tools" data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-cloud-arrow-up" data-bs-original-title="bi bi-cloud-arrow-up"
+                       data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-star" data-bs-original-title="bi bi-star" data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-envelope" data-bs-original-title="bi bi-envelope" data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-three-dots-vertical" data-bs-original-title="bi bi-three-dots-vertical"
+                       data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-info-circle" data-bs-original-title="bi bi-info-circle"
+                       data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-question-circle" data-bs-original-title="bi bi-question-circle"
+                       data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-arrow-left-short" data-bs-original-title="bi-arrow-left-short"
+                       data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-arrow-right-short" data-bs-original-title="bi bi-arrow-right-short"
+                       data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-arrow-up-short" data-bs-original-title=" bi-arrow-up-short"
+                       data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-arrow-down-short" data-bs-original-title="bi-arrow-down-short"
+                       data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-cloud-download" data-bs-original-title="bi bi-cloud-download"
+                       data-bs-toggle="tooltip"></i>
+                    <i class="bi bi-cloud-upload" data-bs-original-title="bi bi-cloud-upload"
+                       data-bs-toggle="tooltip"></i>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

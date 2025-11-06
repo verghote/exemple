@@ -1,0 +1,51 @@
+<div class="row m-1">
+    <div class="col-sm-7">
+        <!-- Conteneur centré et contraint -->
+        <table id='leTableau' style="margin: auto">
+            <thead>
+            <tr>
+                <th data-champ="nomPrenom" data-type="text" style="width: 350px;">Nom</th>
+                <th data-champ="dateNaissance" data-type="date" style="width:100px;">Né(e) le</th>
+                <th data-champ="option" data-type="text" style="width: 120px;">Option</th>
+                <th data-champ="promotion" data-type="number" style="width: 150px;">Promotion</th>
+            </tr>
+            </thead>
+            <tbody id="lesLignes"></tbody>
+        </table>
+    </div>
+    <div class="col-sm-5">
+        <pre><code>
+&lt;thead&gt;
+    &lt;tr&gt;
+        &lt;th data-champ="nomPrenom" data-type="text" style="width: 350px;"&gt;Nom&lt;/th&gt;
+        &lt;th data-champ="dateNaissance" data-type="date" style="width:100px;"&gt;Né(e) le&lt;/th&gt;
+        &lt;th data-champ="option" data-type="text" style="width: 120px;"&gt;Option&lt;/th&gt;
+        &lt;th data-champ="promotion" data-type="number" style="width: 150px;"&gt;Promotion&lt;/th&gt;
+    &lt;/tr&gt;
+&lt;/thead&gt;
+</code></pre>
+        <pre><code>import {activerTri } from "/composant/fonction/tableau.js";
+
+        /* global data *
+const lesLignes = document.getElementById('lesLignes');
+
+function afficher() {
+    lesLignes.innerHTML = '';
+    for (const element of data) {
+        const tr = lesLignes.insertRow();
+        tr.insertCell().innerText = element.nomPrenom;
+        tr.insertCell().innerText = element.dateNaissance;
+        tr.insertCell().innerText = element.option;
+        tr.insertCell().innerText = element.promotion;
+    }
+}
+
+activerTri({
+    idTable: "leTableau",
+    getData: () => data,
+    afficher: afficher,
+    triInitial : {colonne : 'promotion', sens : 'asc'}
+});
+afficher();</code></pre>
+    </div>
+</div>

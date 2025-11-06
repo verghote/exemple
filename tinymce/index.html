@@ -1,0 +1,39 @@
+    <textarea id='contenu'></textarea>
+    <div class="d-flex justify-content-evenly mt-3">
+        <button id='btnModifier' class="btn btn-sm btn-outline-danger">🖉 Modifier</button>
+    </div>
+<pre>// -----------------------------------------------------------------------------------
+// Procédures évènementielles
+// -----------------------------------------------------------------------------------
+
+btnModifier.onclick = () => {
+    console.log("Valeur envoyée au serveur" + tinymce.get('contenu').getContent());
+    afficherToast("Opération simulée avec succès");
+}
+
+// -----------------------------------------------------------------------------------
+// Programme principal
+// -----------------------------------------------------------------------------------
+
+// Initialisation de TinyMCE
+tinymce.init({
+    license_key: 'gpl',
+    selector: '#contenu',
+    menubar: false,
+    plugins: 'link lists table  code autoresize',
+    toolbar: [
+        'undo redo | styles | bold italic underline | forecolor backcolor | fontsizeselect | link | bullist numlist outdent indent| table | code'
+    ],
+    fontsize_formats: '8pt 10pt 12pt 14pt 18pt 24pt 36pt',
+    autoresize_min_height: 200,
+    autoresize_max_height: 400,
+    setup: function (editor) {
+        editor.on('init', function () {
+            editor.setContent(data);
+        });
+        editor.on('change', function () {
+            contenu.value = editor.getContent();
+        });
+    },
+
+});</pre>

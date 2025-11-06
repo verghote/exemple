@@ -1,0 +1,189 @@
+
+<div class="d-flex justify-content-between mt-3">
+    <p class="mt-3 ">
+        Mettre en majuscule la première lettre de chaque mot d'une phrase en supprimant les espaces superflus et en
+        retirant les accents
+    </p>
+    <button id='btnUcWord' class="btn btn-sm btn-danger my-auto">Lancer le test</button>
+</div>
+<div class='table-responsive'>
+    <table class='table'>
+        <tr>
+            <td class='col-4'>
+                <label for="phrase" class="col-form-label">Phrase à mettre en forme</label>
+            </td>
+            <td class='col'>
+                <input id="phrase" type="text" >
+            </td>
+        </tr>
+        <tr>
+            <td class='col-4'>
+                <label for="phraseF" class="col-form-label">Mise en forme par les fonctions de la bibliothèque </label>
+            </td>
+            <td class='col'>
+                <input id="phraseF" type="text"  disabled>
+            </td>
+        </tr>
+
+    </table>
+</div>
+<pre class='border m-3 p-3 text-danger'>
+    phraseF.value = ucWord(phrase.value.trim());
+</pre>
+
+
+<div class="d-flex justify-content-between mt-3">
+    <p class="mt-3 ">
+        Mettre au format monétaire
+    </p>
+    <button id='btnFormat' class="btn btn-sm btn-danger my-auto">Lancer le test</button>
+</div>
+<div style="display: flex; justify-content: center;">
+    <div class='table-responsive'>
+        <table class="table">
+            <tr>
+                <td>
+                    <label for="valeur" class="col-form-label">valeur</label>
+                </td>
+                <td>
+                    <input id="valeur" type="text"  required pattern="^-?\d*\.?\d*$">
+                </td>
+                <td>
+                    Affichage avec la virgule point comme séparateur décimal
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="valeurE" class="col-form-label">En euro</label>
+                </td>
+                <td>
+                    <input id="valeurE" type="text"  disabled>
+                </td>
+                <td>
+                    <input id="valeurES" type="text"  disabled>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="valeurP" class="col-form-label">En pourcentage</label>
+                </td>
+                <td>
+                    <input id="valeurP" type="text"  disabled>
+                </td>
+                <td>
+                    <input id="valeurPS" type="text"  disabled>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="valeurD" class="col-form-label">Avec 3 décimales</label>
+                </td>
+                <td>
+                    <input id="valeurD" type="text"  disabled>
+                </td>
+                <td>
+                    <input id="valeurDS" type="text"  disabled>
+                </td>
+
+            </tr>
+        </table>
+    </div>
+</div>
+<pre class='border m-3 p-3 text-danger'>// -----------------------------------------------------------------------------------
+// Procédures évènementielles
+// -----------------------------------------------------------------------------------
+
+btnUcWord.onclick = word;
+
+btnFormat.onclick = () => {
+    if (valeur.checkValidity()) {
+        const v = parseFloat(valeur.value);
+
+        console.log(v.toLocaleString('fr-FR', {
+            style: 'percent',
+            minimumFractionDigits: 3,
+            maximumFractionDigits: 3
+        }));
+
+        valeur.style.borderColor = '';
+
+        valeurE.value  = formater(v);
+        valeurP.value  = formater(v, { format: '%' });
+        valeurD.value  = formater(v, { format: '', decimale: 3 });
+
+        valeurES.value = formater(v, { separateur: ',' });
+        valeurPS.value = formater(v, { format: '%', separateur: ',' });
+        valeurDS.value = formater(v, { format: '', decimale: 3, separateur: ',' });
+
+    } else {
+        console.log(valeur.validationMessage);
+        valeur.style.borderColor = 'red';
+    }
+};
+
+btnConversion.onclick = index;
+
+// -----------------------------------------------------------------------------------
+// Fonctions de traitement
+// -----------------------------------------------------------------------------------
+
+
+/**
+ * Met en majuscule la première lettre de chaque mot de la phrase
+ */
+function word() {
+    phraseF.value = ucWord(phrase.value.trim());
+}
+
+/**
+ * Formate la valeur saisie en octets
+ */
+function index() {
+    res.value = conversionOctet(parseInt(octet.value), unite.value);
+}
+
+</pre>
+
+
+<div class="d-flex justify-content-between mt-3">
+    <p class="mt-3 ">
+        Convertir des octets en Ko, Mo, ou Go
+    </p>
+    <button id='btnConversion' class="btn btn-sm btn-danger my-auto">Lancer le test</button>
+</div>
+<div style="display: flex; justify-content: center;">
+    <div class='table-responsive'>
+        <table class="table">
+            <tr>
+                <td>
+                    <label for="octet" class="col-form-label">Convertir</label>
+                </td>
+                <td>
+                    <input id="octet" type="text"  pattern="^[0-9]*$">
+                </td>
+            </tr>
+            <tr>
+                <td>En</td>
+                <td>
+                    <label for="unite" class="visually-hidden">Unité</label>
+                    <select id="unite">
+                        <option value="Ko">Ko</option>
+                        <option value="Mo">Mo</option>
+                        <option value="Go">Go</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>donne</td>
+                <td>
+                    <label for="res" class="visually-hidden">donne</label>
+                    <input id="res"  type="text" disabled>
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+<pre class='border m-3 p-3 text-danger'>res.value = conversionOctet(octet.value, unite.value);</pre>
+
+

@@ -1,0 +1,58 @@
+<table>
+    <thead>
+    <tr>
+        <th>Nom prénom</th>
+        <th>Email</th>
+    </tr>
+    </thead>
+    <tbody id="lesLignes"></tbody>
+</table>
+
+<pre>
+// -----------------------------------------------------------------------------------
+// Import des fonctions nécessaires
+// -----------------------------------------------------------------------------------
+
+import {verifier, creerInputTexte} from '/composant/fonction/formulaire.js';
+import {afficherToast} from "/composant/fonction/afficher.js";
+
+// -----------------------------------------------------------------------------------
+// Déclaration des variables globales
+// -----------------------------------------------------------------------------------
+
+/* global lesEmails */
+
+let lesLignes = document.getElementById('lesLignes');
+
+// -----------------------------------------------------------------------------------
+// Programme principal
+// -----------------------------------------------------------------------------------
+
+// génération des lignes du tableau
+lesLignes.innerHTML = '';
+for (const etudiant of lesEmails) {
+
+    const tr = lesLignes.insertRow();
+
+    // colonne nom non modifiable
+    tr.insertCell().innerText = etudiant.nomPrenom;
+
+    // colonne email modifiable
+    const tdEmail= document.createElement('td');
+    const inputEmail= creerInputTexte();
+    inputEmail.style.width = '600px';
+    inputEmail.value = etudiant.email;
+    // expression régulière pour validation email
+    // en JavaScript, il faut échapper les \ avec un autre \
+    inputEmail.pattern = "^[0-9a-zA-Z]([\\-_\\.]?[0-9a-zA-Z])*@[0-9a-zA-Z]([\\-_\\.]?[0-9a-zA-Z])*[\\.][a-zA-Z]{2,4}$"
+
+    inputEmail.addEventListener('change', function () {
+        if (verifier(this)) {
+            afficherToast("Modification acceptée");
+        }
+    });
+    tdEmail.appendChild(inputEmail);
+    tr.appendChild(tdEmail);
+}
+</pre>
+

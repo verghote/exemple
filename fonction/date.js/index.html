@@ -1,0 +1,93 @@
+<div class="d-flex justify-content-between mt-3">
+    <p class="mt-3 ">
+        Conversion d'une chaine de format jj/mm/aaaa au format aaaa-mm-jj
+    </p>
+    <button id='btnEncoder' class="btn btn-sm btn-danger my-auto">Lancer le test</button>
+</div>
+
+<pre class='border m-3 p-3 text-danger'>dateFr.value = "02/10/2025";
+dateMySQL.value = encoderDate(dateFr);</pre>
+
+<table style="margin: auto">
+    <tr>
+        <td>
+            <label for="dateFr" class="col-form-label">Date Fr</label>
+        </td>
+        <td>
+            <input id="dateFr" disabled type="text" >
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <label for="dateMySQL" class="col-form-label">Date MySQL</label>
+        </td>
+        <td>
+            <input id="dateMySQL"  type="text" disabled>
+        </td>
+    </tr>
+</table>
+
+
+<div class="d-flex justify-content-between mt-3">
+    <p class="mt-3 ">
+        Conversion d'une chaine de format aaaa-mm-jj au format jj/mm/aaaa
+    </p>
+    <button id='btnDecoder' class="btn btn-sm btn-danger my-auto">Lancer le test</button>
+</div>
+
+<pre class='border m-3 p-3 text-danger'>dateMySQL.value = "2025-09-01";
+dateFr2.value = decoderDate(dateMySQL2.value);</pre>
+
+<table style="margin: auto">
+    <tr>
+        <td>
+            <label for="dateFr2" class="col-form-label">Date Fr</label>
+        </td>
+        <td>
+            <input id="dateFr2" disabled type="text" >
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <label for="dateMySQL2" class="col-form-label">Date MySQL</label>
+        </td>
+        <td>
+            <input id="dateMySQL2"  type="text" disabled>
+        </td>
+    </tr>
+</table>
+
+<pre class='border m-3 p-3 text-danger'>// -----------------------------------------------------------------------------------
+// Procédures évènementielles
+// -----------------------------------------------------------------------------------
+
+btnEncoder.onclick = encoder;
+btnDecoder.onclick = decoder;
+
+
+// -----------------------------------------------------------------------------------
+// Fonctions de traitement
+// -----------------------------------------------------------------------------------
+
+/**
+ * Encode la date au format MySQL
+ */
+function encoder() {
+    dateFr.value = '02/10/2025';
+    dateMySQL.value = encoderDate(dateFr.value);
+}
+
+/**
+ * Decode la date du format MySQL au format français
+ */
+function decoder() {
+    dateMySQL2.value = '2025-09-01';
+    dateFr2.value = decoderDate(dateMySQL2.value);
+}
+
+
+</pre>
+
+
+
+

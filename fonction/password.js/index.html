@@ -1,0 +1,61 @@
+<div class="row">
+    <div class="col-6">
+        <pre><code>
+import { configurerFormulaire, donneesValides} from "/composant/fonction/formulaire.js";
+import {appelAjax } from "/composant/fonction/ajax.js";
+import {afficherToast} from "/composant/fonction/afficher";
+import {initPasswordToggles} from "/composant/fonction/password.js";
+
+const login = document.getElementById('login');
+const password = document.getElementById('password');
+const btnValider = document.getElementById('btnValider');
+const msg = document.getElementById('msg');
+
+// la touche entrée permet de valider le formulaire
+document.addEventListener('keydown', function (event) {
+    if (event.key === 'Enter') {
+        if (donneesValides()) {
+            connecter();
+        }
+    }
+});
+
+btnValider.onclick = () => {
+    if (donneesValides()) {
+        connecter();
+    }
+};
+
+function connecter() {
+    // Vider la zone de message utilisateur
+    msg.innerHTML = "";
+    appelAjax({
+        url: 'ajax/connecter.php',
+        data: {
+            login: login.value,
+            password: password.value,
+        },
+        success: (data) => {
+            afficherToast(data.success)
+        }
+    });
+}
+
+configurerFormulaire();
+initPasswordToggles();
+login.focus();
+        </code></pre>
+    </div>
+    <div class="col-6">
+        <div class="formulaire" style="max-width: 24rem">
+            <div id="msg"></div>
+            <label for="login" class="obligatoire">Login</label>
+            <input id="login" type="text" required autocomplete="off">
+            <label for="password" class="obligatoire">Mot de passe </label>
+            <input id="password" type="password" required>
+            <div class="text-center mt-3 pl-3 pr-3">
+                <button id='btnValider' class="btn btn-primary w-100 mb-3">Connexion</button>
+            </div>
+        </div>
+    </div>
+</div>

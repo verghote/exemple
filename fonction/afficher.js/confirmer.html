@@ -1,0 +1,36 @@
+<pre class='border m-3 p-3 text-danger'>
+    import {genererMessage, confirmer} from '/composant/fonction/afficher.js';
+</pre>
+<nav class="d-flex justify-content-between mt-3">
+    <p class="mt-3 ">
+        Confirmer la demande d'exécution d'une action transmise sous la forme d'une expression lambda
+    </p>
+    <button id='btnConfirmer' class="btn btn-sm btn-danger my-auto">Lancer le test</button>
+</nav>
+
+<div id="msg" class="my-3"></div>
+
+
+<pre class='border m-3 p-3 text-danger'>
+   btnConfirmer.onclick = () => confirmer(() => msg.innerHTML =  genererMessage('Expression lambda exécutée', 'vert'));
+</pre>
+
+<nav class="d-flex justify-content-between mt-3">
+    <p class="mt-3 ">
+        Confirmer la demande d'exécution d'une action transmise sous la forme d'un pointeur de fonction
+    </p>
+    <button id='btnConfirmer2' class="btn btn-sm btn-danger my-auto">Lancer le test</button>
+</nav>
+
+<div id="msg2" class="my-3"></div>
+
+<pre class='border m-3 p-3 text-danger'>confirmer(maFonction);
+btnConfirmer2.onclick = () => confirmer(maFonction);
+
+function maFonction() {
+    msg2.innerHTML = genererMessage('Fonction maFonction exécutée', 'orange');
+}
+</pre>
+
+
+

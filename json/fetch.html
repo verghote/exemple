@@ -1,0 +1,39 @@
+<div class="row">
+    <div class="col-6">
+        <pre><code>// chargement des données depuis le fichier etudiant.json
+async function getLesEtudiant() {
+    // Récupération des étudiants depuis le fichier JSON
+    const reponse = await fetch('/data/etudiant.json');
+    return await reponse.json();
+}
+
+// affichage des données
+function afficher(data) {
+    let lesLignes = document.getElementById('lesLignes');
+    for (const etudiant of data) {
+        const tr = lesLignes.insertRow();
+        tr.insertCell().innerText = etudiant.nom;
+        tr.insertCell().innerText = etudiant.prenom;
+
+        const td = document.createElement('td');
+        td.classList.add('text-center');
+        // td.style.textAlign = 'center';
+        td.innerText = etudiant.option;
+        tr.appendChild(td);
+    }
+}
+
+afficher(await getLesEtudiant());</code></pre>
+    </div>
+    <div class="col-6">
+        <table class='table'>
+            <thead>
+            <tr>
+                <th class='col-5'>Nom</th>
+                <th class='col-5'>Prénom</th>
+            </tr>
+            </thead>
+            <tbody id="lesLignes"></tbody>
+        </table>
+    </div>
+</div>

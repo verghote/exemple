@@ -1,0 +1,34 @@
+<div class="row m-1">
+    <div class="col-6">
+        <pre>
+import {afficherToast, corriger} from '/composant/fonction/afficher.js';
+
+const btnModifier = document.getElementById('btnModifier');
+const email = document.getElementById('email');
+
+btnModifier.onclick = () => {
+    if (email.checkValidity()) {
+        // sauvegarde de l'email avant modification
+        email.dataset.old = email.value;
+        afficherToast("Modification prise en compte", "info");
+    } else {
+        // restauration de l'email
+        corriger(email, email.validationMessage , email.dataset.old);
+    }
+}
+
+// alimentation de l'email avec une valeur par défaut
+email.value = "guy.verghote@saint-remi.net";
+email.dataset.old = email.value;     </pre>
+    </div>
+    <div class="col-6 ">
+        <label for="email" class="obligatoire col-form-label">Adresse e-mail</label>
+        <input type="text"
+               id="email"
+               pattern="^[0-9a-zA-Z]([\-_\.]?[0-9a-zA-Z])*@[0-9a-zA-Z]([\-_\.]?[0-9a-zA-Z])*[\.][a-zA-Z]{2,4}$"
+               required
+
+               autocomplete="off">
+        <button id='btnModifier' class="btn btn-sm btn-outline-danger m-1">🖉 Modifier</button>
+    </div>
+</div>

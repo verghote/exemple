@@ -1,0 +1,134 @@
+<div class="formulaire">
+    <label for="email">Adresse mail</label>
+    <input id="email"
+           type="email"
+
+           required
+           autocomplete="off">
+
+    <label for="dateNaissance">Date de naissance</label>
+    <input id="dateNaissance" type="date" required>
+
+    <div class="champ">
+        <label for="password"
+               data-bs-toggle="popover"
+               data-bs-trigger="hover"
+               data-bs-html="true"
+               data-bs-placement="right"
+               data-bs-content="<div class='contenu-popover'>
+                Au moins 5 caractères<br>
+                Au moins une lettre minuscule<br>
+                Au moins une lettre majuscule<br>
+                Au moins un chiffre<br>
+                Au moins un symbole parmi :<br>
+                ( ) = + ? ! ' $ . % ; : @ & * # / - _
+           </div>">
+            Mot de passe
+        </label>
+        <input type="password" id="password"
+               required
+               pattern="(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*[\(\)\=\?\!'$.%;:@&*#\/\-_]).{8,}"
+
+               autocomplete="off">
+    </div>
+
+    <div class="champ">
+        <label for="confirmation">Confirmation du mot de passe</label>
+        <input type="password" id="confirmation"
+               required
+               >
+    </div>
+
+    <div style="display: flex; justify-content: space-evenly; gap: 10px; margin-top: 10px;">
+        <button id="btnAjouter" class="btn btn-sm btn-danger">S'inscrire</button>
+        <button id="btnAnnuler" class="btn btn-sm btn-primary">Annuler la saisie</button>
+        <button id="btnEffacer" class="btn btn-sm btn-secondary">Effacer les erreurs</button>
+    </div>
+</div>
+
+<pre>
+// -----------------------------------------------------------------------------------
+// Import des fonctions nécessaires
+// -----------------------------------------------------------------------------------
+
+import { configurerFormulaire, configurerDate, donneesValides, effacerLesChamps, effacerLesErreurs} from "/composant/fonction/formulaire.js";
+import {initPasswordToggles} from "/composant/fonction/password.js";
+import {messageBox} from "/composant/fonction/afficher.js";
+
+// -----------------------------------------------------------------------------------
+// Déclaration des variables globales
+// -----------------------------------------------------------------------------------
+
+const btnAjouter = document.getElementById('btnAjouter');
+const btnAnnuler = document.getElementById('btnAnnuler');
+const btnEffacer = document.getElementById('btnEffacer');
+const email = document.getElementById('email');
+const password = document.getElementById('password');
+const confirmation = document.getElementById('confirmation');
+const dateNaissance = document.getElementById('dateNaissance');
+
+// -----------------------------------------------------------------------------------
+// Procédures évènementielles
+// -----------------------------------------------------------------------------------
+
+btnAjouter.onclick = ajouter;
+btnAnnuler.onclick = () => effacerLesChamps();
+btnEffacer.onclick = () => effacerLesErreurs();
+
+// -----------------------------------------------------------------------------------
+// Fonctions de traitement
+// -----------------------------------------------------------------------------------
+function ajouter() {
+    let erreur = false;
+    // contrôle des champs de saisie
+    if (!donneesValides()) {
+        erreur = true;
+    }
+    // contrôle de la confirmation du mot de passe
+    if (password.value !== confirmation.value) {
+        afficherSousLeChamp('confirmation', "La confirmation n'est pas identique ");
+        erreur = true;
+    }
+    // si aucune erreur
+    if (!erreur) {
+        messageBox('Données acceptées');
+    }
+}
+
+// -----------------------------------------------------------------------------------
+// Programme principal
+// -----------------------------------------------------------------------------------
+
+// Mise en place des balises div de class 'messageErreur' sur chaque champ de saisie
+// true : lancer le contrôle après la saisie de chaque caractère
+configurerFormulaire();
+
+// initialisation des champs de type password afin de pouvoir les afficher ou les masquer
+initPasswordToggles();
+
+// Mise en place des données de test
+email.value = 'guy.verghote@saint-remi.net';
+password.value = 'test!000';
+confirmation.value = 'Test!001';
+// si la date n'est pas valide, elle ne sera pas prise en compte
+dateNaissance.value = '2001-02-28';
+
+// La date de naissance doit correspondre à un âge compris entre 17 et 25 ans au premier janvier
+
+// récupérer l'année en cours
+const dateCourante = new Date();
+const anneeEnCours = dateCourante.getFullYear();
+// construire la date maximale (17 ans avant le 1er janvier de l'année en cours)
+const dateMax = (anneeEnCours - 17) + '-01-01';
+// construire la date minimale (25 ans avant le 1er janvier de l'année en cours)
+const dateMin = (anneeEnCours - 25) + '-01-01';
+
+configurerDate(dateNaissance, {
+    min:dateMin,
+    max: dateMax,
+    valeur: dateMax
+});
+
+// activer toutes les infobulles 'popover' de l'interface
+document.querySelectorAll('[data-bs-toggle="popover"]').forEach(element => new bootstrap.Popover(element));
+</pre>

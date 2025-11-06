@@ -1,0 +1,14 @@
+[
+  {
+    "label": "Option 1",
+    "href": "/menuhorizontal/menu1/"
+  },
+  {
+    "label": "Option 2",
+    "href": "/menuhorizontal/menu2/"
+  },
+  {
+    "label": "Option 3",
+    "href": "/menuhorizontal/menu3/"
+  }
+]
